@@ -1,0 +1,19 @@
+# Credenciales: nunca al repositorio
+.env
+*.env
+*.pem
+.aws/
+credentials
+
+# PDFs originales (decisión de Fase 0; quitar esta línea si se suben)
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
