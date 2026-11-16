@@ -52,8 +52,31 @@ Prompt corto, `temperature=0`, `seed=42`, 60 tokens máx.:
 | `bge-m3` (1 frase) | ~2.7 s | — |
 
 Con estas velocidades, un RAG con ~3 000 tokens de contexto y la evaluación RAGAS (muchas llamadas
-largas al LLM evaluador) serían muy lentos. Se evalúan alternativas en la revisión de la Fase 1
-(modelos más pequeños, o Ollama en el PC del autor con GPU); la decisión se registrará aquí.
+largas al LLM evaluador) serían muy lentos en la EC2.
+
+## PC del autor (Ollama local con GPU) — medido 2026-11-16
+
+Equipo: Intel Core i5-11400H (6 núcleos / 12 hilos), 16 GB RAM, NVIDIA GeForce RTX 3050 Laptop (4 GB VRAM),
+Windows 11, Ollama 0.40.16. Script: `metricas/bench_ollama.ps1` (prompt de ~1 300 tokens, 80 tokens máx.,
+`temperature=0`, `seed=42`; segunda llamada, con el modelo ya cargado).
+
+| Modelo | Dónde | Generación (tokens/s) |
+|---|---|---|
+| `llama3.2:3b` | PC, solo CPU (6 núcleos) | 12.3 |
+| `llama3.2:3b` | PC, GPU | 39.1 |
+| `qwen2.5:3b-instruct` | PC, GPU (cabe entero en 4 GB) | 62.8 |
+| `qwen2.5:7b-instruct` | PC, GPU parcial (45 % GPU / 55 % CPU) | 8.3 |
+| `qwen2.5:7b-instruct` | EC2 r5.large (2 vCPU) | 1.7 |
+
+(La columna de velocidad de procesamiento del prompt no se reporta: la segunda llamada reutiliza la caché
+del prompt y el valor no es comparable.)
+
+Conclusión: la GPU local es ~3× más rápida que la CPU del mismo PC y ~5× (7B) a ~35× (3B) más rápida que la EC2.
+Un modelo de 3B cabe completo en la VRAM; uno de 7B no y se reparte entre GPU y CPU.
+
+Decisión de arquitectura: extracción (Docling) e índice en la EC2; generación, evaluación y demo con Ollama
+en el PC del autor. En el PC, Ollama escucha en 127.0.0.1:11434; el Ollama de la EC2 se ve por túnel en el 11435.
+La elección final de generador y evaluador se registra tras la prueba de 2 casos de la Fase 6.
 
 ## Historial de decisiones
 
