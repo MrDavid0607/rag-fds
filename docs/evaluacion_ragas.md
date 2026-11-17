@@ -1,7 +1,50 @@
-# Evaluación con RAGAS (Fase 6) — preparación y prueba del evaluador
+# Evaluación con RAGAS (Fase 6)
 
-Estado: **evaluador probado con 2 casos piloto; la evaluación completa NO se ha corrido** porque las 12 preguntas aún no están
-verificadas por el autor (`"verificada": true` en `eval/preguntas.json`). Sin esa marca, `evaluacion.py generar` se niega a ejecutar.
+Estado: **evaluación completa corrida** (2026-11-16/17) sobre las 10 preguntas respondibles, en las dos configuraciones, con las 12 preguntas
+verificadas por el autor (declarado en el chat; marcadas `"verificada": true` en `eval/preguntas.json`). Las puntuaciones de RAGAS orientan la
+comparación y **requieren revisión manual** (Fase 7); no demuestran que una configuración sea mejor en general.
+
+## Resultados (eval/resumen.csv; detalle por pregunta en eval/resultados_topk{3,6}.{csv,json})
+
+| Configuración | Faithfulness (prom.) | Context Precision (prom.) | Context Recall (prom.) | Casos válidos F / CP / CR |
+|---|---|---|---|---|
+| top-k 3 | 0.892 | 1.000 | 0.910 | 10 / 10 / 10 |
+| top-k 6 | 0.867 | 1.000 | 1.000 | 10 / 10 / **9** |
+
+Por pregunta (F = Faithfulness, CP = Context Precision, CR = Context Recall):
+
+| id | tipo | top-k 3 (F · CP · CR) | top-k 6 (F · CP · CR) |
+|---|---|---|---|
+| e01 | directa | 1.00 · 1.00 · 1.00 | 1.00 · 1.00 · 1.00 |
+| e02 | directa | 1.00 · 1.00 · 1.00 | 1.00 · 1.00 · 1.00 |
+| e03 | directa | 1.00 · 1.00 · 1.00 | 1.00 · 1.00 · 1.00 |
+| e04 | directa | 0.50 · 1.00 · 1.00 | 0.50 · 1.00 · 1.00 |
+| e05 | directa | 1.00 · 1.00 · 1.00 | 1.00 · 1.00 · 1.00 |
+| e06 | directa | 1.00 · 1.00 · 1.00 | 1.00 · 1.00 · 1.00 |
+| e07 | comparativa de versiones | 0.75 · 1.00 · 0.60 | 0.50 · 1.00 · 1.00 |
+| e08 | integradora (secc. 2 y 5) | 0.67 · 1.00 · 1.00 | 1.00 · 1.00 · 1.00 |
+| e09 | comparativa de productos | 1.00 · 1.00 · 1.00 | 0.67 · 1.00 · **NaN** |
+| e10 | integradora (secc. 4 y 7) | 1.00 · 1.00 · 0.50 | 1.00 · 1.00 · 1.00 |
+
+### Fallo del evaluador (registrado, no convertido en 0)
+En **e09 con top-k 6**, Context Recall falló dos veces con `RagasOutputParserException: The output parser failed to parse the output including retries`
+(la salida JSON de `llama3.1:8b` no se pudo interpretar; la llamada tardó ~20 min por los reintentos internos). Se reintentó una vez sin cambiar el
+evaluador y volvió a fallar. Queda como `NaN` con su mensaje, por eso Context Recall de top-k 6 se promedia sobre **9 casos válidos**.
+
+### Lectura prudente de los resultados
+- **Context Precision = 1.00 en los 20 casos**: no discrimina. Con el filtro por producto casi todos los fragmentos recuperados son del documento correcto y el evaluador
+  los juzga relevantes; es un "techo", no una prueba de recuperación perfecta.
+- **Context Recall** es mayor con top-k 6 (1.00 contra 0.91), pero el promedio de top-k 6 excluye el caso fallido e09; la diferencia sale de e07 (0.60 → 1.00) y e10 (0.50 → 1.00).
+- **Faithfulness** es algo menor con top-k 6 (0.87 contra 0.89) por e07 (0.75 → 0.50) y e09 (1.00 → 0.67), compensado por e08 (0.67 → 1.00). Con 10 preguntas y un
+  evaluador de 8B, esas diferencias son del orden del ruido; deben revisarse a mano.
+- e04 sale con Faithfulness 0.50 en ambas configuraciones aunque la respuesta parece correcta (7 - <10 % y CAS 13463-67-7): posible artefacto del evaluador, a revisar.
+- Las **2 preguntas sin respuesta** no se puntúan con RAGAS (`eval/sin_respuesta_topk{3,6}.json`): e11 reconoce la falta de evidencia en ambas configuraciones; **e12 (Intergard
+  475HS, producto inexistente) NO la reconoce en ninguna**: responde con primeros auxilios de otro producto. Es un fallo real del sistema que se analiza en la Fase 7 (no se ajustó nada después de ver las preguntas de evaluación).
+
+## Consumo y tiempos
+Ver `metricas/evaluacion_consumo.md`.
+
+## Preparación y prueba del evaluador (antes de la corrida)
 
 ## Configuración registrada (la misma en topk3 y topk6)
 

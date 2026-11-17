@@ -1,0 +1,3 @@
+﻿config,top_k,preguntas,faithfulness_promedio,faithfulness_casos_validos,context_precision_promedio,context_precision_casos_validos,context_recall_promedio,context_recall_casos_validos
+topk3,3,10,0.8917,10,1.0,10,0.91,10
+topk6,6,10,0.8667,10,1.0,10,1.0,9

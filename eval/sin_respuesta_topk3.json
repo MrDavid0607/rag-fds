@@ -1,0 +1,138 @@
+[
+  {
+    "id": "e11",
+    "tipo": "sin_respuesta",
+    "config": "topk3",
+    "top_k": 3,
+    "user_input": "¿Cuál es el rendimiento teórico, en m² por galón, del Acrolatex 50 3508 de Pintuco?",
+    "reference": null,
+    "response": "No hay evidencia suficiente en las FDS disponibles para el rendimiento teórico, en m² por galón, del Acrolatex 50 3508 de Pintuco.",
+    "retrieved_contexts": [
+      "[Pintuco · ACROLATEX 50 3508 · versión 1 · FDS 2022 · Sección 1: Identificación del producto y de la empresa]\nSECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO - 1.1 Identificador SGA del producto: ACROLATEX 50 3508 Otros medios de identificación: No relevante 1.2 Uso recomendado del producto químico y restricciones: Usos pertinentes: Pintura Usos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3 1.3 Datos sobre el proveedor: Pintuco Autopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1 054040 Rionegro - Antioquia - Colombia Tfno.: 57 4 569 81 00 contacto@pintuco.com http://www.pintuco.com 1.4 Número de teléfono para emergencias: CISTEMA SURA Colombia al 018000 51 14 14, fuera de Colombia (0574) 4444578 10015114",
+      "[Pintuco · ACROLATEX 50 3508 · versión 1 · FDS 2022 · Sección 9: Propiedades físicas y químicas]\nSECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD 9.1 Información de propiedades físicas y químicas básicas: Para completar la información ver la ficha técnica/hoja de especificaciones del producto. Aspecto físico: Estado físico a 20 ºC: Líquido Aspecto: Lechoso Color: Olor: - [ ] Blanco Característico Umbral olfativo: No relevante * Volatilidad: Temperatura de ebullición a presión atmosférica: 145 ºC Presión de vapor a 20 ºC: 622 Pa Presión de vapor a 50 ºC: 3297,17 Pa (3,3 kPa) Tasa de evaporación a 20 ºC: No relevante * Caracterización del producto: Densidad a 20 ºC: 1100 kg/m³ Densidad relativa a 20 ºC: 1,1 Viscosidad dinámica a 20 ºC: No relevante * Viscosidad cinemática a 20 ºC: No relevante *",
+      "[Pintuco · ACROLATEX 50 3508 · versión 1 · FDS 2022 · Sección 11: Información toxicológica]\n| Identificación | Toxicidad aguda | Género |\n|---|---|---|---|\n| Estireno | DL50 oral | No relevante |  |\n| CAS: 100-42-5 | DL50 cutánea | No relevante |  |\n|  | CL50 inhalación | 12 mg/L (4 h) | Rata |"
+    ],
+    "fragmentos_meta": [
+      {
+        "doc_id": "fds057-acrolatex-50-3508-pintuco",
+        "producto": "ACROLATEX 50 3508",
+        "pagina_inicio": 1,
+        "pagina_fin": 1,
+        "seccion_num": 1
+      },
+      {
+        "doc_id": "fds057-acrolatex-50-3508-pintuco",
+        "producto": "ACROLATEX 50 3508",
+        "pagina_inicio": 5,
+        "pagina_fin": 5,
+        "seccion_num": 9
+      },
+      {
+        "doc_id": "fds057-acrolatex-50-3508-pintuco",
+        "producto": "ACROLATEX 50 3508",
+        "pagina_inicio": 8,
+        "pagina_fin": 8,
+        "seccion_num": 11
+      }
+    ],
+    "fuentes": [],
+    "citas_invalidas": [],
+    "evidencia_insuficiente": true,
+    "filtros": {
+      "fabricantes": [
+        "Pintuco"
+      ],
+      "anios": [],
+      "secciones_probables": [],
+      "productos": [
+        "ACROLATEX 50 3508"
+      ],
+      "docs": [
+        "fds057-acrolatex-50-3508-pintuco"
+      ],
+      "comparacion": false,
+      "grupos": 1,
+      "notas": [],
+      "variantes_sin_ficha": []
+    },
+    "t_recuperacion_s": 6.658,
+    "t_generacion_s": 18.34,
+    "tokens_por_s": 10.58,
+    "tokens_prompt": 1251,
+    "tokens_generados": 45
+  },
+  {
+    "id": "e12",
+    "tipo": "sin_respuesta",
+    "config": "topk3",
+    "top_k": 3,
+    "user_input": "¿Qué indica la ficha del Intergard 475HS de International sobre los primeros auxilios en caso de inhalación?",
+    "reference": null,
+    "response": "Según la ficha del Intergard 475HS de International [1], en caso de inhalación se debe enjuagar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno.",
+    "retrieved_contexts": [
+      "[AkzoNobel · X International. · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si se sospecha que los vapores continúan presentes, la persona encargada del rescate deberá usar una máscara adecuada o un aparato de respiración autónoma. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno.",
+      "[AkzoNobel · X International. · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. Puede ser peligroso para la persona que proporcione ayuda al dar respiración boca a boca. Procurar atención médica.",
+      "[AkzoNobel · X International. · versión 1 · FDS 2025 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación Contacto con la piel Ingestión : : : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. Puede ser peligroso para la persona que proporcione ayuda al dar respiración boca a boca. Procurar atención médica."
+    ],
+    "fragmentos_meta": [
+      {
+        "doc_id": "fds084-zinc-primer-10844-gris-parte-a-international-aksonobel",
+        "producto": "X International.",
+        "pagina_inicio": 2,
+        "pagina_fin": 2,
+        "seccion_num": 4
+      },
+      {
+        "doc_id": "fds082-acrilica-mantenimiento-13883-blanco-ral9003-brillante-intern",
+        "producto": "X International.",
+        "pagina_inicio": 2,
+        "pagina_fin": 2,
+        "seccion_num": 4
+      },
+      {
+        "doc_id": "fds095-international-aksonobel-sealer-f100-parte-a",
+        "producto": "X International.",
+        "pagina_inicio": 3,
+        "pagina_fin": 3,
+        "seccion_num": 4
+      }
+    ],
+    "fuentes": [
+      "[1] AkzoNobel · X International. · versión 1 · FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf · pág. 2 · sección 4 Primeros auxilios"
+    ],
+    "citas_invalidas": [],
+    "evidencia_insuficiente": false,
+    "filtros": {
+      "fabricantes": [
+        "AkzoNobel"
+      ],
+      "anios": [],
+      "secciones_probables": [
+        4
+      ],
+      "productos": [
+        "International. X",
+        "X International."
+      ],
+      "docs": [
+        "fds082-acrilica-mantenimiento-13883-blanco-ral9003-brillante-intern",
+        "fds083-epoxy-zinc-primer-10056",
+        "fds084-zinc-primer-10844-gris-parte-a-international-aksonobel",
+        "fds085-epoxy-estructuras-gris-parte-a-international-aksonobel",
+        "fds095-international-aksonobel-sealer-f100-parte-a",
+        "fds096-international-aksonobel-sealer-f100-parte-b",
+        "fds098-epoxy-zinc-plus-primer-10073-plus-gris-parte-a-international",
+        "fds099-topcoat-400-26015-aluminio-international-aksonobel"
+      ],
+      "comparacion": false,
+      "grupos": 1,
+      "notas": [],
+      "variantes_sin_ficha": []
+    },
+    "t_recuperacion_s": 6.631,
+    "t_generacion_s": 32.33,
+    "tokens_por_s": 8.75,
+    "tokens_prompt": 1220,
+    "tokens_generados": 157
+  }
+]

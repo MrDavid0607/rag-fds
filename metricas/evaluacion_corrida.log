@@ -1,0 +1,74 @@
+[topk3] e01 ¿Qué densidad a 20 ºC tiene el Acrolatex 50 3508 de Pintuco?
+[topk3] e02 ¿Qué número ONU, designación oficial de transporte y grupo de embalaje se indica
+[topk3] e03 ¿Entre qué temperaturas mínima y máxima debe almacenarse el Esmalte Maestro de B
+[topk3] e04 ¿Qué porcentaje de dióxido de titanio contiene el Sigmadur One Buff 3142 de PPG 
+[topk3] e05 Según la ficha del Vinilo Superlavable Blanco de Pintuland, ¿cómo debe gestionar
+[topk3] e06 ¿Qué guantes de protección recomienda la ficha del Esmalte Metal Master Premium 
+[topk3] e07 Compara la ficha de 2019 y la de 2021 de la Pintura Primera Mano & Acabado de Co
+[topk3] e08 ¿Qué clasificación de líquido inflamable y qué frase de peligro tiene la Pintula
+[topk3] e09 Compara la Pintulaca Rojo Claro 7587 y el Esmalte Top Quality Negro 1772 de Pint
+[topk3] e10 Según la ficha del Vinilo Fino Blanco de Pintuland, ¿qué se recomienda en caso d
+[topk3] e11 ¿Cuál es el rendimiento teórico, en m² por galón, del Acrolatex 50 3508 de Pintu
+[topk3] e12 ¿Qué indica la ficha del Intergard 475HS de International sobre los primeros aux
+Respuestas guardadas en eval\respuestas_topk3.json (12 preguntas, 2 sin respuesta)
+[topk6] e01 ¿Qué densidad a 20 ºC tiene el Acrolatex 50 3508 de Pintuco?
+[topk6] e02 ¿Qué número ONU, designación oficial de transporte y grupo de embalaje se indica
+[topk6] e03 ¿Entre qué temperaturas mínima y máxima debe almacenarse el Esmalte Maestro de B
+[topk6] e04 ¿Qué porcentaje de dióxido de titanio contiene el Sigmadur One Buff 3142 de PPG 
+[topk6] e05 Según la ficha del Vinilo Superlavable Blanco de Pintuland, ¿cómo debe gestionar
+[topk6] e06 ¿Qué guantes de protección recomienda la ficha del Esmalte Metal Master Premium 
+[topk6] e07 Compara la ficha de 2019 y la de 2021 de la Pintura Primera Mano & Acabado de Co
+[topk6] e08 ¿Qué clasificación de líquido inflamable y qué frase de peligro tiene la Pintula
+[topk6] e09 Compara la Pintulaca Rojo Claro 7587 y el Esmalte Top Quality Negro 1772 de Pint
+[topk6] e10 Según la ficha del Vinilo Fino Blanco de Pintuland, ¿qué se recomienda en caso d
+[topk6] e11 ¿Cuál es el rendimiento teórico, en m² por galón, del Acrolatex 50 3508 de Pintu
+[topk6] e12 ¿Qué indica la ficha del Intergard 475HS de International sobre los primeros aux
+Respuestas guardadas en eval\respuestas_topk6.json (12 preguntas, 2 sin respuesta)
+[topk3] puntuando e01 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999666667, 'context_recall': 1.0} {}
+[topk3] puntuando e02 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999666667, 'context_recall': 1.0} {}
+[topk3] puntuando e03 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999666667, 'context_recall': 1.0} {}
+[topk3] puntuando e04 ...
+    {'faithfulness': 0.5, 'context_precision': 0.9999999999666667, 'context_recall': 1.0} {}
+[topk3] puntuando e05 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999666667, 'context_recall': 1.0} {}
+[topk3] puntuando e06 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999666667, 'context_recall': 1.0} {}
+[topk3] puntuando e07 ...
+    {'faithfulness': 0.75, 'context_precision': 0.9999999999666667, 'context_recall': 0.6} {}
+[topk3] puntuando e08 ...
+    {'faithfulness': 0.6666666666666666, 'context_precision': 0.9999999999666667, 'context_recall': 1.0} {}
+[topk3] puntuando e09 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999666667, 'context_recall': 1.0} {}
+[topk3] puntuando e10 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999666667, 'context_recall': 0.5} {}
+Listo (1162 s). Resultados en eval/resultados_topk3.json/.csv
+[topk6] puntuando e01 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999833333, 'context_recall': 1.0} {}
+[topk6] puntuando e02 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999833333, 'context_recall': 1.0} {}
+[topk6] puntuando e03 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999833333, 'context_recall': 1.0} {}
+[topk6] puntuando e04 ...
+    {'faithfulness': 0.5, 'context_precision': 0.9999999999833333, 'context_recall': 1.0} {}
+[topk6] puntuando e05 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999833333, 'context_recall': 1.0} {}
+[topk6] puntuando e06 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999833333, 'context_recall': 1.0} {}
+[topk6] puntuando e07 ...
+    {'faithfulness': 0.5, 'context_precision': 0.9999999999833333, 'context_recall': 1.0} {}
+[topk6] puntuando e08 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999833333, 'context_recall': 1.0} {}
+[topk6] puntuando e09 ...
+    {'faithfulness': 0.6666666666666666, 'context_precision': 0.9999999999833333, 'context_recall': None} {'error_context_recall': 'RagasOutputParserException: The output parser failed to parse the output including retries.'}
+[topk6] puntuando e10 ...
+    {'faithfulness': 1.0, 'context_precision': 0.9999999999833333, 'context_recall': 1.0} {}
+Listo (2174 s). Resultados en eval/resultados_topk6.json/.csv
+{'config': 'topk3', 'top_k': 3, 'preguntas': 10, 'faithfulness_promedio': 0.8917, 'faithfulness_casos_validos': 10, 'context_precision_promedio': 1.0, 'context_precision_casos_validos': 10, 'context_recall_promedio': 0.91, 'context_recall_casos_validos': 10}
+{'config': 'topk6', 'top_k': 6, 'preguntas': 10, 'faithfulness_promedio': 0.8667, 'faithfulness_casos_validos': 10, 'context_precision_promedio': 1.0, 'context_precision_casos_validos': 10, 'context_recall_promedio': 1.0, 'context_recall_casos_validos': 9}
+TIEMPO_GENERACION_MIN: 12.2
+TIEMPO_PUNTUACION_MIN: 55.9
+TIEMPO_TOTAL_MIN: 68.1
+FIN
