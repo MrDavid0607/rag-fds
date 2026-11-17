@@ -1,0 +1,24 @@
+{
+  "descripcion": "Casos PILOTO para probar el LLM evaluador de RAGAS (Fase 6). Salen de las preguntas de DESARROLLO (eval/preguntas_desarrollo.json), no de las 12 de evaluación. Las referencias las redactó el asistente a partir del PDF (evidencia literal comprobada); sirven solo para ver si las puntuaciones del evaluador tienen sentido y no entran a ningún resultado.",
+  "casos": [
+    {
+      "id": "p1",
+      "origen": "dev04",
+      "pregunta": "¿Qué medios de extinción son adecuados para el Topcoat 400 1793 Blanco de International?",
+      "respuesta_referencia": "Los medios de extinción apropiados son polvos químicos secos, CO₂, agua pulverizada (niebla de agua) o espuma. No se debe usar chorro de agua.",
+      "evidencia": [
+        {"doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel", "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf", "pagina": 4, "seccion": "5 Medidas de lucha contra incendios", "fragmento": "Utilizar polvos químicos secos, CO₂, agua pulverizada (niebla de agua) o espuma."},
+        {"doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel", "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf", "pagina": 4, "seccion": "5 Medidas de lucha contra incendios", "fragmento": "No usar chorro de agua."}
+      ]
+    },
+    {
+      "id": "p2",
+      "origen": "dev03",
+      "pregunta": "¿Cuál es el teléfono de emergencia del proveedor del Sikafloor-2430 Part A?",
+      "respuesta_referencia": "El teléfono de emergencia es CISPROQUIM Bogotá: 2886012 / 2886355; resto del país: 01 8000 916012.",
+      "evidencia": [
+        {"doc_id": "fds071-sikafloor-2430-part-a-sika", "documento": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf", "pagina": 1, "seccion": "1 Identificación del producto y de la empresa", "fragmento": "CISPROQUIM Bogotá: 2886012 / 2886355 Resto del país: 01 8000 916012"}
+      ]
+    }
+  ]
+}
