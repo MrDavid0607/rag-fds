@@ -1,0 +1,130 @@
+[
+  {
+    "seccion": 1,
+    "nombre": "Identificación del producto y de la empresa",
+    "estado": "presente",
+    "pagina": 1,
+    "numero_en_documento": 1,
+    "evidencia": "Sección 1. Identificación"
+  },
+  {
+    "seccion": 2,
+    "nombre": "Identificación de peligros",
+    "estado": "presente",
+    "pagina": 1,
+    "numero_en_documento": 2,
+    "evidencia": "Sección 2. Identificación de los peligros"
+  },
+  {
+    "seccion": 3,
+    "nombre": "Composición / información sobre los componentes",
+    "estado": "presente",
+    "pagina": 2,
+    "numero_en_documento": 3,
+    "evidencia": "Sección 3. Composición/información sobre los componentes"
+  },
+  {
+    "seccion": 4,
+    "nombre": "Primeros auxilios",
+    "estado": "presente",
+    "pagina": 3,
+    "numero_en_documento": 4,
+    "evidencia": "Sección 4. Primeros auxilios"
+  },
+  {
+    "seccion": 5,
+    "nombre": "Medidas de lucha contra incendios",
+    "estado": "presente",
+    "pagina": 4,
+    "numero_en_documento": 5,
+    "evidencia": "Sección 5. Medidas de lucha contra incendios"
+  },
+  {
+    "seccion": 6,
+    "nombre": "Medidas en caso de vertido accidental",
+    "estado": "presente",
+    "pagina": 4,
+    "numero_en_documento": 6,
+    "evidencia": "Sección 6. Medidas en caso de vertido accidental"
+  },
+  {
+    "seccion": 7,
+    "nombre": "Manipulación y almacenamiento",
+    "estado": "presente",
+    "pagina": 5,
+    "numero_en_documento": 7,
+    "evidencia": "Sección 7. Manipulación y almacenamiento"
+  },
+  {
+    "seccion": 8,
+    "nombre": "Controles de exposición / protección personal",
+    "estado": "presente",
+    "pagina": 6,
+    "numero_en_documento": 8,
+    "evidencia": "Sección 8. Controles de exposición/protección individual"
+  },
+  {
+    "seccion": 9,
+    "nombre": "Propiedades físicas y químicas",
+    "estado": "presente",
+    "pagina": 7,
+    "numero_en_documento": 9,
+    "evidencia": "Sección 9. Propiedades físicas y químicas y características de seguridad"
+  },
+  {
+    "seccion": 10,
+    "nombre": "Estabilidad y reactividad",
+    "estado": "presente",
+    "pagina": 8,
+    "numero_en_documento": 10,
+    "evidencia": "Sección 10. Estabilidad y reactividad"
+  },
+  {
+    "seccion": 11,
+    "nombre": "Información toxicológica",
+    "estado": "presente",
+    "pagina": 8,
+    "numero_en_documento": 11,
+    "evidencia": "Sección 11. Información toxicológica"
+  },
+  {
+    "seccion": 12,
+    "nombre": "Información ecológica",
+    "estado": "presente",
+    "pagina": 12,
+    "numero_en_documento": 12,
+    "evidencia": "Sección 12. Información ecológica"
+  },
+  {
+    "seccion": 13,
+    "nombre": "Consideraciones relativas a la eliminación",
+    "estado": "presente",
+    "pagina": 14,
+    "numero_en_documento": 13,
+    "evidencia": "Sección 13. Consideraciones relativas a la eliminación"
+  },
+  {
+    "seccion": 14,
+    "nombre": "Información relativa al transporte",
+    "estado": "presente",
+    "pagina": 14,
+    "numero_en_documento": 14,
+    "evidencia": "Sección 14. Información relativa al transporte"
+  },
+  {
+    "seccion": 15,
+    "nombre": "Información reglamentaria",
+    "estado": "presente",
+    "pagina": 15,
+    "numero_en_documento": 15,
+    "evidencia": "Sección 15. Información reglamentaria"
+  },
+  {
+    "seccion": 16,
+    "nombre": "Otra información",
+    "estado": "presente",
+    "pagina": 16,
+    "numero_en_documento": 16,
+    "evidencia": "Sección 16. Otra información"
+  }
+]

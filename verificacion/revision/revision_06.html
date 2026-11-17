@@ -1,0 +1,98 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><title>Revisión tanda 6 (fichas 101-101)</title>
+<style>
+body{font-family:system-ui,sans-serif;margin:0;padding:1rem 2rem;background:#fafafa;color:#222}
+.ficha{border-top:3px solid #888;margin:2rem 0;padding-top:.5rem} .par{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.par img{width:100%;border:1px solid #ccc} .md{background:#fff;border:1px solid #ddd;padding:.5rem 1rem;overflow:auto;font-size:.85rem;max-height:1100px}
+.md table{border-collapse:collapse} .md td,.md th{border:1px solid #bbb;padding:2px 6px} .et{font-size:.75rem;color:#666;font-weight:600}
+.auto{padding:.4rem .6rem;border-radius:4px;margin:.4rem 0;font-size:.85rem} .OK{background:#e6f4ea} .REVISAR{background:#fff4e5}
+.form{background:#eef;padding:.5rem .8rem;border-radius:4px;margin:.5rem 0} .form textarea{width:95%;height:3.2em}
+button{padding:.4rem 1rem} nav{position:sticky;top:0;background:#fafafa;padding:.4rem 0;border-bottom:1px solid #ccc}
+</style><nav><b>tanda 6 (fichas 101-101)</b> · <button onclick="exportar()">Exportar mis respuestas (CSV)</button>
+<span id="estado"></span> · <a href="index.html">índice</a></nav>
+<div class="ficha" data-doc="fds102-amercoat-370-resin-oxide-red-ppg"><h2>FDS 102 - AMERCOAT 370 RESIN OXIDE RED - PPG.pdf</h2><div class="et">fds102-amercoat-370-resin-oxide-red-ppg · FDS 2025 · fabricante: PPG · producto: AMERCOAT 370 RESIN OXIDE RED</div><div class="et">Sección 3 Composición / información sobre los componentes · página 3</div><div class="auto OK"><b>Pre-chequeo automático: OK</b> (números y unidades de la tabla coinciden con el texto crudo)</div><div class="par"><div><div class="et">PDF · página 3</div><img src="paginas/fds102-amercoat-370-resin-oxide-red-ppg_p003.png" loading="lazy"></div><div><div class="et">Markdown extraído (tabla elegida)</div><div class="md"><table>
+<thead>
+<tr>
+<th>Nombre de ingrediente</th>
+<th>%</th>
+<th>Número CAS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sulfato de bario</td>
+<td>30 - &lt;60 20 - &lt;30 7 - &lt;10 7 - &lt;10 7 - &lt;10 3 - &lt;5 3 - &lt;5 2 - &lt;3 1 - &lt;2 1 - &lt;2</td>
+<td>7727-43-7 14808-60-7 108-10-1 25036-25-3 1330-20-7 1309-37-1 14808-60-7 1675-54-3 68515-49-1 100-41-4 2210-79-9</td>
+</tr>
+<tr>
+<td>sílice cristalina, polvo no respirable (&gt;10 micras)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Metilisobutilcetona</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>RESINA EPOXI (700&lt;MW&lt;=1100)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Xilenos, mezcla isómeros</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Oxido de hierro (Fe2O3)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>sílice cristalina, polvo respirable (&lt;10 micras)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2,2'-[(1-metiletiliden)bis(4,1-fenilenoximetilen)]bisoxirano</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ácido 1,2-bencenodicarboxílico, di-C9-11-alquil ésteres ramificados, ricos en C10</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Etilbenceno</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2,3-epoxipropil o-tolil éter</td>
+<td>0.2 - &lt;0.5</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div></div></div><div class="form"><b>Tu verificación:</b> <label><input type="radio" name="v5364930301771144148" value="ok"> Coincide con el PDF</label> <label><input type="radio" name="v5364930301771144148" value="con_errores"> Tiene errores</label><br>Errores encontrados: <textarea class="err"></textarea> Observaciones: <textarea class="obs"></textarea></div></div>
+<script>
+const CLAVE = 'rev_06';
+let datos = {}; try { datos = JSON.parse(localStorage.getItem(CLAVE) || '{}'); } catch (e) {}
+function guardar() { try { localStorage.setItem(CLAVE, JSON.stringify(datos)); } catch (e) {}
+  const hechos = Object.values(datos).filter(d => d.v).length; document.getElementById('estado').textContent = ' ' + hechos + ' de 1 revisadas'; }
+document.querySelectorAll('.ficha').forEach(f => {
+  const id = f.dataset.doc; const d = datos[id] || (datos[id] = {v:'', e:'', o:''});
+  f.querySelectorAll('input[type=radio]').forEach(r => { r.checked = (r.value === d.v); r.onchange = () => { d.v = r.value; guardar(); }; });
+  const e = f.querySelector('.err'), o = f.querySelector('.obs'); e.value = d.e; o.value = d.o;
+  e.oninput = () => { d.e = e.value; guardar(); }; o.oninput = () => { d.o = o.value; guardar(); };
+});
+guardar();
+function exportar() {
+  const filas = [['doc_id','verificado_por_autor','errores_encontrados','observaciones']];
+  Object.entries(datos).forEach(([k, d]) => filas.push([k, d.v, d.e, d.o]));
+  const csv = filas.map(r => r.map(c => '"' + String(c).replace(/"/g, '""') + '"').join(',')).join('\n');
+  const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob(['\ufeff' + csv], {type: 'text/csv'}));
+  a.download = 'respuestas_06.csv'; a.click();
+}
+</script></html>

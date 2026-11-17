@@ -1,0 +1,130 @@
+[
+  {
+    "seccion": 1,
+    "nombre": "Identificación del producto y de la empresa",
+    "estado": "presente",
+    "pagina": 1,
+    "numero_en_documento": 1,
+    "evidencia": "SECCIÓN 1. Identificación de la sustancia química peligrosa o mezcla y del proveedor o fabricante"
+  },
+  {
+    "seccion": 2,
+    "nombre": "Identificación de peligros",
+    "estado": "presente",
+    "pagina": 1,
+    "numero_en_documento": 2,
+    "evidencia": "SECCIÓN 2: Identificación de los peligros"
+  },
+  {
+    "seccion": 3,
+    "nombre": "Composición / información sobre los componentes",
+    "estado": "presente",
+    "pagina": 2,
+    "numero_en_documento": 3,
+    "evidencia": "SECCIÓN 3: Composición / información sobre los componentes"
+  },
+  {
+    "seccion": 4,
+    "nombre": "Primeros auxilios",
+    "estado": "presente",
+    "pagina": 3,
+    "numero_en_documento": 4,
+    "evidencia": "SECCIÓN 4: Primeros auxilios"
+  },
+  {
+    "seccion": 5,
+    "nombre": "Medidas de lucha contra incendios",
+    "estado": "presente",
+    "pagina": 4,
+    "numero_en_documento": 5,
+    "evidencia": "SECCIÓN 5: Medidas contra incendios"
+  },
+  {
+    "seccion": 6,
+    "nombre": "Medidas en caso de vertido accidental",
+    "estado": "presente",
+    "pagina": 5,
+    "numero_en_documento": 6,
+    "evidencia": "SECCIÓN 6: Medidas que deben tomarse en caso de derrame o fuga accidental"
+  },
+  {
+    "seccion": 7,
+    "nombre": "Manipulación y almacenamiento",
+    "estado": "presente",
+    "pagina": 5,
+    "numero_en_documento": 7,
+    "evidencia": "SECCIÓN 7: Manejo y almacenamiento"
+  },
+  {
+    "seccion": 8,
+    "nombre": "Controles de exposición / protección personal",
+    "estado": "presente",
+    "pagina": 6,
+    "numero_en_documento": 8,
+    "evidencia": "SECCIÓN 8: Controles de exposición / protección personal"
+  },
+  {
+    "seccion": 9,
+    "nombre": "Propiedades físicas y químicas",
+    "estado": "presente",
+    "pagina": 7,
+    "numero_en_documento": 9,
+    "evidencia": "SECCIÓN 9: Propiedades físicas y químicas"
+  },
+  {
+    "seccion": 10,
+    "nombre": "Estabilidad y reactividad",
+    "estado": "presente",
+    "pagina": 8,
+    "numero_en_documento": 10,
+    "evidencia": "SECCIÓN 10: Estabilidad y reactividad"
+  },
+  {
+    "seccion": 11,
+    "nombre": "Información toxicológica",
+    "estado": "presente",
+    "pagina": 8,
+    "numero_en_documento": 11,
+    "evidencia": "SECCIÓN 11: Información toxicológica"
+  },
+  {
+    "seccion": 12,
+    "nombre": "Información ecológica",
+    "estado": "presente",
+    "pagina": 11,
+    "numero_en_documento": 12,
+    "evidencia": "SECCIÓN 12: Información ecotoxicológica"
+  },
+  {
+    "seccion": 13,
+    "nombre": "Consideraciones relativas a la eliminación",
+    "estado": "presente",
+    "pagina": 12,
+    "numero_en_documento": 13,
+    "evidencia": "SECCIÓN 13: Información relativa a la eliminación de los productos"
+  },
+  {
+    "seccion": 14,
+    "nombre": "Información relativa al transporte",
+    "estado": "presente",
+    "pagina": 12,
+    "numero_en_documento": 14,
+    "evidencia": "SECCIÓN 14: Información relativa al transporte"
+  },
+  {
+    "seccion": 15,
+    "nombre": "Información reglamentaria",
+    "estado": "presente",
+    "pagina": 13,
+    "numero_en_documento": 15,
+    "evidencia": "SECCIÓN 15: Información Reglamentaria"
+  },
+  {
+    "seccion": 16,
+    "nombre": "Otra información",
+    "estado": "presente",
+    "pagina": 13,
+    "numero_en_documento": 16,
+    "evidencia": "SECCIÓN 16: Otra información incluidas las relativas a la preparación y actualización de las hojas de datos de seguridad"
+  }
+]

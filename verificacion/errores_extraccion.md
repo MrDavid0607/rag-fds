@@ -19,8 +19,29 @@ Extracción: Docling 2.150.1 + RapidOCR 3.10.0, 101 PDF, 1 134 páginas, 0 fallo
 | 8 | Muchas FDS no nombran al fabricante en el contenido (15 de 101: FDS 1-4, 9, 11, 13-17, 23-25, 101). | `fabricante` vacío para esas fichas. | Se deja vacío con nota. El nombre de archivo a veces lo trae (p. ej. "PINTURAS BLER"), pero es procedencia, no contenido: **el autor decide** si lo completa. |
 | 9 | RapidOCR emite el aviso "text detection result is empty" en imágenes sin texto (pictogramas, logos). | Ninguno: es el comportamiento esperado. | Sin acción. |
 
-## Pendiente (Fase 3)
+## Hallazgos de la Fase 3 (secciones y tablas)
 
-- Estado por sección (presente / fallo de extracción / ausente en el original) para las 101 fichas.
-- Una tabla verificada por ficha, con pre-chequeo automático de números y unidades contra el texto crudo.
-- `revision.html` y `verificacion_extraccion.csv` para la revisión manual del autor.
+| # | Hallazgo | Fichas | Tratamiento |
+|---|---|---|---|
+| 10 | **Encabezado de sección dentro de un párrafo.** Una marca de agua ("COPIA CONTROLADA") hace que Docling funda el encabezado con el texto vecino. El texto está en el Markdown pero ya no como título. | FDS 100 (secc. 5 y 7), FDS 101 (secc. 5 y 15) | `secciones.csv` las marca `fallo_extraccion` (el encabezado sí está en el PDF). El chunking debe detectar el encabezado también dentro de un párrafo. |
+| 11 | **Numeración antigua (norma NTC):** 2 = composición, 3 = identificación de riesgos. | FDS 1-4, 9, 13-17 | La sección se identifica por su **título**, no por el número; `numero_en_documento` guarda el número real. |
+| 12 | Una ficha tiene "Primeros auxilios:" como título **sin número**. | FDS 2 | Se acepta como presente con la nota "(sin número)". |
+| 13 | **El OCR leyó íconos pequeños como ideogramas** (日, 回, 新) dentro de celdas de tablas de composición (columna junto a "<5 %", nombres de sustancias). | FDS 60, 68, 76, 89, 91, 94 | Detectado por el pre-chequeo. Es el mismo problema de pictogramas (limitación 7): la imagen no es texto. Se corrige a mano o se ignora ese carácter al construir chunks. |
+| 14 | 4 fichas no tienen ninguna tabla en el Markdown. | FDS 2, 15, 16, 17 | El autor revisa un bloque con datos (sección 3 o 9) en lugar de una tabla. |
+| 15 | Valores sueltos que el Markdown no reproduce o reproduce distinto. | FDS 11, 14, 31, 98 | Marcadas `REVISAR`. |
+
+### Resultado de la detección de secciones (101 fichas × 16 = 1 616)
+`presente` 1 612 · `fallo_extraccion` 4 · `ausente_en_original` 0. Todas las secciones se encontraron en el PDF en las 101 fichas;
+no hay ninguna marcada como ausente. Hay que dar fe de eso mirando al menos las fichas 100 y 101, y la FDS 2.
+
+### Resultado del pre-chequeo de tablas (1 tabla por ficha)
+`OK` 87 · `REVISAR` 10 · `SIN_TABLA` 4. Se verifican tres cosas: que cada número y unidad de la tabla exista en el texto crudo del PDF de esa
+página, que cada palabra de las celdas exista allí, y que no falten números de las mismas líneas del PDF. Se probó con mutaciones
+(cambiar un número, una unidad o borrar una fila): detecta las tres.
+**Límite:** `OK` no significa "verificado". El pre-chequeo no ve valores presentes pero en la celda equivocada, columnas intercambiadas
+ni filas mezcladas; eso solo lo detecta la revisión humana. La columna `verificado_por_autor` está **vacía** y la llena el autor.
+
+## Pendiente
+
+- Revisión manual del autor (6 tandas de 20 en `verificacion/revision/`).
+- Resumen final de errores al cerrar la revisión humana.
