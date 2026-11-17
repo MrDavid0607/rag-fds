@@ -1,6 +1,6 @@
 # Revisión manual (Fase 7)
 
-Plantilla preparada por el asistente. **Las casillas y conclusiones de exactitud las llena el autor** mirando los PDF; el asistente solo aporta datos y pre-chequeos automáticos. Versión web con el PDF al lado: `eval/revision_manual/index.html`.
+Plantilla preparada por el asistente. **Las casillas y conclusiones de exactitud las llena el autor** mirando los PDF; el asistente solo aporta datos y pre-chequeos automáticos. Versión web con el PDF al lado: `eval/revision_manual/index.html`. Una **revisión asistida por IA** de estos mismos casos (no sustituye la del autor) está en `eval/revision_asistida_ia.md`.
 
 Casos: las 2 preguntas sin respuesta (e11, e12) y 3 respondibles con las puntuaciones más bajas o con fallos (e04, e07, e09). Otros casos con rechazos o respuestas incompletas (e08, e10) se comentan en `eval/analisis_resultados.md`.
 

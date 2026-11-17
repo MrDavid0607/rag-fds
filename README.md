@@ -14,11 +14,11 @@ documento · página · sección), avisa cuando la evidencia no alcanza y se eva
 - [x] Fase 0 — Entorno, cuentas y plan
 - [x] Fase 1 — Infraestructura en AWS (EC2 `r5.large` + Ollama); la inferencia se movió al PC con GPU (ver §1)
 - [x] Fase 2 — Extracción PDF → Markdown (101 fichas)
-- [~] Fase 3 — Secciones y verificación de la extracción (automático listo; **falta la revisión manual del autor**)
+- [~] Fase 3 — Secciones y verificación de la extracción (comprobación automática de las 1 248 tablas y revisión asistida por IA hechas, `verificacion/revision_asistida_ia.md`; **falta la verificación humana del autor**)
 - [~] Fase 4 — RAG con trazabilidad (funcional; falta que el autor valide las citas de la demo)
-- [x] Fase 5 — 12 preguntas de evaluación (verificadas por el autor)
-- [x] Fase 6 — Evaluación con RAGAS (top-k 3 vs 6)
-- [~] Fase 7 — Revisión manual y análisis (material preparado; **faltan las conclusiones de exactitud del autor**)
+- [x] Fase 5 — 12 preguntas de evaluación (evidencia literal comprobada automáticamente contra el PDF; marcadas `verificada: true` según declaración del autor)
+- [x] Fase 6 — Evaluación con RAGAS (top-k 3 vs 6; v1 y v2)
+- [~] Fase 7 — Revisión manual y análisis (revisión asistida por IA hecha, `eval/revision_asistida_ia.md`; **falta la confirmación del autor**)
 - [~] Fase 8 — Documentación, informe y cierre (borradores en este repositorio; ver `informe/`)
 
 ## 1. Arquitectura
@@ -160,4 +160,4 @@ metricas/     hardware, tiempos y consumo               docs/          guía del
 ## 9. Uso de herramientas de IA
 
 Se usó **Claude Code** como apoyo para escribir código, scripts de infraestructura, documentación y análisis. Los autores deben verificar y poder explicar el código y las decisiones; las verificaciones contra los PDF (tablas, referencias,
-citas) son manuales y están registradas como tales. El conjunto de 12 preguntas y sus referencias fue **verificado por el autor**; las columnas de verificación manual de la extracción y de las citas las llena el autor.
+citas) son manuales y están registradas como tales. Las referencias de las 12 preguntas tienen su evidencia comprobada **automáticamente** contra el texto del PDF y están marcadas `verificada: true` según la declaración del autor. La **revisión de la extracción** y de **los casos analizados** se hizo con asistencia de IA (`verificacion/revision_asistida_ia.md`, `eval/revision_asistida_ia.md`); la columna `verificado_por_autor` y las casillas de `eval/revision_manual.md` las llena el autor y, mientras estén vacías, esa verificación humana **no está hecha**.
