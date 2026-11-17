@@ -3,6 +3,7 @@
 Parcial final de Procesamiento de Lenguaje Natural — Universidad Sergio Arboleda, 2026 S02.
 
 **Autores:** Daniel Reyes, Sebastián Urrego y David Martínez.
+**Repositorio (público):** <https://github.com/MrDavid0607/rag-fds> · Los PDF originales **no** se incluyen (`data/raw/` está en `.gitignore`): para reproducir, ponlos en `data/raw/FDS EVALUADAS/` conservando las carpetas por año.
 
 Sistema RAG (recuperación aumentada por generación) sobre **101 Fichas de Datos de Seguridad** del sector de pinturas (1 134 páginas, 8 fabricantes,
 carpetas por año 2018-2025). Convierte los PDF a Markdown con trazabilidad de página, responde con **citas verificables** (fabricante · producto · versión ·
