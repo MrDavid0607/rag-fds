@@ -1,0 +1,26 @@
+{
+  "doc_id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1",
+  "archivo_original": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versi#U00f3n 1).pdf",
+  "nombre_mostrado": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 5,
+  "sha256": "986f24e3e2056a48591ceb10b1184c3b30b5539c54473824b92eaffb5bfd8ef5",
+  "tamano_bytes": 331633,
+  "n_paginas": 8,
+  "n_tablas": 9,
+  "n_imagenes_guardadas": 9,
+  "n_imagenes_omitidas_por_tamano": 3,
+  "n_imagenes_duplicadas_no_guardadas": 5,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "",
+  "codigo_producto": "",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "pendiente: lo llena metadatos.py"
+}

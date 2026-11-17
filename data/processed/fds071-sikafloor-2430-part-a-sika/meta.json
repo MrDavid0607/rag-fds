@@ -1,0 +1,26 @@
+{
+  "doc_id": "fds071-sikafloor-2430-part-a-sika",
+  "archivo_original": "FDS 71 -  Sikafloor#U00ae-2430  Part A - SIKA.pdf",
+  "nombre_mostrado": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf",
+  "carpeta_origen": "FDS 2023",
+  "anio_carpeta": "2023",
+  "numero_fds": 71,
+  "sha256": "abf1ab95c4e7c5d4ae08ab29dedd5497b5a7c6181dd2416659699893b18605f1",
+  "tamano_bytes": 343372,
+  "n_paginas": 13,
+  "n_tablas": 6,
+  "n_imagenes_guardadas": 8,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 11,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "",
+  "codigo_producto": "",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "pendiente: lo llena metadatos.py"
+}

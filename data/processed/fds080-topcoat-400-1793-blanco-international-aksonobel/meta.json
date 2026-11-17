@@ -1,0 +1,26 @@
+{
+  "doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel",
+  "archivo_original": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "nombre_mostrado": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+  "carpeta_origen": "FDS 2024",
+  "anio_carpeta": "2024",
+  "numero_fds": 80,
+  "sha256": "cb0cdfcc304daa1e5b8cb53ffc8bc86e93edf42a40ea369d791d0eaa0fcf5dde",
+  "tamano_bytes": 465502,
+  "n_paginas": 15,
+  "n_tablas": 18,
+  "n_imagenes_guardadas": 7,
+  "n_imagenes_omitidas_por_tamano": 15,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "",
+  "codigo_producto": "",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "pendiente: lo llena metadatos.py"
+}

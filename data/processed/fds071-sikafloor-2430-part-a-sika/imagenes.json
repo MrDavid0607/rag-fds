@@ -1,0 +1,162 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "Sikafloor®-2430 Part A",
+      "bbox_pagina": [
+        485.87777936692214,
+        753.8289305348243,
+        561.5855836763319,
+        819.3920345184217
+      ],
+      "ancho_px": 151,
+      "alto_px": 131,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Etiqueta SGA (GHS)",
+      "bbox_pagina": [
+        247.15662144808164,
+        658.7284987545353,
+        298.5541507818235,
+        711.3505880530957
+      ],
+      "ancho_px": 103,
+      "alto_px": 106,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "Intervención:",
+      "bbox_pagina": [
+        304.65280597456353,
+        658.4733879920173,
+        356.5605557353385,
+        711.0026875712439
+      ],
+      "ancho_px": 104,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img04.png",
+      "pagina": 2,
+      "seccion_aproximada": "Intervención:",
+      "bbox_pagina": [
+        362.69210182548375,
+        660.3873740916405,
+        414.603204689794,
+        711.7304040527343
+      ],
+      "ancho_px": 104,
+      "alto_px": 102,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img05.png",
+      "pagina": 2,
+      "seccion_aproximada": "Intervención:",
+      "bbox_pagina": [
+        420.88829243909595,
+        658.6005623379635,
+        471.94926162617327,
+        711.0985865387288
+      ],
+      "ancho_px": 102,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "Sikafloor®-2430 Part A",
+      "bbox_pagina": [
+        485.92161357495615,
+        753.7731545857603,
+        561.6223458841823,
+        819.5223238280489
+      ],
+      "ancho_px": 151,
+      "alto_px": 132,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img02.png",
+      "pagina": 12,
+      "seccion_aproximada": "HMIS® IV:",
+      "bbox_pagina": [
+        100.91799892911976,
+        488.7400953538562,
+        292.618791731252,
+        607.9595518368758
+      ],
+      "ancho_px": 383,
+      "alto_px": 239,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img03.png",
+      "pagina": 12,
+      "seccion_aproximada": "Texto completo de otras abreviaturas",
+      "bbox_pagina": [
+        307.9522903360457,
+        506.043640488594,
+        493.9859799911192,
+        607.35425438063
+      ],
+      "ancho_px": 372,
+      "alto_px": 203,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 11,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 12,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 13,
+      "duplicada_de": "imagenes/p001_img01.png"
+    }
+  ]
+}

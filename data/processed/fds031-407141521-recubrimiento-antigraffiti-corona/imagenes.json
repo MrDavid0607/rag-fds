@@ -1,0 +1,396 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        35.52873611450195,
+        766.377082824707,
+        131.365478515625,
+        791.4425926208496
+      ],
+      "ancho_px": 192,
+      "alto_px": 50,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "407141521 - RECUBRIMIENTO ANTIGRAFFITI",
+      "bbox_pagina": [
+        502.79583740234375,
+        750.0339431762695,
+        559.313232421875,
+        807.172233581543
+      ],
+      "ancho_px": 113,
+      "alto_px": 114,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "NFPA:",
+      "bbox_pagina": [
+        82.67620849609375,
+        285.84320068359375,
+        122.02626037597656,
+        324.782958984375
+      ],
+      "ancho_px": 79,
+      "alto_px": 78,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "SGA:",
+      "bbox_pagina": [
+        84.11451721191406,
+        226.2603759765625,
+        112.89859008789062,
+        255.730224609375
+      ],
+      "ancho_px": 58,
+      "alto_px": 58,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "SGA:",
+      "bbox_pagina": [
+        119.49446868896484,
+        226.185546875,
+        147.76666259765625,
+        255.42755126953125
+      ],
+      "ancho_px": 57,
+      "alto_px": 59,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "SGA:",
+      "bbox_pagina": [
+        154.08863830566406,
+        226.4058837890625,
+        182.6593017578125,
+        255.70672607421875
+      ],
+      "ancho_px": 57,
+      "alto_px": 58,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Por ingestión/aspiración:",
+      "bbox_pagina": [
+        502.5055236816406,
+        750.087776184082,
+        559.5726928710938,
+        807.2524604797363
+      ],
+      "ancho_px": 114,
+      "alto_px": 115,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "A.- Precauciones generales",
+      "bbox_pagina": [
+        502.66925048828125,
+        750.1312713623047,
+        559.44482421875,
+        807.3368339538574
+      ],
+      "ancho_px": 114,
+      "alto_px": 115,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        86.68968963623047,
+        137.1075439453125,
+        148.7022247314453,
+        208.54071044921875
+      ],
+      "ancho_px": 124,
+      "alto_px": 143,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        502.7709045410156,
+        750.1391525268555,
+        559.39404296875,
+        807.2188987731934
+      ],
+      "ancho_px": 113,
+      "alto_px": 114,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img01.png",
+      "pagina": 5,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        35.42322540283203,
+        766.298225402832,
+        131.76434326171875,
+        791.632755279541
+      ],
+      "ancho_px": 193,
+      "alto_px": 50,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)",
+      "bbox_pagina": [
+        86.48736572265625,
+        655.6332550048828,
+        149.04592895507812,
+        719.3034057617188
+      ],
+      "ancho_px": 125,
+      "alto_px": 128,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img03.png",
+      "pagina": 5,
+      "seccion_aproximada": "F.- Medidascomplementarias de emergencia",
+      "bbox_pagina": [
+        101.73500061035156,
+        349.9649658203125,
+        167.4008026123047,
+        391.03466796875
+      ],
+      "ancho_px": 132,
+      "alto_px": 82,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img04.png",
+      "pagina": 5,
+      "seccion_aproximada": "Volatilidad:",
+      "bbox_pagina": [
+        350.5134582519531,
+        359.9986572265625,
+        379.49591064453125,
+        390.13531494140625
+      ],
+      "ancho_px": 58,
+      "alto_px": 60,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img05.png",
+      "pagina": 5,
+      "seccion_aproximada": "Volatilidad:",
+      "bbox_pagina": [
+        502.6112060546875,
+        750.1242904663086,
+        559.563232421875,
+        807.308895111084
+      ],
+      "ancho_px": 114,
+      "alto_px": 115,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img01.png",
+      "pagina": 6,
+      "seccion_aproximada": "Volatilidad:",
+      "bbox_pagina": [
+        35.42235565185547,
+        766.232795715332,
+        131.8225555419922,
+        791.5261459350586
+      ],
+      "ancho_px": 193,
+      "alto_px": 51,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img02.png",
+      "pagina": 6,
+      "seccion_aproximada": "9.2 Información adicional:",
+      "bbox_pagina": [
+        216.54139709472656,
+        385.4817199707031,
+        263.8151550292969,
+        465.4627380371094
+      ],
+      "ancho_px": 95,
+      "alto_px": 160,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img03.png",
+      "pagina": 6,
+      "seccion_aproximada": "10.6 Productos de descomposición peligrosos:",
+      "bbox_pagina": [
+        502.5718994140625,
+        750.1108474731445,
+        559.7063598632812,
+        807.2953605651855
+      ],
+      "ancho_px": 114,
+      "alto_px": 115,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img04.png",
+      "pagina": 6,
+      "seccion_aproximada": "10.6 Productos de descomposición peligrosos:",
+      "bbox_pagina": [
+        384.90972900390625,
+        347.2132568359375,
+        558.2044677734375,
+        467.60418701171875
+      ],
+      "ancho_px": 346,
+      "alto_px": 241,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img02.png",
+      "pagina": 7,
+      "seccion_aproximada": "Información toxicológica específica de las sustancias:",
+      "bbox_pagina": [
+        502.5751953125,
+        750.0708236694336,
+        559.4041748046875,
+        807.3919639587402
+      ],
+      "ancho_px": 114,
+      "alto_px": 115,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img02.png",
+      "pagina": 8,
+      "seccion_aproximada": "Disposiciones legislativas relacionadas con la gestión de residuos:",
+      "bbox_pagina": [
+        502.54931640625,
+        750.0726547241211,
+        559.7371215820312,
+        807.3050498962402
+      ],
+      "ancho_px": 114,
+      "alto_px": 115,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img02.png",
+      "pagina": 9,
+      "seccion_aproximada": "Transporte terrestre de mercancías peligrosas:",
+      "bbox_pagina": [
+        72.16700744628906,
+        573.0270385742188,
+        132.7880401611328,
+        632.9368133544922
+      ],
+      "ancho_px": 122,
+      "alto_px": 120,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img03.png",
+      "pagina": 9,
+      "seccion_aproximada": "Transporte terrestre de mercancías peligrosas:",
+      "bbox_pagina": [
+        73.28980255126953,
+        358.2712707519531,
+        133.2088165283203,
+        418.9120788574219
+      ],
+      "ancho_px": 119,
+      "alto_px": 121,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img04.png",
+      "pagina": 9,
+      "seccion_aproximada": "Transporte aéreo de mercancías peligrosas:",
+      "bbox_pagina": [
+        502.64715576171875,
+        749.9565277099609,
+        559.52392578125,
+        807.346565246582
+      ],
+      "ancho_px": 114,
+      "alto_px": 115,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img02.png",
+      "pagina": 10,
+      "seccion_aproximada": "SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)",
+      "bbox_pagina": [
+        72.38446044921875,
+        660.3260192871094,
+        132.65440368652344,
+        721.1863708496094
+      ],
+      "ancho_px": 120,
+      "alto_px": 121,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p005_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p005_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p002_img02.png"
+    },
+    {
+      "pagina": 11,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 11,
+      "duplicada_de": "imagenes/p003_img02.png"
+    }
+  ]
+}

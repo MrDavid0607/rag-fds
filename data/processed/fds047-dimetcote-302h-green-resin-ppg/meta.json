@@ -1,0 +1,26 @@
+{
+  "doc_id": "fds047-dimetcote-302h-green-resin-ppg",
+  "archivo_original": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+  "nombre_mostrado": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 47,
+  "sha256": "8c66418e82e3c0e8858e8223cf2524b0cab495f1538cf730dfe5b09eaf485414",
+  "tamano_bytes": 156403,
+  "n_paginas": 14,
+  "n_tablas": 17,
+  "n_imagenes_guardadas": 5,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "",
+  "codigo_producto": "",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "pendiente: lo llena metadatos.py"
+}

@@ -1,0 +1,51 @@
+{
+  "fichas_ok": 5,
+  "fichas_con_error": 0,
+  "paginas": 61,
+  "segundos_total": 143.1,
+  "segundos_por_pagina_promedio": 2.35,
+  "ram_pico_mb": 3211,
+  "por_ficha": [
+    {
+      "doc_id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1",
+      "n_paginas": 8,
+      "segundos_conversion": 98.08,
+      "segundos_por_pagina": 12.26,
+      "n_tablas": 9,
+      "n_imagenes": 9
+    },
+    {
+      "doc_id": "fds031-407141521-recubrimiento-antigraffiti-corona",
+      "n_paginas": 11,
+      "segundos_conversion": 13.51,
+      "segundos_por_pagina": 1.23,
+      "n_tablas": 15,
+      "n_imagenes": 25
+    },
+    {
+      "doc_id": "fds047-dimetcote-302h-green-resin-ppg",
+      "n_paginas": 14,
+      "segundos_conversion": 6.45,
+      "segundos_por_pagina": 0.46,
+      "n_tablas": 17,
+      "n_imagenes": 5
+    },
+    {
+      "doc_id": "fds071-sikafloor-2430-part-a-sika",
+      "n_paginas": 13,
+      "segundos_conversion": 7.86,
+      "segundos_por_pagina": 0.6,
+      "n_tablas": 6,
+      "n_imagenes": 8
+    },
+    {
+      "doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel",
+      "n_paginas": 15,
+      "segundos_conversion": 14.64,
+      "segundos_por_pagina": 0.98,
+      "n_tablas": 18,
+      "n_imagenes": 7
+    }
+  ],
+  "errores": []
+}

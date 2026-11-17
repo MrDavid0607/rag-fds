@@ -1,0 +1,152 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        50.14896850841958,
+        753.1495792727799,
+        121.09152953691932,
+        802.4491800753124
+      ],
+      "ancho_px": 142,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "8.2 Controles técnicos apropiados:",
+      "bbox_pagina": [
+        97.20055402614928,
+        130.95607092488126,
+        140.33257371531238,
+        187.05791039981068
+      ],
+      "ancho_px": 87,
+      "alto_px": 112,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)",
+      "bbox_pagina": [
+        91.79092305330623,
+        657.3487140921911,
+        147.4882584806097,
+        707.0885771980195
+      ],
+      "ancho_px": 111,
+      "alto_px": 100,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        120.19328831717473,
+        469.9893741040445,
+        149.1564588569795,
+        500.46676999633496
+      ],
+      "ancho_px": 58,
+      "alto_px": 61,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img04.png",
+      "pagina": 4,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        368.3038552631148,
+        254.4447660425327,
+        546.4680518151611,
+        295.99073817454723
+      ],
+      "ancho_px": 356,
+      "alto_px": 83,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img05.png",
+      "pagina": 4,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        350.2238742782286,
+        462.8950254202002,
+        379.5630720919411,
+        500.5405639619442
+      ],
+      "ancho_px": 59,
+      "alto_px": 76,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img01.png",
+      "pagina": 5,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        50.25049274726202,
+        753.2288185558183,
+        121.18981051861041,
+        802.5124227850906
+      ],
+      "ancho_px": 141,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img01.png",
+      "pagina": 6,
+      "seccion_aproximada": "11.1 Información sobre las posibles vías de exposición:",
+      "bbox_pagina": [
+        50.32898261921518,
+        753.1640924927627,
+        120.8982375084794,
+        802.4191049922842
+      ],
+      "ancho_px": 141,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img02.png",
+      "pagina": 8,
+      "seccion_aproximada": "Abreviaturas y acrónimos:",
+      "bbox_pagina": [
+        365.1951761335335,
+        254.11517943466083,
+        546.8522120041815,
+        295.9971444303462
+      ],
+      "ancho_px": 364,
+      "alto_px": 84,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p006_img01.png"
+    }
+  ]
+}

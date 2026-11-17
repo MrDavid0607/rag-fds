@@ -1,0 +1,26 @@
+{
+  "doc_id": "fds031-407141521-recubrimiento-antigraffiti-corona",
+  "archivo_original": "FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf",
+  "nombre_mostrado": "FDS 31 - 407141521 - RECUBRIMIENTO ANTIGRAFFITI - CORONA .pdf",
+  "carpeta_origen": "FDS 2019",
+  "anio_carpeta": "2019",
+  "numero_fds": 31,
+  "sha256": "91f7dec3fba5aeb56208cd8e6a4e3678a7922380cd396e014fdc13486906da16",
+  "tamano_bytes": 4883839,
+  "n_paginas": 11,
+  "n_tablas": 15,
+  "n_imagenes_guardadas": 25,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 10,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "",
+  "codigo_producto": "",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "pendiente: lo llena metadatos.py"
+}

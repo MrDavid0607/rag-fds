@@ -1,0 +1,75 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "SEGURIDAD",
+      "bbox_pagina": [
+        502.6479797363281,
+        726.5027084350586,
+        570.0316772460938,
+        778.8826456069946
+      ],
+      "ancho_px": 135,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        198.3125,
+        527.2903747558594,
+        247.4134063720703,
+        576.7866516113281
+      ],
+      "ancho_px": 98,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        254.20169067382812,
+        527.5711059570312,
+        304.2839660644531,
+        576.8798828125
+      ],
+      "ancho_px": 101,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        311.205078125,
+        527.4414978027344,
+        360.23565673828125,
+        576.7318878173828
+      ],
+      "ancho_px": 98,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img04.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        366.99896240234375,
+        527.2551879882812,
+        416.6890563964844,
+        576.9653930664062
+      ],
+      "ancho_px": 99,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

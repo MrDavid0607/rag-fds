@@ -1,0 +1,103 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        296.354892537093,
+        751.9568735610038,
+        552.7625196133141,
+        784.9621904453263
+      ],
+      "ancho_px": 513,
+      "alto_px": 66,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        173.2739798183922,
+        564.5776145940488,
+        222.18028345342046,
+        614.1393959170304
+      ],
+      "ancho_px": 97,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Consejos de prudencia",
+      "bbox_pagina": [
+        229.7476305249639,
+        564.9037503388429,
+        279.2495362066702,
+        614.6547385566685
+      ],
+      "ancho_px": 99,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "Consejos de prudencia",
+      "bbox_pagina": [
+        286.2189467937566,
+        564.9863283117979,
+        335.3976167607668,
+        614.3201438279339
+      ],
+      "ancho_px": 99,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img01.png",
+      "pagina": 13,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        118.24929022883569,
+        301.1062971773521,
+        156.17532164604125,
+        339.1068879411908
+      ],
+      "ancho_px": 76,
+      "alto_px": 76,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img02.png",
+      "pagina": 13,
+      "seccion_aproximada": "Precauciones particulares para los usuarios",
+      "bbox_pagina": [
+        263.1646495987067,
+        301.04289290132897,
+        300.8892251386883,
+        338.5228674968027
+      ],
+      "ancho_px": 76,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img04.png",
+      "pagina": 13,
+      "seccion_aproximada": "Precauciones particulares para los usuarios",
+      "bbox_pagina": [
+        407.1840807387408,
+        300.98497553380787,
+        445.11988475331543,
+        338.5710913259703
+      ],
+      "ancho_px": 76,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}
