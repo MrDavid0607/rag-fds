@@ -1,0 +1,11 @@
+{
+  "descripcion": "Preguntas de DESARROLLO (para ajustar el sistema). Son distintas a las 12 de evaluación de eval/preguntas.json. No llevan respuesta de referencia: solo sirven para revisar recuperación, citas y rechazo por falta de evidencia.",
+  "preguntas": [
+    {"id": "dev01", "tipo": "directa", "pregunta": "¿Qué porcentaje de cinc en polvo contiene el Dimetcote 302H Green Resin de PPG?", "secciones": [3], "productos": ["DIMETCOTE 302H GREEN RESIN"]},
+    {"id": "dev02", "tipo": "directa", "pregunta": "¿Qué primeros auxilios indica Pintuco en la ficha de Koraza Pro 550 Blanco si el producto entra en contacto con los ojos?", "secciones": [4], "productos": ["KORAZA PRO 550 BLANCO"]},
+    {"id": "dev03", "tipo": "directa", "pregunta": "¿Cuál es el teléfono de emergencia del proveedor del Sikafloor-2430 Part A?", "secciones": [1], "productos": ["Sikafloor-2430 Part A"]},
+    {"id": "dev04", "tipo": "directa", "pregunta": "¿Qué medios de extinción son adecuados para el Topcoat 400 1793 Blanco de International?", "secciones": [5], "productos": ["TOPCOAT 400 1793 BLANCO"]},
+    {"id": "dev05", "tipo": "comparativa_versiones", "pregunta": "Compara las precauciones de manipulación y almacenamiento de la Pintura Total de Corona entre la ficha de 2021 y la de 2023.", "secciones": [7], "productos": ["PINTURA TOTAL (2021)", "PINTURA TOTAL (2023)"]},
+    {"id": "dev06", "tipo": "sin_respuesta", "pregunta": "¿Cuál es el punto de inflamación del producto Viniltex Advanced de Pintuco?", "secciones": [9], "productos": []}
+  ]
+}

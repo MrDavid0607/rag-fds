@@ -1,0 +1,22 @@
+{
+  "n_fragmentos": 6483,
+  "chunking": {
+    "tam_objetivo": 800,
+    "solape": 150,
+    "tam_max_tabla": 1500,
+    "min_chars": 20
+  },
+  "embeddings": {
+    "modelo": "bge-m3",
+    "ollama_url": "http://127.0.0.1:11434",
+    "lote": 16,
+    "digest": "7907646426070047a77226ac3e684fbbe8410524f7b4a74d02837e43f2146bab"
+  },
+  "indice": {
+    "ruta": "indice/chroma",
+    "coleccion": "fds",
+    "metrica": "cosine"
+  },
+  "segundos_indexado": 272.3,
+  "fragmentos_por_segundo": 23.8
+}

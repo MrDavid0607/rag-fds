@@ -1,0 +1,1209 @@
+[
+  {
+    "pregunta": "¿Qué porcentaje de cinc en polvo contiene el Dimetcote 302H Green Resin de PPG?",
+    "top_k": 6,
+    "fragmentos": [
+      {
+        "id": "fds047-dimetcote-302h-green-resin-ppg::0010",
+        "texto": "[PPG · DIMETCOTE 302H GREEN RESIN · versión 5.01 · FDS 2021 · Sección 3: Composición / información sobre los componentes]\n| Nombre de ingrediente | % | Número CAS |\n|---|---|---|\n| cinc en polvo (estabilizado) | 30 - <60 | 7440-66-6 |\n| Cemento Portland | 15 - <20 | 65997-15-1 |\n| Metil n-amilcetona | 10 - <12.5 | 110-43-0 |\n| Oxido de Cinc | 1 - <2 | 1314-13-2 |\n| Acetato de n-butilo | 1 - <2 | 123-86-4 |",
+        "meta": {
+          "pagina_inicio": 3,
+          "archivo_original": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "pagina_fin": 3,
+          "archivo": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "doc_id": "fds047-dimetcote-302h-green-resin-ppg",
+          "imagenes": "[]",
+          "version": "5.01",
+          "tipo": "tabla",
+          "anio": "2021",
+          "producto": "DIMETCOTE 302H GREEN RESIN",
+          "fabricante": "PPG",
+          "seccion_num": 3,
+          "fecha_revision": "29 Diciembre 2021",
+          "seccion_nombre": "Composición / información sobre los componentes"
+        },
+        "distancia": 0.2559574842453003,
+        "grupo": 0,
+        "ajustada": 0.1959574842453003,
+        "n": 1
+      },
+      {
+        "id": "fds047-dimetcote-302h-green-resin-ppg::0055",
+        "texto": "[PPG · DIMETCOTE 302H GREEN RESIN · versión 5.01 · FDS 2021 · Sección 12: Información ecológica]\n| Nombre del producto o ingrediente | Resultado | Especies | Exposición |\n|---|---|---|---|\n| cinc en polvo (estabilizado) Metil n-amilcetona Oxido de Cinc Acetato de n-butilo | Agudo EC50 0.106 mg/l Agua fresca Crónico NOEC 0.0727 mg/l Agua fresca Agudo CL50 131 mg/l Agudo EC50 0.17 mg/l Agudo EC50 0.481 mg/l Agua fresca Crónico NOEC 0.017 mg/l Agua fresca Agudo CL50 18 mg/l | Algas - Pseudokirchneriella subcapitata Dafnia - Daphnia Magna Pez Algas Dafnia - Daphnia magna - Neonato Algas Pez | 72 horas 21 días 96 horas 72 horas 48 horas 72 horas 96 horas |",
+        "meta": {
+          "seccion_nombre": "Información ecológica",
+          "imagenes": "[]",
+          "fabricante": "PPG",
+          "archivo_original": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "seccion_num": 12,
+          "tipo": "tabla",
+          "doc_id": "fds047-dimetcote-302h-green-resin-ppg",
+          "fecha_revision": "29 Diciembre 2021",
+          "producto": "DIMETCOTE 302H GREEN RESIN",
+          "version": "5.01",
+          "anio": "2021",
+          "pagina_fin": 11,
+          "archivo": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "pagina_inicio": 11
+        },
+        "distancia": 0.32425135374069214,
+        "grupo": 0,
+        "ajustada": 0.32425135374069214,
+        "n": 2
+      },
+      {
+        "id": "fds047-dimetcote-302h-green-resin-ppg::0040",
+        "texto": "[PPG · DIMETCOTE 302H GREEN RESIN · versión 5.01 · FDS 2021 · Sección 8: Controles de exposición / protección personal]\ncinc en polvo (estabilizado) Metil n-amilcetona Oxido de Cinc Acetato de n-butilo Nombre del producto o ingrediente; CL50 Por inhalación Polvo nieblas DL50 Oral CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral CL50 Por inhalación Polvo nieblas DL50 Cutánea DL50 Oral CL50 Por inhalación Vapor CL50 Por inhalación Vapor DL50 Cutánea DL50 Oral Resultado; y Rata Rata Rata Conejo Rata y Rata Rata Rata Rata Rata Conejo Rata Especies; >5.4 mg/l >2000 mg/kg 16.7 mg/l 10.206 g/kg 1.6 g/kg >5700 mg/m³ >2000 mg/kg >5000 mg/kg >21.1 mg/l 2000 ppm >17600 mg/kg 10.768 g/kg Dosis; 4 horas - 4 horas - - 4 horas - - 4 horas 4 horas - - Exposición ---|---|---|---|--- Conclusión/Resumen Irritación/Corrosión No disponible. - : No existen datos disponibles sobre la mezcla en sí.",
+        "meta": {
+          "archivo_original": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "pagina_fin": 8,
+          "imagenes": "[]",
+          "seccion_num": 8,
+          "seccion_nombre": "Controles de exposición / protección personal",
+          "fabricante": "PPG",
+          "pagina_inicio": 8,
+          "archivo": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "doc_id": "fds047-dimetcote-302h-green-resin-ppg",
+          "fecha_revision": "29 Diciembre 2021",
+          "producto": "DIMETCOTE 302H GREEN RESIN",
+          "tipo": "texto",
+          "version": "5.01",
+          "anio": "2021"
+        },
+        "distancia": 0.3397417664527893,
+        "grupo": 0,
+        "ajustada": 0.3397417664527893,
+        "n": 3
+      },
+      {
+        "id": "fds047-dimetcote-302h-green-resin-ppg::0011",
+        "texto": "[PPG · DIMETCOTE 302H GREEN RESIN · versión 5.01 · FDS 2021 · Sección 3: Composición / información sobre los componentes]\nNo hay ningún ingrediente adicional presente que, bajo el conocimiento actual del proveedor y en las concentraciones aplicables, sea clasificado como de riesgo para la salud o el medio ambiente y por lo tanto deban ser reportados en esta sección. Los límites de exposición laboral, en caso de existir, figuran en la sección 8. Código SUB indica substancias sin número CAS registrados.",
+        "meta": {
+          "pagina_fin": 3,
+          "version": "5.01",
+          "archivo_original": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "pagina_inicio": 3,
+          "imagenes": "[]",
+          "tipo": "texto",
+          "fabricante": "PPG",
+          "anio": "2021",
+          "producto": "DIMETCOTE 302H GREEN RESIN",
+          "seccion_nombre": "Composición / información sobre los componentes",
+          "archivo": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "doc_id": "fds047-dimetcote-302h-green-resin-ppg",
+          "seccion_num": 3,
+          "fecha_revision": "29 Diciembre 2021"
+        },
+        "distancia": 0.4045489430427551,
+        "grupo": 0,
+        "ajustada": 0.34454894304275513,
+        "n": 4
+      },
+      {
+        "id": "fds047-dimetcote-302h-green-resin-ppg::0052",
+        "texto": "[PPG · DIMETCOTE 302H GREEN RESIN · versión 5.01 · FDS 2021 · Sección 11: Información toxicológica]\n| Nombre de producto o ingrediente | Oral (mg/ kg) | Cutánea (mg/kg) | Inhalación (gases) (ppm) | Inhalación (vapores) (mg/l) | Inhalación (polvos y nieblas) (mg/l) |\n|---|---|---|---|---|---|\n| DIMETCOTE 302H GREEN RESIN Metil n-amilcetona Oxido de Cinc Acetato de n-butilo | 3926.5 1600 N/A 10768 | 42586.1 10206 2500 N/A | N/A N/A N/A N/A | 101.6 16.7 N/A N/A | 9.1 1.5 N/A N/A |",
+        "meta": {
+          "anio": "2021",
+          "fecha_revision": "29 Diciembre 2021",
+          "archivo": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "pagina_fin": 11,
+          "fabricante": "PPG",
+          "archivo_original": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "imagenes": "[]",
+          "seccion_num": 11,
+          "version": "5.01",
+          "doc_id": "fds047-dimetcote-302h-green-resin-ppg",
+          "pagina_inicio": 11,
+          "seccion_nombre": "Información toxicológica",
+          "producto": "DIMETCOTE 302H GREEN RESIN",
+          "tipo": "tabla"
+        },
+        "distancia": 0.35454249382019043,
+        "grupo": 0,
+        "ajustada": 0.35454249382019043,
+        "n": 5
+      },
+      {
+        "id": "fds047-dimetcote-302h-green-resin-ppg::0029",
+        "texto": "[PPG · DIMETCOTE 302H GREEN RESIN · versión 5.01 · FDS 2021 · Sección 8: Controles de exposición / protección personal]\n| Nombre de ingrediente |  | Límites de exposición |\n|---|---|---|\n| Cemento Portland Metil n-amilcetona Oxido de Cinc Acetato de n-butilo | ACGIH TLV (Estados Unidos, 1/2021). TWA: 1 mg/m³ 8 horas. Estado: Fracción respirable ACGIH TLV (Estados Unidos, 1/2021). TWA: 233 mg/m³ 8 horas. TWA: 50 ppm 8 horas. ACGIH TLV (Estados Unidos, 1/2021). STEL: 10 mg/m³ 15 minutos. Estado: Fracción respirable TWA: 2 mg/m³ 8 horas. Estado: Fracción respirable ACGIH TLV (Estados Unidos, 1/2021). STEL: 150 ppm 15 minutos. TWA: 50 ppm 8 horas. |\n| Procedimientos de control recomendados : | Si este producto contiene ingredientes con límites de exposición, puede ser necesaria la supervisión personal, del ambiente de trabajo o biológica para determinar la efectividad de la ventilación o de otras medidas de control y/o la necesidad de usar equipo respiratorio protector. Se debe hacer referencia a las normas adecuadas de monitoreo. También se requiere hacer referencia a los documentos guía nacionales sobre los métodos para la determinación de sustancias peligrosas. |\n| Controles técnicos apropiados | : Use sólo con ventilación adecuada. Utilizar recintos de proceso, sistemas de ventilación locales, u otros procedimientos de ingeniería para mantener la exposición del obrero a los contaminantes aerotransportados por debajo de todos los límites recomendados o estatutarios. Los controles de ingeniería también deben mantener el gas, vapor o polvo por debajo del menor límite de explosión. |",
+        "meta": {
+          "version": "5.01",
+          "anio": "2021",
+          "fecha_revision": "29 Diciembre 2021",
+          "archivo": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "producto": "DIMETCOTE 302H GREEN RESIN",
+          "doc_id": "fds047-dimetcote-302h-green-resin-ppg",
+          "tipo": "tabla",
+          "imagenes": "[]",
+          "seccion_num": 8,
+          "pagina_fin": 6,
+          "seccion_nombre": "Controles de exposición / protección personal",
+          "archivo_original": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+          "pagina_inicio": 6,
+          "fabricante": "PPG"
+        },
+        "distancia": 0.36442577838897705,
+        "grupo": 0,
+        "ajustada": 0.36442577838897705,
+        "n": 6
+      }
+    ],
+    "filtros": {
+      "fabricantes": [
+        "PPG"
+      ],
+      "anios": [],
+      "secciones_probables": [
+        3
+      ],
+      "productos": [
+        "DIMETCOTE 302H GREEN RESIN"
+      ],
+      "docs": [
+        "fds047-dimetcote-302h-green-resin-ppg"
+      ],
+      "comparacion": false,
+      "grupos": 1,
+      "notas": [],
+      "variantes_sin_ficha": []
+    },
+    "t_embedding_s": 6.788,
+    "t_busqueda_s": 0.208,
+    "t_recuperacion_s": 6.996,
+    "respuesta": "El porcentaje de cinc en polvo (estabilizado) en el Dimetcote 302H Green Resin de PPG se encuentra entre 30 - <60%. [1]",
+    "t_generacion_s": 21.68,
+    "t_carga_modelo_s": 11.99,
+    "tokens_prompt": 2267,
+    "tokens_generados": 45,
+    "tokens_por_s": 7.64,
+    "fuentes": [
+      {
+        "n": 1,
+        "fabricante": "PPG",
+        "producto": "DIMETCOTE 302H GREEN RESIN",
+        "version": "5.01",
+        "documento": "FDS 47 - DIMETCOTE 302H GREEN RESIN - PPG.pdf",
+        "pagina": 3,
+        "seccion": "3 Composición / información sobre los componentes"
+      }
+    ],
+    "citas_invalidas": [],
+    "evidencia_insuficiente": false,
+    "tiempo_total_s": 28.68,
+    "id": "dev01",
+    "tipo": "directa"
+  },
+  {
+    "pregunta": "¿Qué primeros auxilios indica Pintuco en la ficha de Koraza Pro 550 Blanco si el producto entra en contacto con los ojos?",
+    "top_k": 6,
+    "fragmentos": [
+      {
+        "id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1::0008",
+        "texto": "[Pintuco · KORAZA PRO 550 BLANCO · versión 1 · FDS 2018 · Sección 4: Primeros auxilios]\nPor contacto con la piel: En caso de contacto se recomienda limpiar la zona afecta con agua por arrastre y con jabón neutro. En caso de alteraciones en la piel (escozor, rojez, sarpullidos, ampollas…), acudir a consulta médica con esta Ficha de Datos de Seguridad Por contacto con los ojos: Se trata de un producto que no contiene sustancias clasificadas como peligrosas en contacto con los ojos. Enjuagar durante al menos 15 minutos con abundante agua a temperatura ambiente, evitando que el afectado se frote o cierre los ojos. Por ingestión/aspiración: En caso de ingestión, solicitar asistencia médica inmediata mostrando la FDS de este producto. 4.2 Síntomas/efectos más importantes, agudos o retardados: Los efectos agudos y retardados son los indicados en las secciones 2 y 11.",
+        "meta": {
+          "fecha_revision": "",
+          "pagina_inicio": 1,
+          "seccion_num": 4,
+          "fabricante": "Pintuco",
+          "archivo": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf",
+          "doc_id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1",
+          "producto": "KORAZA PRO 550 BLANCO",
+          "seccion_nombre": "Primeros auxilios",
+          "pagina_fin": 2,
+          "archivo_original": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versi#U00f3n 1).pdf",
+          "tipo": "texto",
+          "anio": "2018",
+          "version": "1",
+          "imagenes": "[\"data/processed/fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1/imagenes/p001_img01.png\"]"
+        },
+        "distancia": 0.26472043991088867,
+        "grupo": 0,
+        "ajustada": 0.20472043991088867,
+        "n": 1
+      },
+      {
+        "id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1::0007",
+        "texto": "[Pintuco · KORAZA PRO 550 BLANCO · versión 1 · FDS 2018 · Sección 4: Primeros auxilios]\nSECCIÓN 4: PRIMEROS AUXILIOS 4.1 Descripción de los primeros auxilios necesarios: Los síntomas como consecuencia de una intoxicación pueden presentarse con posterioridad a la exposición, por lo que, en caso de duda, exposición directa al producto químico o persistencia del malestar solicitar atención médica, mostrándole la FDS de este producto. Por inhalación: Se trata de un producto que no contiene sustancias clasificadas como peligrosas por inhalación, sin embargo, en caso de síntomas de intoxicación sacar al afectado de la zona de exposición y proporcionarle aire fresco. Solicitar atención médica si los síntomas se agravan o persisten. Por contacto con la piel: En caso de contacto se recomienda limpiar la zona afecta con agua por arrastre y con jabón neutro.",
+        "meta": {
+          "tipo": "texto",
+          "pagina_inicio": 1,
+          "seccion_nombre": "Primeros auxilios",
+          "doc_id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1",
+          "producto": "KORAZA PRO 550 BLANCO",
+          "version": "1",
+          "imagenes": "[\"data/processed/fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1/imagenes/p001_img01.png\"]",
+          "fecha_revision": "",
+          "anio": "2018",
+          "seccion_num": 4,
+          "pagina_fin": 2,
+          "fabricante": "Pintuco",
+          "archivo_original": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versi#U00f3n 1).pdf",
+          "archivo": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf"
+        },
+        "distancia": 0.2970808744430542,
+        "grupo": 0,
+        "ajustada": 0.2370808744430542,
+        "n": 2
+      },
+      {
+        "id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1::0002",
+        "texto": "[Pintuco · KORAZA PRO 550 BLANCO · versión 1 · FDS 2018 · Sección 1: Identificación del producto y de la empresa]\nSECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO - 1.1 Identificador SGA del producto: KORAZA PRO 550 BLANCO 10350789-10289257 1.2 Uso recomendado del producto químico y restricciones: Usos pertinentes: Pintura Usos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3 1.3 Datos sobre el proveedor: Pintuco Autopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1 054040 Rionegro - Antioquia - Colombia Tfno.: 57 4 569 81 00 contacto@pintuco.com http://www.pintuco.com - 1.4 Número de teléfono para emergencias: 57 4 561 22 23",
+        "meta": {
+          "fabricante": "Pintuco",
+          "seccion_num": 1,
+          "seccion_nombre": "Identificación del producto y de la empresa",
+          "pagina_fin": 1,
+          "doc_id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1",
+          "fecha_revision": "",
+          "producto": "KORAZA PRO 550 BLANCO",
+          "archivo": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf",
+          "version": "1",
+          "archivo_original": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versi#U00f3n 1).pdf",
+          "pagina_inicio": 1,
+          "tipo": "texto",
+          "imagenes": "[\"data/processed/fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1/imagenes/p001_img01.png\"]",
+          "anio": "2018"
+        },
+        "distancia": 0.31747180223464966,
+        "grupo": 0,
+        "ajustada": 0.31747180223464966,
+        "n": 3
+      },
+      {
+        "id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1::0024",
+        "texto": "[Pintuco · KORAZA PRO 550 BLANCO · versión 1 · FDS 2018 · Sección 8: Controles de exposición / protección personal]\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Proteccion obligatoria de la cara | Gafas de seguridad contra salpicaduras y/o proyecciones | Limpiar a diario y desinfectar periódicamente de acuerdo a las instrucciones del fabricante. Se recomienda su uso en caso de riesgo de salpicaduras. |",
+        "meta": {
+          "archivo_original": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versi#U00f3n 1).pdf",
+          "seccion_nombre": "Controles de exposición / protección personal",
+          "pagina_fin": 4,
+          "anio": "2018",
+          "seccion_num": 8,
+          "doc_id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1",
+          "producto": "KORAZA PRO 550 BLANCO",
+          "pagina_inicio": 4,
+          "fecha_revision": "",
+          "version": "1",
+          "fabricante": "Pintuco",
+          "tipo": "tabla",
+          "archivo": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf",
+          "imagenes": "[\"data/processed/fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1/imagenes/p004_img02.png\", \"data/processed/fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1/imagenes/p004_img03.png\", \"data/processed/fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1/imagenes/p004_img04.png\", \"data/processed/fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1/imagenes/p004_img05.png\"]"
+        },
+        "distancia": 0.3272440433502197,
+        "grupo": 0,
+        "ajustada": 0.3272440433502197,
+        "n": 4
+      },
+      {
+        "id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1::0022",
+        "texto": "[Pintuco · KORAZA PRO 550 BLANCO · versión 1 · FDS 2018 · Sección 8: Controles de exposición / protección personal]\n| Pictograma | EPP | Observaciones |\n|---|---|---|\n| Proteccion obligatoria de la manos | Guantes de protección | recomendable la utilización de guantes de protección quimica |",
+        "meta": {
+          "anio": "2018",
+          "version": "1",
+          "imagenes": "[\"data/processed/fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1/imagenes/p003_img02.png\"]",
+          "seccion_num": 8,
+          "doc_id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1",
+          "tipo": "tabla",
+          "archivo_original": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versi#U00f3n 1).pdf",
+          "archivo": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf",
+          "producto": "KORAZA PRO 550 BLANCO",
+          "fecha_revision": "",
+          "pagina_fin": 3,
+          "seccion_nombre": "Controles de exposición / protección personal",
+          "pagina_inicio": 3,
+          "fabricante": "Pintuco"
+        },
+        "distancia": 0.3281129002571106,
+        "grupo": 0,
+        "ajustada": 0.3281129002571106,
+        "n": 5
+      },
+      {
+        "id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1::0009",
+        "texto": "[Pintuco · KORAZA PRO 550 BLANCO · versión 1 · FDS 2018 · Sección 4: Primeros auxilios]\n4.2 Síntomas/efectos más importantes, agudos o retardados: Los efectos agudos y retardados son los indicados en las secciones 2 y 11. 4.3 Indicación de la necesidad de recibir atención médica inmediata y, en su caso, de tratamiento especial: No relevante",
+        "meta": {
+          "imagenes": "[]",
+          "tipo": "texto",
+          "archivo_original": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versi#U00f3n 1).pdf",
+          "pagina_fin": 2,
+          "producto": "KORAZA PRO 550 BLANCO",
+          "archivo": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf",
+          "anio": "2018",
+          "seccion_num": 4,
+          "pagina_inicio": 2,
+          "version": "1",
+          "fabricante": "Pintuco",
+          "fecha_revision": "",
+          "seccion_nombre": "Primeros auxilios",
+          "doc_id": "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1"
+        },
+        "distancia": 0.39353054761886597,
+        "grupo": 0,
+        "ajustada": 0.33353054761886597,
+        "n": 6
+      }
+    ],
+    "filtros": {
+      "fabricantes": [
+        "Pintuco"
+      ],
+      "anios": [],
+      "secciones_probables": [
+        4
+      ],
+      "productos": [
+        "KORAZA PRO 550 BLANCO"
+      ],
+      "docs": [
+        "fds005-koraza-pro-550-blanco-10350789-10289257-col-version-1"
+      ],
+      "comparacion": false,
+      "grupos": 1,
+      "notas": [],
+      "variantes_sin_ficha": []
+    },
+    "t_embedding_s": 8.008,
+    "t_busqueda_s": 0.037,
+    "t_recuperacion_s": 8.044,
+    "respuesta": "Por contacto con los ojos: Se trata de un producto que no contiene sustancias clasificadas como peligrosas en contacto con los ojos. Enjuagar durante al menos 15 minutos con abundante agua a temperatura ambiente, evitando que el afectado se frote o cierre los ojos. [1][2]",
+    "t_generacion_s": 24.16,
+    "t_carga_modelo_s": 12.32,
+    "tokens_prompt": 1837,
+    "tokens_generados": 73,
+    "tokens_por_s": 8.18,
+    "fuentes": [
+      {
+        "n": 1,
+        "fabricante": "Pintuco",
+        "producto": "KORAZA PRO 550 BLANCO",
+        "version": "1",
+        "documento": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf",
+        "pagina": "1-2",
+        "seccion": "4 Primeros auxilios"
+      },
+      {
+        "n": 2,
+        "fabricante": "Pintuco",
+        "producto": "KORAZA PRO 550 BLANCO",
+        "version": "1",
+        "documento": "FDS 5 - KORAZA PRO 550 BLANCO  _ 10350789-10289257 _COL (Versión 1).pdf",
+        "pagina": "1-2",
+        "seccion": "4 Primeros auxilios"
+      }
+    ],
+    "citas_invalidas": [],
+    "evidencia_insuficiente": false,
+    "tiempo_total_s": 32.2,
+    "id": "dev02",
+    "tipo": "directa"
+  },
+  {
+    "pregunta": "¿Cuál es el teléfono de emergencia del proveedor del Sikafloor-2430 Part A?",
+    "top_k": 6,
+    "fragmentos": [
+      {
+        "id": "fds071-sikafloor-2430-part-a-sika::0002",
+        "texto": "[Sika · Sikafloor®-2430 Part A · versión 3.0 · FDS 2023 · Sección 1: Identificación del producto y de la empresa]\nSECCIÓN 1. IDENTIFICACIÓN DE LA SUSTANCIA QUÍMICA PELIGROSA O MEZCLA Y DEL PROVEEDOR O FABRICANTE Nombre del producto : Sikafloor®-2430 Part A Informaciones sobre el fabricante o el proveedor Compañía Teléfono : Sika Colombia S.A.S. Vereda Canavita km 20,5 Autopista Norte Tocancipá, Cundinamarca Colombia : (57-1) 8786333 Teléfono de emergencia Dirección de correo electróni- co Fax : CISPROQUIM Bogotá: 2886012 / 2886355 Resto del país: 01 8000 916012 : controlcalidad.lab@co.sika.com : (57-1) 8786660 Uso recomendado del producto químico y restricciones de uso Uso del producto : Revestimiento de epoxi",
+        "meta": {
+          "seccion_num": 1,
+          "doc_id": "fds071-sikafloor-2430-part-a-sika",
+          "tipo": "texto",
+          "archivo_original": "FDS 71 -  Sikafloor#U00ae-2430  Part A - SIKA.pdf",
+          "seccion_nombre": "Identificación del producto y de la empresa",
+          "anio": "2023",
+          "version": "3.0",
+          "pagina_inicio": 1,
+          "fabricante": "Sika",
+          "pagina_fin": 1,
+          "fecha_revision": "2023/08/15",
+          "producto": "Sikafloor®-2430 Part A",
+          "archivo": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf",
+          "imagenes": "[\"data/processed/fds071-sikafloor-2430-part-a-sika/imagenes/p001_img01.png\"]"
+        },
+        "distancia": 0.26491010189056396,
+        "grupo": 0,
+        "ajustada": 0.20491010189056397,
+        "n": 1
+      },
+      {
+        "id": "fds072-sikafloor-2430-co-comp-b-sika::0002",
+        "texto": "[Sika · Sikafloor®-2430 Part B · versión 3.0 · FDS 2023 · Sección 1: Identificación del producto y de la empresa]\nSECCIÓN 1. IDENTIFICACIÓN DE LA SUSTANCIA QUÍMICA PELIGROSA O MEZCLA Y DEL PROVEEDOR O FABRICANTE Nombre del producto : Sikafloor®-2430 Part B Informaciones sobre el fabricante o el proveedor Compañía Teléfono : Sika Colombia S.A.S. Vereda Canavita km 20,5 Autopista Norte Tocancipá, Cundinamarca Colombia : (57-1) 8786333 Teléfono de emergencia Dirección de correo electróni- co Fax : CISPROQUIM Bogotá: 2886012 / 2886355 Resto del país: 01 8000 916012 : controlcalidad.lab@co.sika.com : (57-1) 8786660 Uso recomendado del producto químico y restricciones de uso Uso del producto : Catalizador",
+        "meta": {
+          "doc_id": "fds072-sikafloor-2430-co-comp-b-sika",
+          "pagina_fin": 1,
+          "archivo_original": "FDS 72 - Sikafloor#U00ae-2430 CO Comp.B - SIKA.pdf",
+          "imagenes": "[\"data/processed/fds072-sikafloor-2430-co-comp-b-sika/imagenes/p001_img01.png\"]",
+          "tipo": "texto",
+          "seccion_num": 1,
+          "pagina_inicio": 1,
+          "archivo": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+          "anio": "2023",
+          "seccion_nombre": "Identificación del producto y de la empresa",
+          "producto": "Sikafloor®-2430 Part B",
+          "fabricante": "Sika",
+          "fecha_revision": "2023/08/15",
+          "version": "3.0"
+        },
+        "distancia": 0.2805584669113159,
+        "grupo": 0,
+        "ajustada": 0.22055846691131592,
+        "n": 2
+      },
+      {
+        "id": "fds071-sikafloor-2430-part-a-sika::0041",
+        "texto": "[Sika · Sikafloor®-2430 Part A · versión 3.0 · FDS 2023 · Sección 16: Otra información]\nLa informacion contenida en este ficha de datos de seguridad corresponde a nuestro nivel de conocimiento en el momento de su publicacion. Quedan excluidas todas las garantias. Se aplicaran nuestras condiciones generales de venta en vigor. Por favor, consulte la Hoja de Datos del Producto antes de su uso y procesamiento. CO / 1X",
+        "meta": {
+          "tipo": "texto",
+          "archivo_original": "FDS 71 -  Sikafloor#U00ae-2430  Part A - SIKA.pdf",
+          "fecha_revision": "2023/08/15",
+          "pagina_inicio": 13,
+          "pagina_fin": 13,
+          "version": "3.0",
+          "anio": "2023",
+          "archivo": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf",
+          "seccion_nombre": "Otra información",
+          "doc_id": "fds071-sikafloor-2430-part-a-sika",
+          "imagenes": "[]",
+          "producto": "Sikafloor®-2430 Part A",
+          "seccion_num": 16,
+          "fabricante": "Sika"
+        },
+        "distancia": 0.37627851963043213,
+        "grupo": 0,
+        "ajustada": 0.37627851963043213,
+        "n": 3
+      },
+      {
+        "id": "fds072-sikafloor-2430-co-comp-b-sika::0039",
+        "texto": "[Sika · Sikafloor®-2430 Part B · versión 3.0 · FDS 2023 · Sección 16: Otra información]\nLa informacion contenida en este ficha de datos de seguridad corresponde a nuestro nivel de conocimiento en el momento de su publicacion. Quedan excluidas todas las garantias. Se aplicaran nuestras condiciones generales de venta en vigor. Por favor, consulte la Hoja de Datos del Producto antes de su uso y procesamiento. CO / 1X",
+        "meta": {
+          "pagina_fin": 12,
+          "version": "3.0",
+          "seccion_num": 16,
+          "fecha_revision": "2023/08/15",
+          "producto": "Sikafloor®-2430 Part B",
+          "pagina_inicio": 12,
+          "tipo": "texto",
+          "imagenes": "[]",
+          "archivo": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+          "doc_id": "fds072-sikafloor-2430-co-comp-b-sika",
+          "seccion_nombre": "Otra información",
+          "archivo_original": "FDS 72 - Sikafloor#U00ae-2430 CO Comp.B - SIKA.pdf",
+          "anio": "2023",
+          "fabricante": "Sika"
+        },
+        "distancia": 0.3844837546348572,
+        "grupo": 0,
+        "ajustada": 0.3844837546348572,
+        "n": 4
+      },
+      {
+        "id": "fds071-sikafloor-2430-part-a-sika::0023",
+        "texto": "[Sika · Sikafloor®-2430 Part A · versión 3.0 · FDS 2023 · Sección 8: Controles de exposición / protección personal]\nVersión 3.0 Número de HDS: 100000030164 Fecha de revisión: 2023/08/15",
+        "meta": {
+          "fecha_revision": "2023/08/15",
+          "pagina_inicio": 7,
+          "fabricante": "Sika",
+          "seccion_nombre": "Controles de exposición / protección personal",
+          "seccion_num": 8,
+          "producto": "Sikafloor®-2430 Part A",
+          "archivo_original": "FDS 71 -  Sikafloor#U00ae-2430  Part A - SIKA.pdf",
+          "tipo": "texto",
+          "version": "3.0",
+          "imagenes": "[]",
+          "pagina_fin": 7,
+          "anio": "2023",
+          "archivo": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf",
+          "doc_id": "fds071-sikafloor-2430-part-a-sika"
+        },
+        "distancia": 0.3870962858200073,
+        "grupo": 0,
+        "ajustada": 0.3870962858200073,
+        "n": 5
+      },
+      {
+        "id": "fds071-sikafloor-2430-part-a-sika::0001",
+        "texto": "[Sika · Sikafloor®-2430 Part A · versión 3.0 · FDS 2023 · Encabezado del documento]\nVersión 3.0 Número de HDS: 100000030164 Fecha de revisión: 2023/08/15",
+        "meta": {
+          "tipo": "texto",
+          "fecha_revision": "2023/08/15",
+          "seccion_nombre": "Encabezado del documento",
+          "version": "3.0",
+          "producto": "Sikafloor®-2430 Part A",
+          "fabricante": "Sika",
+          "archivo_original": "FDS 71 -  Sikafloor#U00ae-2430  Part A - SIKA.pdf",
+          "pagina_inicio": 1,
+          "archivo": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf",
+          "seccion_num": 0,
+          "doc_id": "fds071-sikafloor-2430-part-a-sika",
+          "imagenes": "[\"data/processed/fds071-sikafloor-2430-part-a-sika/imagenes/p001_img01.png\"]",
+          "pagina_fin": 1,
+          "anio": "2023"
+        },
+        "distancia": 0.3893798589706421,
+        "grupo": 0,
+        "ajustada": 0.3893798589706421,
+        "n": 6
+      }
+    ],
+    "filtros": {
+      "fabricantes": [
+        "Sika"
+      ],
+      "anios": [],
+      "secciones_probables": [
+        1
+      ],
+      "productos": [
+        "Sikafloor®-2430 Part A",
+        "Sikafloor®-2430 Part B"
+      ],
+      "docs": [
+        "fds071-sikafloor-2430-part-a-sika",
+        "fds072-sikafloor-2430-co-comp-b-sika"
+      ],
+      "comparacion": false,
+      "grupos": 1,
+      "notas": [],
+      "variantes_sin_ficha": []
+    },
+    "t_embedding_s": 7.096,
+    "t_busqueda_s": 0.032,
+    "t_recuperacion_s": 7.128,
+    "respuesta": "El teléfono de emergencia del proveedor del Sikafloor-2430 Part A es 01 8000 916012 [1][4].",
+    "t_generacion_s": 20.15,
+    "t_carga_modelo_s": 12.89,
+    "tokens_prompt": 1540,
+    "tokens_generados": 41,
+    "tokens_por_s": 8.73,
+    "fuentes": [
+      {
+        "n": 1,
+        "fabricante": "Sika",
+        "producto": "Sikafloor®-2430 Part A",
+        "version": "3.0",
+        "documento": "FDS 71 -  Sikafloor®-2430  Part A - SIKA.pdf",
+        "pagina": 1,
+        "seccion": "1 Identificación del producto y de la empresa"
+      },
+      {
+        "n": 4,
+        "fabricante": "Sika",
+        "producto": "Sikafloor®-2430 Part B",
+        "version": "3.0",
+        "documento": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+        "pagina": 12,
+        "seccion": "16 Otra información"
+      }
+    ],
+    "citas_invalidas": [],
+    "evidencia_insuficiente": false,
+    "tiempo_total_s": 27.28,
+    "id": "dev03",
+    "tipo": "directa"
+  },
+  {
+    "pregunta": "¿Qué medios de extinción son adecuados para el Topcoat 400 1793 Blanco de International?",
+    "top_k": 6,
+    "fragmentos": [
+      {
+        "id": "fds080-topcoat-400-1793-blanco-international-aksonobel::0002",
+        "texto": "[AkzoNobel · TOPCOAT 400 1793 BLANCO · versión 1 · FDS 2024 · Sección 1: Identificación del producto y de la empresa]\nSección 1. Identificación Identificador SGA del producto SDS code : TOPCOAT 400 1793 BLANCO : 11 Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados Uso profesional Uso industrial Uso por el consumidor Usos identificados Usos contraindicados Todos los demás usos Uso del producto : Recubrimiento base disolvente para uso interior y exterior. Datos sobre el proveedor Compañía Global de Pinturas S.A.S. Autopista Medellín Bogotá Km 37. Vía Belén Rionegro Km 1. 054040 Rionegro - Antioquia - Colombia 01 8000 111 247 Medellín 604 325 2523 www.pintuco.com Dirección de e-mail de la persona responsable de esta FDS Teléfono de emergencias (con horas de funcionamiento) [: PSRA.southamerica@akzonobel.com](mailto:PSRA.southamerica@akzonobel.com) :",
+        "meta": {
+          "doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel",
+          "fecha_revision": "",
+          "imagenes": "[\"data/processed/fds080-topcoat-400-1793-blanco-international-aksonobel/imagenes/p001_img01.png\"]",
+          "pagina_inicio": 1,
+          "archivo": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "anio": "2024",
+          "seccion_nombre": "Identificación del producto y de la empresa",
+          "seccion_num": 1,
+          "pagina_fin": 1,
+          "producto": "TOPCOAT 400 1793 BLANCO",
+          "tipo": "texto",
+          "archivo_original": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "version": "1",
+          "fabricante": "AkzoNobel"
+        },
+        "distancia": 0.408227801322937,
+        "grupo": 0,
+        "ajustada": 0.408227801322937,
+        "n": 1
+      },
+      {
+        "id": "fds080-topcoat-400-1793-blanco-international-aksonobel::0018",
+        "texto": "[AkzoNobel · TOPCOAT 400 1793 BLANCO · versión 1 · FDS 2024 · Sección 5: Medidas de lucha contra incendios]\nSección 5. Medidas de lucha contra incendios Medios de extinción Medios de extinción apropiados Medios de extinción no apropiados Peligros específicos del producto químico Productos de descomposición térmica peligrosos Medidas especiales que deben tomar los equipos de lucha contra incendios : Utilizar polvos químicos secos, CO₂, agua pulverizada (niebla de agua) o espuma. : No usar chorro de agua. : Líquidos y vapores inflamables. Los residuos líquidos que se filtran en el alcantarillado pueden causar un riesgo de incendio o de explosión. La presión puede aumentar y el contenedor puede explotar en caso de calentamiento o incendio, con el riesgo de producirse una explosión. Este material es nocivo para la vida acuática con efectos de larga duración.",
+        "meta": {
+          "doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel",
+          "archivo": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "imagenes": "[]",
+          "producto": "TOPCOAT 400 1793 BLANCO",
+          "pagina_fin": 4,
+          "seccion_num": 5,
+          "tipo": "texto",
+          "fecha_revision": "",
+          "anio": "2024",
+          "pagina_inicio": 4,
+          "fabricante": "AkzoNobel",
+          "version": "1",
+          "seccion_nombre": "Medidas de lucha contra incendios",
+          "archivo_original": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf"
+        },
+        "distancia": 0.46939170360565186,
+        "grupo": 0,
+        "ajustada": 0.40939170360565186,
+        "n": 2
+      },
+      {
+        "id": "fds080-topcoat-400-1793-blanco-international-aksonobel::0019",
+        "texto": "[AkzoNobel · TOPCOAT 400 1793 BLANCO · versión 1 · FDS 2024 · Sección 5: Medidas de lucha contra incendios]\nEste material es nocivo para la vida acuática con efectos de larga duración. Se debe impedir que el agua de extinción de incendios contaminada con este material entre en vías de agua, drenajes o alcantarillados. : Los productos de descomposición pueden incluir los siguientes materiales: dióxido de carbono monóxido de carbono óxido/óxidos metálico/metálicos : En caso de incendio, aislar rápidamente la zona, evacuando a todas las personas de las proximidades del lugar del incidente. No se debe realizar ninguna acción que suponga un riesgo personal o sin formación adecuada. Desplazar los contenedores lejos del incendio si puede hacerse sin peligro. Use agua pulverizada para refrigerar los envases expuestos al fuego. AkzoNobel",
+        "meta": {
+          "seccion_nombre": "Medidas de lucha contra incendios",
+          "tipo": "texto",
+          "pagina_fin": 4,
+          "fecha_revision": "",
+          "fabricante": "AkzoNobel",
+          "producto": "TOPCOAT 400 1793 BLANCO",
+          "doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel",
+          "pagina_inicio": 4,
+          "archivo_original": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "imagenes": "[]",
+          "anio": "2024",
+          "archivo": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "version": "1",
+          "seccion_num": 5
+        },
+        "distancia": 0.4737604260444641,
+        "grupo": 0,
+        "ajustada": 0.4137604260444641,
+        "n": 3
+      },
+      {
+        "id": "fds080-topcoat-400-1793-blanco-international-aksonobel::0006",
+        "texto": "[AkzoNobel · TOPCOAT 400 1793 BLANCO · versión 1 · FDS 2024 · Sección 2: Identificación de peligros]\n: P201 - Solicitar instrucciones especiales antes del uso. Respuesta Almacenamiento P280 - Usar guantes de protección, ropa de protección e equipo de protección para la cara o los ojos. P210 - Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y de cualquier otra fuente de ignición. No fumar. P273 - Evitar su liberación al medio ambiente. P260 - No respirar los vapores. P270 - No comer, beber ni fumar durante su utilización. P264 - Lavarse las manos concienzudamente tras la manipulación. : P308 + P313 - EN CASO DE exposición manifiesta o presunta: Consultar a un médico. P362 + P364 - Quitar las prendas contaminadas y lavarlas antes de volver a usarlas. P302 + P352 - EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua.",
+        "meta": {
+          "archivo": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "tipo": "texto",
+          "version": "1",
+          "fabricante": "AkzoNobel",
+          "seccion_num": 2,
+          "anio": "2024",
+          "seccion_nombre": "Identificación de peligros",
+          "pagina_fin": 2,
+          "pagina_inicio": 2,
+          "archivo_original": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel",
+          "fecha_revision": "",
+          "imagenes": "[\"data/processed/fds080-topcoat-400-1793-blanco-international-aksonobel/imagenes/p002_img01.png\", \"data/processed/fds080-topcoat-400-1793-blanco-international-aksonobel/imagenes/p002_img02.png\", \"data/processed/fds080-topcoat-400-1793-blanco-international-aksonobel/imagenes/p002_img03.png\"]",
+          "producto": "TOPCOAT 400 1793 BLANCO"
+        },
+        "distancia": 0.41600459814071655,
+        "grupo": 0,
+        "ajustada": 0.41600459814071655,
+        "n": 4
+      },
+      {
+        "id": "fds080-topcoat-400-1793-blanco-international-aksonobel::0001",
+        "texto": "[AkzoNobel · TOPCOAT 400 1793 BLANCO · versión 1 · FDS 2024 · Encabezado del documento]\nX .International. FICHA DE DATOS DE SEGURIDAD TOPCOAT 400 1793 BLANCO",
+        "meta": {
+          "seccion_nombre": "Encabezado del documento",
+          "imagenes": "[\"data/processed/fds080-topcoat-400-1793-blanco-international-aksonobel/imagenes/p001_img01.png\"]",
+          "fecha_revision": "",
+          "doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel",
+          "pagina_inicio": 1,
+          "seccion_num": 0,
+          "archivo": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "pagina_fin": 1,
+          "fabricante": "AkzoNobel",
+          "tipo": "texto",
+          "archivo_original": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "anio": "2024",
+          "version": "1",
+          "producto": "TOPCOAT 400 1793 BLANCO"
+        },
+        "distancia": 0.4366002678871155,
+        "grupo": 0,
+        "ajustada": 0.4366002678871155,
+        "n": 5
+      },
+      {
+        "id": "fds080-topcoat-400-1793-blanco-international-aksonobel::0042",
+        "texto": "[AkzoNobel · TOPCOAT 400 1793 BLANCO · versión 1 · FDS 2024 · Sección 9: Propiedades físicas y químicas]\n| Soporte | Resultado |\n|---|---|\n| agua fría | No soluble [OECD (TG 105)] |",
+        "meta": {
+          "archivo_original": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "pagina_fin": 8,
+          "seccion_num": 9,
+          "archivo": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+          "seccion_nombre": "Propiedades físicas y químicas",
+          "pagina_inicio": 8,
+          "anio": "2024",
+          "tipo": "tabla",
+          "imagenes": "[]",
+          "fabricante": "AkzoNobel",
+          "doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel",
+          "version": "1",
+          "fecha_revision": "",
+          "producto": "TOPCOAT 400 1793 BLANCO"
+        },
+        "distancia": 0.4398304224014282,
+        "grupo": 0,
+        "ajustada": 0.4398304224014282,
+        "n": 6
+      }
+    ],
+    "filtros": {
+      "fabricantes": [
+        "AkzoNobel"
+      ],
+      "anios": [],
+      "secciones_probables": [
+        5
+      ],
+      "productos": [
+        "TOPCOAT 400 1793 BLANCO"
+      ],
+      "docs": [
+        "fds080-topcoat-400-1793-blanco-international-aksonobel"
+      ],
+      "comparacion": false,
+      "grupos": 1,
+      "notas": [],
+      "variantes_sin_ficha": []
+    },
+    "t_embedding_s": 7.896,
+    "t_busqueda_s": 0.03,
+    "t_recuperacion_s": 7.925,
+    "respuesta": "Los medios de extinción apropiados para el Topcoat 400 1793 Blanco de International son polvos químicos secos, CO₂, agua pulverizada (niebla de agua) o espuma. No se debe usar chorro de agua. [2][3]",
+    "t_generacion_s": 22.94,
+    "t_carga_modelo_s": 12.33,
+    "tokens_prompt": 1878,
+    "tokens_generados": 65,
+    "tokens_por_s": 8.45,
+    "fuentes": [
+      {
+        "n": 2,
+        "fabricante": "AkzoNobel",
+        "producto": "TOPCOAT 400 1793 BLANCO",
+        "version": "1",
+        "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+        "pagina": 4,
+        "seccion": "5 Medidas de lucha contra incendios"
+      },
+      {
+        "n": 3,
+        "fabricante": "AkzoNobel",
+        "producto": "TOPCOAT 400 1793 BLANCO",
+        "version": "1",
+        "documento": "FDS 80 - TOPCOAT 400 1793 BLANCO - INTERNATIONAL - AKSONOBEL.pdf",
+        "pagina": 4,
+        "seccion": "5 Medidas de lucha contra incendios"
+      }
+    ],
+    "citas_invalidas": [],
+    "evidencia_insuficiente": false,
+    "tiempo_total_s": 30.87,
+    "id": "dev04",
+    "tipo": "directa"
+  },
+  {
+    "pregunta": "Compara las precauciones de manipulación y almacenamiento de la Pintura Total de Corona entre la ficha de 2021 y la de 2023.",
+    "top_k": 6,
+    "fragmentos": [
+      {
+        "id": "fds076-pintura-total-corona::0018",
+        "texto": "[Corona · PINTURA TOTAL · versión 11 · FDS 2023 · Sección 7: Manipulación y almacenamiento]\n- CONTINÚA EN LA SIGUIENTE PÁGINA - según Decreto 1496 de 2018 y Resolución 773 de 2021 7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades: - A.- Medidas técnicas de almacenamiento - B.- Condiciones generales de almacenamiento. Temperatura mínima: Temperatura máxima: 5 ºC 30 ºC Tiempo máximo: 12 meses Evitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5 7.3 Usos específicos finales: Salvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este producto.",
+        "meta": {
+          "anio": "2023",
+          "fabricante": "Corona",
+          "fecha_revision": "",
+          "archivo_original": "FDS 76 - PINTURA TOTAL - CORONA.pdf",
+          "version": "11",
+          "imagenes": "[\"data/processed/fds076-pintura-total-corona/imagenes/p004_img02.png\", \"data/processed/fds076-pintura-total-corona/imagenes/p004_img03.png\"]",
+          "pagina_inicio": 3,
+          "pagina_fin": 4,
+          "seccion_nombre": "Manipulación y almacenamiento",
+          "archivo": "FDS 76 - PINTURA TOTAL - CORONA.pdf",
+          "doc_id": "fds076-pintura-total-corona",
+          "tipo": "texto",
+          "producto": "PINTURA TOTAL",
+          "seccion_num": 7
+        },
+        "distancia": 0.37350237369537354,
+        "grupo": 1,
+        "ajustada": 0.31350237369537354,
+        "n": 1
+      },
+      {
+        "id": "fds049-pintura-total-corona::0063",
+        "texto": "[Corona · PINTURA TOTAL · versión 7 · FDS 2021 · Sección 16: Otra información]\nLa información de esta ficha de datos de seguridad de materiales únicamente se refiere a este producto, el cual no debe emplearse con fines distintos a los que se especifican. FIN DE LA FICHA DE DATOS DE SEGURIDAD Emisión: 04/03/2019 Revisión: 26/10/2021 Versión: 7 (sustituye a 6) Página 10/10 corona",
+        "meta": {
+          "archivo_original": "FDS 49 - PINTURA TOTAL - CORONA .pdf",
+          "tipo": "texto",
+          "version": "7",
+          "seccion_num": 16,
+          "pagina_fin": 10,
+          "fabricante": "Corona",
+          "producto": "PINTURA TOTAL",
+          "doc_id": "fds049-pintura-total-corona",
+          "fecha_revision": "",
+          "imagenes": "[\"data/processed/fds049-pintura-total-corona/imagenes/p010_img02.png\"]",
+          "seccion_nombre": "Otra información",
+          "anio": "2021",
+          "pagina_inicio": 10,
+          "archivo": "FDS 49 - PINTURA TOTAL - CORONA .pdf"
+        },
+        "distancia": 0.3158247470855713,
+        "grupo": 0,
+        "ajustada": 0.3158247470855713,
+        "n": 2
+      },
+      {
+        "id": "fds049-pintura-total-corona::0016",
+        "texto": "[Corona · PINTURA TOTAL · versión 7 · FDS 2021 · Sección 7: Manipulación y almacenamiento]\nSe recomienda disponer de material absorbente en las proximidades del producto (ver epígrafe 6.3 de la FDS para mayor información) 7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades: - A.- Medidas técnicas de almacenamiento Temperatura mínima: Temperatura máxima: 5 ºC 30 ºC Tiempo máximo: 6 meses - CONTINÚA EN LA SIGUIENTE PÁGINA - - B.- Condiciones generales de almacenamiento. Evitar fuentes de calor, radiación, electricidad estática y el contacto con alimentos. Para información adicional ver epígrafe 10.5 7.3 Usos específicos finales: Salvo las indicaciones ya especificadas no es preciso realizar ninguna recomendación especial en cuanto a los usos de este producto.",
+        "meta": {
+          "archivo_original": "FDS 49 - PINTURA TOTAL - CORONA .pdf",
+          "archivo": "FDS 49 - PINTURA TOTAL - CORONA .pdf",
+          "fecha_revision": "",
+          "tipo": "texto",
+          "seccion_num": 7,
+          "seccion_nombre": "Manipulación y almacenamiento",
+          "pagina_fin": 4,
+          "fabricante": "Corona",
+          "imagenes": "[\"data/processed/fds049-pintura-total-corona/imagenes/p004_img02.png\", \"data/processed/fds049-pintura-total-corona/imagenes/p004_img03.png\"]",
+          "anio": "2021",
+          "version": "7",
+          "doc_id": "fds049-pintura-total-corona",
+          "producto": "PINTURA TOTAL",
+          "pagina_inicio": 3
+        },
+        "distancia": 0.38580381870269775,
+        "grupo": 0,
+        "ajustada": 0.32580381870269776,
+        "n": 3
+      },
+      {
+        "id": "fds049-pintura-total-corona::0014",
+        "texto": "[Corona · PINTURA TOTAL · versión 7 · FDS 2021 · Sección 7: Manipulación y almacenamiento]\nSECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO 7.1 Precauciones que se deben tomar para garantizar una manipulación segura: A.- Precauciones generales Cumplir con la legislación vigente en materia de prevención de riesgos laborales. Mantener los recipientes herméticamente cerrados. Controlar los derrames y residuos, eliminándolos con métodos seguros (sección 6 de la FDS). Evitar el vertido libre desde el recipiente. Mantener orden y limpieza donde se manipulen productos peligrosos. - B.- Recomendaciones técnicas para la prevención de incendios y explosiones. Producto no inflamable bajo condiciones normales de almacenamiento, manipulación y uso. Se recomienda trasvasar a velocidades lentas para evitar la generación de cargas electroestáticas que pudieran afectar a productos inflamables.",
+        "meta": {
+          "producto": "PINTURA TOTAL",
+          "seccion_nombre": "Manipulación y almacenamiento",
+          "archivo_original": "FDS 49 - PINTURA TOTAL - CORONA .pdf",
+          "seccion_num": 7,
+          "fabricante": "Corona",
+          "anio": "2021",
+          "tipo": "texto",
+          "pagina_fin": 3,
+          "version": "7",
+          "archivo": "FDS 49 - PINTURA TOTAL - CORONA .pdf",
+          "fecha_revision": "",
+          "imagenes": "[]",
+          "pagina_inicio": 3,
+          "doc_id": "fds049-pintura-total-corona"
+        },
+        "distancia": 0.4099718928337097,
+        "grupo": 0,
+        "ajustada": 0.3499718928337097,
+        "n": 4
+      },
+      {
+        "id": "fds076-pintura-total-corona::0016",
+        "texto": "[Corona · PINTURA TOTAL · versión 11 · FDS 2023 · Sección 7: Manipulación y almacenamiento]\nSECCIÓN 7: MANIPULACIÓN Y ALMACENAMIENTO 7.1 Precauciones que se deben tomar para garantizar una manipulación segura: - A.- Precauciones generales Cumplir con la legislación vigente en materia de prevención de riesgos laborales en cuanto a manipulación manual de cargas. Mantener orden, limpieza y eliminar por métodos seguros (sección 6 de la FDS). - B.- Recomendaciones técnicas para la prevención de incendios y explosiones. Producto no inflamable bajo condiciones normales de almacenamiento, manipulación y uso. Se recomienda trasvasar a velocidades lentas para evitar la generación de cargas electroestáticas que pudieran afectar a productos inflamables. Consultar la sección 10 de la FDS sobre condiciones y materias que deben evitarse.",
+        "meta": {
+          "pagina_fin": 3,
+          "version": "11",
+          "doc_id": "fds076-pintura-total-corona",
+          "tipo": "texto",
+          "imagenes": "[]",
+          "anio": "2023",
+          "archivo": "FDS 76 - PINTURA TOTAL - CORONA.pdf",
+          "fecha_revision": "",
+          "seccion_nombre": "Manipulación y almacenamiento",
+          "seccion_num": 7,
+          "producto": "PINTURA TOTAL",
+          "pagina_inicio": 3,
+          "archivo_original": "FDS 76 - PINTURA TOTAL - CORONA.pdf",
+          "fabricante": "Corona"
+        },
+        "distancia": 0.4116414785385132,
+        "grupo": 1,
+        "ajustada": 0.3516414785385132,
+        "n": 5
+      },
+      {
+        "id": "fds076-pintura-total-corona::0040",
+        "texto": "[Corona · PINTURA TOTAL · versión 11 · FDS 2023 · Sección 10: Estabilidad y reactividad]\nsegún Decreto 1496 de 2018 y Resolución 773 de 2021 10.5 Materiales incompatibles:",
+        "meta": {
+          "archivo": "FDS 76 - PINTURA TOTAL - CORONA.pdf",
+          "pagina_inicio": 7,
+          "seccion_num": 10,
+          "imagenes": "[]",
+          "fecha_revision": "",
+          "anio": "2023",
+          "tipo": "texto",
+          "archivo_original": "FDS 76 - PINTURA TOTAL - CORONA.pdf",
+          "producto": "PINTURA TOTAL",
+          "doc_id": "fds076-pintura-total-corona",
+          "version": "11",
+          "seccion_nombre": "Estabilidad y reactividad",
+          "pagina_fin": 7,
+          "fabricante": "Corona"
+        },
+        "distancia": 0.3621751070022583,
+        "grupo": 1,
+        "ajustada": 0.3621751070022583,
+        "n": 6
+      }
+    ],
+    "filtros": {
+      "fabricantes": [
+        "Corona"
+      ],
+      "anios": [
+        "2021",
+        "2023"
+      ],
+      "secciones_probables": [
+        7
+      ],
+      "productos": [
+        "PINTURA TOTAL"
+      ],
+      "docs": [
+        "fds049-pintura-total-corona",
+        "fds076-pintura-total-corona"
+      ],
+      "comparacion": true,
+      "grupos": 2,
+      "notas": [],
+      "variantes_sin_ficha": []
+    },
+    "t_embedding_s": 7.735,
+    "t_busqueda_s": 0.061,
+    "t_recuperacion_s": 7.796,
+    "respuesta": "Las precauciones de manipulación y almacenamiento de la Pintura Total de Corona en la versión 11 difieren en algunos aspectos respecto a la versión 7:\n\n- La versión 11 especifica un tiempo máximo de almacenamiento de 12 meses [5], mientras que la versión 7 indica 6 meses [3].\n\n- La versión 11 menciona cumplir con la legislación vigente en materia de prevención de riesgos laborales en cuanto a manipulación manual de cargas [5], lo cual no se menciona en la versión 7 [4].\n\n- La versión 11 recomienda consultar la sección 10 de la FDS sobre condiciones y materias que deben evitarse [5], mientras que la versión 7 no incluye esta recomendación específica [3].\n\n- La versión 11 incluye la información según Decreto 1496 de 2018 y Resolución 773 de 2021 [5], mientras que la versión 7 no la menciona [4].",
+    "t_generacion_s": 43.52,
+    "t_carga_modelo_s": 12.24,
+    "tokens_prompt": 1678,
+    "tokens_generados": 227,
+    "tokens_por_s": 7.96,
+    "fuentes": [
+      {
+        "n": 3,
+        "fabricante": "Corona",
+        "producto": "PINTURA TOTAL",
+        "version": "7",
+        "documento": "FDS 49 - PINTURA TOTAL - CORONA .pdf",
+        "pagina": "3-4",
+        "seccion": "7 Manipulación y almacenamiento"
+      },
+      {
+        "n": 4,
+        "fabricante": "Corona",
+        "producto": "PINTURA TOTAL",
+        "version": "7",
+        "documento": "FDS 49 - PINTURA TOTAL - CORONA .pdf",
+        "pagina": 3,
+        "seccion": "7 Manipulación y almacenamiento"
+      },
+      {
+        "n": 5,
+        "fabricante": "Corona",
+        "producto": "PINTURA TOTAL",
+        "version": "11",
+        "documento": "FDS 76 - PINTURA TOTAL - CORONA.pdf",
+        "pagina": 3,
+        "seccion": "7 Manipulación y almacenamiento"
+      }
+    ],
+    "citas_invalidas": [],
+    "evidencia_insuficiente": false,
+    "tiempo_total_s": 51.32,
+    "id": "dev05",
+    "tipo": "comparativa_versiones"
+  },
+  {
+    "pregunta": "¿Cuál es el punto de inflamación del producto Viniltex Advanced de Pintuco?",
+    "top_k": 6,
+    "fragmentos": [
+      {
+        "id": "fds045-viniltex-pro-650-blanco-pintuco::0039",
+        "texto": "[Pintuco · VINILTEX PRO 650 BLANCO · versión 4 · FDS 2021 · Sección 9: Propiedades físicas y químicas]\nPropiedades comburentes: No relevante * Inflamabilidad: Punto de inflamación: No inflamable (>93 ºC) Calor de combustión: No relevante * Inflamabilidad (sólido, gas): No relevante * Temperatura de auto-inflamación: 185 ºC Límite de inflamabilidad inferior: No relevante * Límite de inflamabilidad superior: No relevante * Explosividad: Límite inferior de explosividad: No relevante * Límite superior de explosividad: No relevante * 9.2 Información adicional: Tensión superficial a 20 ºC: No relevante * Índice de refracción: No relevante * *No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad.",
+        "meta": {
+          "doc_id": "fds045-viniltex-pro-650-blanco-pintuco",
+          "fabricante": "Pintuco",
+          "pagina_inicio": 6,
+          "archivo": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "version": "4",
+          "tipo": "texto",
+          "producto": "VINILTEX PRO 650 BLANCO",
+          "fecha_revision": "",
+          "archivo_original": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "pagina_fin": 6,
+          "imagenes": "[]",
+          "seccion_nombre": "Propiedades físicas y químicas",
+          "seccion_num": 9,
+          "anio": "2021"
+        },
+        "distancia": 0.35507720708847046,
+        "grupo": 0,
+        "ajustada": 0.29507720708847046,
+        "n": 1
+      },
+      {
+        "id": "fds045-viniltex-pro-650-blanco-pintuco::0038",
+        "texto": "[Pintuco · VINILTEX PRO 650 BLANCO · versión 4 · FDS 2021 · Sección 9: Propiedades físicas y químicas]\n1,453 - 1,479 Viscosidad dinámica a 20 ºC: No relevante * Viscosidad cinemática a 20 ºC: No relevante * Viscosidad cinemática a 40 ºC: >20,5 cSt Concentración: No relevante * *No relevante debido a la naturaleza del producto, no aportando información característica de su peligrosidad. según Decreto 1496 de 2018 pH: 8,5 - 9,5 Densidad de vapor a 20 ºC: No relevante * Coeficiente de reparto n-octanol/agua a 20 ºC: No relevante * Solubilidad en agua a 20 ºC: Propiedad de solubilidad: No relevante * Temperatura de descomposición: No relevante * Punto de fusión/punto de congelación: No relevante * Propiedades explosivas: No relevante * Propiedades comburentes: No relevante * Inflamabilidad: Punto de inflamación: No inflamable (>93 ºC) Calor de combustión: No relevante *",
+        "meta": {
+          "archivo_original": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "seccion_num": 9,
+          "producto": "VINILTEX PRO 650 BLANCO",
+          "doc_id": "fds045-viniltex-pro-650-blanco-pintuco",
+          "fabricante": "Pintuco",
+          "seccion_nombre": "Propiedades físicas y químicas",
+          "pagina_fin": 6,
+          "version": "4",
+          "fecha_revision": "",
+          "pagina_inicio": 5,
+          "tipo": "texto",
+          "imagenes": "[\"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img02.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img03.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img04.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img05.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img06.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img07.png\"]",
+          "anio": "2021",
+          "archivo": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf"
+        },
+        "distancia": 0.36788344383239746,
+        "grupo": 0,
+        "ajustada": 0.30788344383239746,
+        "n": 2
+      },
+      {
+        "id": "fds045-viniltex-pro-650-blanco-pintuco::0037",
+        "texto": "[Pintuco · VINILTEX PRO 650 BLANCO · versión 4 · FDS 2021 · Sección 9: Propiedades físicas y químicas]\nSECCIÓN 9: PROPIEDADES FÍSICAS Y QUÍMICAS Y CARACTERÍSTICAS DE SEGURIDAD 9.1 Información de propiedades físicas y químicas básicas: Para completar la información ver la ficha técnica/hoja de especificaciones del producto. Aspecto físico: Estado físico a 20 ºC: Líquido Aspecto: Viscoso Color: Olor: - [ ] Blanco Característico Umbral olfativo: No relevante * Volatilidad: Temperatura de ebullición a presión atmosférica: 20 - 2590 ºC Presión de vapor a 20 ºC: 2477 Pa Presión de vapor a 50 ºC: 12729,62 Pa (12,73 kPa) Tasa de evaporación a 20 ºC: No relevante * Caracterización del producto: Densidad a 20 ºC: 1419,3 kg/m³ Densidad relativa a 20 ºC: 1,453 - 1,479 Viscosidad dinámica a 20 ºC: No relevante * Viscosidad cinemática a 20 ºC: No relevante * Viscosidad cinemática a 40 ºC: >20,5 cSt",
+        "meta": {
+          "imagenes": "[\"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img02.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img03.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img04.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img05.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img06.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p005_img07.png\"]",
+          "seccion_num": 9,
+          "fabricante": "Pintuco",
+          "seccion_nombre": "Propiedades físicas y químicas",
+          "anio": "2021",
+          "pagina_fin": 5,
+          "producto": "VINILTEX PRO 650 BLANCO",
+          "doc_id": "fds045-viniltex-pro-650-blanco-pintuco",
+          "pagina_inicio": 5,
+          "archivo_original": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "version": "4",
+          "tipo": "texto",
+          "fecha_revision": "",
+          "archivo": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf"
+        },
+        "distancia": 0.439420223236084,
+        "grupo": 0,
+        "ajustada": 0.379420223236084,
+        "n": 3
+      },
+      {
+        "id": "fds045-viniltex-pro-650-blanco-pintuco::0002",
+        "texto": "[Pintuco · VINILTEX PRO 650 BLANCO · versión 4 · FDS 2021 · Sección 1: Identificación del producto y de la empresa]\nSECCIÓN 1: IDENTIFICACIÓN DEL PRODUCTO - 1.1 Identificador SGA del producto: VINILTEX PRO 650 BLANCO Otros medios de identificación: No relevante 1.2 Uso recomendado del producto químico y restricciones: Usos pertinentes: Pintura. Uso exclusivo usuario profesional. Usos desaconsejados: Todo aquel uso no especificado en este epígrafe ni en el epígrafe 7.3 1.3 Datos sobre el proveedor: Pintuco Autopista Medellín Bogotá Km 37 Vía Belén Rionegro Km 1 054040 Rionegro - Antioquia - Colombia Tfno.: 57 4 569 81 00 contacto@pintuco.com http://www.pintuco.com 1.4 Número de teléfono para emergencias: CISTEMA SURA Colombia al 018000 51 14 14, fuera de Colombia (0574) 4444578 10382444,10289235",
+        "meta": {
+          "seccion_num": 1,
+          "fecha_revision": "",
+          "fabricante": "Pintuco",
+          "imagenes": "[\"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p001_img01.png\", \"data/processed/fds045-viniltex-pro-650-blanco-pintuco/imagenes/p001_img02.png\"]",
+          "archivo_original": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "doc_id": "fds045-viniltex-pro-650-blanco-pintuco",
+          "seccion_nombre": "Identificación del producto y de la empresa",
+          "pagina_inicio": 1,
+          "archivo": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "pagina_fin": 1,
+          "anio": "2021",
+          "version": "4",
+          "producto": "VINILTEX PRO 650 BLANCO",
+          "tipo": "texto"
+        },
+        "distancia": 0.3985403776168823,
+        "grupo": 0,
+        "ajustada": 0.3985403776168823,
+        "n": 4
+      },
+      {
+        "id": "fds045-viniltex-pro-650-blanco-pintuco::0046",
+        "texto": "[Pintuco · VINILTEX PRO 650 BLANCO · versión 4 · FDS 2021 · Sección 11: Información toxicológica]\nPara más información ver sección 3 de la FDS. - Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación, no presentando sustancias clasificadas como peligrosas por este efecto. Para más información ver sección 3 de la FDS. - B- Inhalación (efecto agudo): - Toxicidad aguda: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver sección 3 de la FDS. - Corrosividad/Irritabilidad: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver sección 3 de la FDS. - C- Contacto con la piel y los ojos (efecto agudo): - Contacto con la piel: A la vista de los datos disponibles, no se cumplen los criterios de clasificación.",
+        "meta": {
+          "imagenes": "[]",
+          "anio": "2021",
+          "seccion_nombre": "Información toxicológica",
+          "pagina_inicio": 7,
+          "pagina_fin": 7,
+          "doc_id": "fds045-viniltex-pro-650-blanco-pintuco",
+          "fabricante": "Pintuco",
+          "producto": "VINILTEX PRO 650 BLANCO",
+          "version": "4",
+          "seccion_num": 11,
+          "fecha_revision": "",
+          "archivo": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "archivo_original": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "tipo": "texto"
+        },
+        "distancia": 0.41425198316574097,
+        "grupo": 0,
+        "ajustada": 0.41425198316574097,
+        "n": 5
+      },
+      {
+        "id": "fds045-viniltex-pro-650-blanco-pintuco::0049",
+        "texto": "[Pintuco · VINILTEX PRO 650 BLANCO · versión 4 · FDS 2021 · Sección 11: Información toxicológica]\nPara más información ver secciones 2, 3 y 15 de la FDS. - Cutánea: El contacto prolongado con la piel puede derivar en episodios de dermatitis alérgicas de contacto. - F- Toxicidad específica en determinados órganos (STOT)-exposición única: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver sección 3 de la FDS. - G- Toxicidad específica en determinados órganos (STOT)-exposición repetida: - Toxicidad específica en determinados órganos (STOT)-exposición repetida: A la vista de los datos disponibles, no se cumplen los criterios de clasificación. Para más información ver sección 3 de la FDS. - Piel:",
+        "meta": {
+          "seccion_nombre": "Información toxicológica",
+          "imagenes": "[]",
+          "archivo_original": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "fabricante": "Pintuco",
+          "pagina_inicio": 7,
+          "version": "4",
+          "pagina_fin": 7,
+          "tipo": "texto",
+          "producto": "VINILTEX PRO 650 BLANCO",
+          "anio": "2021",
+          "doc_id": "fds045-viniltex-pro-650-blanco-pintuco",
+          "seccion_num": 11,
+          "archivo": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+          "fecha_revision": ""
+        },
+        "distancia": 0.42012715339660645,
+        "grupo": 0,
+        "ajustada": 0.42012715339660645,
+        "n": 6
+      }
+    ],
+    "filtros": {
+      "fabricantes": [
+        "Pintuco"
+      ],
+      "anios": [],
+      "secciones_probables": [
+        9
+      ],
+      "productos": [
+        "VINILTEX PRO 650 BLANCO"
+      ],
+      "docs": [
+        "fds045-viniltex-pro-650-blanco-pintuco"
+      ],
+      "comparacion": false,
+      "grupos": 1,
+      "notas": [],
+      "variantes_sin_ficha": [
+        "viniltex advanced"
+      ]
+    },
+    "t_embedding_s": 7.027,
+    "t_busqueda_s": 0.046,
+    "t_recuperacion_s": 7.073,
+    "respuesta": "No hay evidencia suficiente en las FDS disponibles para VINILTEX ADVANCED, ya que solo se proporcionan datos para VINILTEX PRO 650 BLANCO.",
+    "t_generacion_s": 20.76,
+    "t_carga_modelo_s": 12.52,
+    "tokens_prompt": 2383,
+    "tokens_generados": 39,
+    "tokens_por_s": 8.48,
+    "fuentes": [],
+    "citas_invalidas": [],
+    "evidencia_insuficiente": true,
+    "tiempo_total_s": 27.83,
+    "id": "dev06",
+    "tipo": "sin_respuesta"
+  }
+]

@@ -1,0 +1,67 @@
+# Configuración BASE del sistema RAG. Todo lo que afecta a la evaluación se fija aquí.
+# topk3.yaml y topk6.yaml heredan este archivo y SOLO cambian top_k (regla de la guía).
+
+corpus:
+  procesados: data/processed          # Markdown extraído (Fase 2)
+
+chunking:
+  tam_objetivo: 800                   # caracteres por fragmento de texto (aprox.)
+  solape: 150                         # caracteres de solapamiento entre fragmentos contiguos de una misma sección
+  tam_max_tabla: 1500                 # una tabla nunca se parte salvo que supere esto; entonces se divide por filas repitiendo el encabezado
+  min_chars: 20                       # se descartan fragmentos con menos texto útil que esto
+
+embeddings:
+  modelo: bge-m3                      # multilingüe, 1024 dimensiones (Ollama)
+  ollama_url: http://127.0.0.1:11434  # Ollama local con GPU (ver metricas/hardware.md)
+  lote: 16
+
+indice:
+  ruta: indice/chroma                 # índice persistente de Chroma (compartido por topk3 y topk6)
+  coleccion: fds
+  metrica: cosine
+
+recuperacion:
+  candidatos_por_grupo: 20            # resultados que se piden a Chroma antes de repartir entre grupos de comparación
+  aplicar_filtros_metadatos: true     # fabricante / producto / año detectados en la pregunta
+  bonus_seccion: 0.06                 # resta a la distancia de los fragmentos de la sección que sugiere el tema de la pregunta (no excluye nada)
+
+generador:
+  modelo: qwen2.5:7b-instruct
+  ollama_url: http://127.0.0.1:11434
+  temperature: 0.0
+  seed: 42
+  num_ctx: 8192
+  num_predict: 700
+  keep_alive: 15m
+  timeout_s: 900
+
+evaluador:                            # se valida en la Fase 6 con 2 casos; debe ser distinto del generador
+  modelo: llama3.1:8b
+  ollama_url: http://127.0.0.1:11434
+  temperature: 0.0
+  num_ctx: 8192
+  timeout_s: 1800
+
+mensaje_sin_evidencia: "No hay evidencia suficiente en las FDS disponibles para"
+
+prompt:
+  sistema: |
+    Eres un asistente que responde preguntas sobre Fichas de Datos de Seguridad (FDS) de pinturas.
+    Responde usando únicamente los fragmentos numerados. Escribe frases completas y, después de cada afirmación, cita el fragmento
+    que la respalda con [n] (varios: [1][3]). No uses conocimiento propio ni inventes datos.
+    Copia números, rangos y unidades tal como aparecen; si el fragmento dice "No relevante" o "No aplicable", esa es la respuesta.
+    Cada fragmento indica fabricante, producto, versión, documento, página y sección. Si la pregunta compara productos, documentos o años,
+    di de cuál habla cada dato y señala solo las diferencias que aparezcan en los fragmentos.
+    En algunos fragmentos las etiquetas y sus valores están separados ("Teléfono de emergencia ... : CISPROQUIM ..."): empareja cada etiqueta
+    con su valor por el orden en que aparecen.
+    Si el dato está en los fragmentos, respóndelo; no digas que falta información cuando sí aparece.
+    Solo si ningún fragmento menciona lo pedido, o si la pregunta nombra un producto, versión o fabricante distinto al de los fragmentos,
+    responde con una frase que empiece por "No hay evidencia suficiente en las FDS disponibles para" y explica qué falta o qué productos sí aparecen.
+    Responde en español, breve. No escribas la lista de fuentes: se añade automáticamente.
+  usuario: |
+    Pregunta: {pregunta}
+    {aviso}
+    Fragmentos:
+    {contexto}
+
+    Respuesta (frases completas con citas [n]):

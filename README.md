@@ -1,4 +1,4 @@
-# RAG con Fichas de Datos de Seguridad (FDS)
+﻿# RAG con Fichas de Datos de Seguridad (FDS)
 
 Parcial final de Procesamiento de Lenguaje Natural — Universidad Sergio Arboleda, 2026 S02.
 
@@ -11,11 +11,11 @@ pinturas, con modelos open source locales (Ollama) y evaluación con RAGAS.
 
 ## Avance
 
-- [x] Fase 0 — Entorno, cuentas y plan (en curso)
-- [ ] Fase 1 — Infraestructura en AWS
-- [ ] Fase 2 — Extracción PDF → Markdown
-- [ ] Fase 3 — Secciones y verificación de la extracción
-- [ ] Fase 4 — Sistema RAG con trazabilidad
+- [x] Fase 0 — Entorno, cuentas y plan
+- [x] Fase 1 — Infraestructura en AWS (EC2 r5.large + Ollama; la inferencia se movió al PC con GPU, ver `metricas/hardware.md`)
+- [x] Fase 2 — Extracción PDF → Markdown (101 fichas)
+- [~] Fase 3 — Secciones y verificación de la extracción (falta la revisión manual del autor)
+- [~] Fase 4 — Sistema RAG con trazabilidad (funcional; falta que el autor valide las citas de la demo, ver `docs/rag_diseno.md`)
 - [ ] Fase 5 — Conjunto de evaluación
 - [ ] Fase 6 — Evaluación con RAGAS
 - [ ] Fase 7 — Revisión manual y análisis
@@ -24,3 +24,4 @@ pinturas, con modelos open source locales (Ollama) y evaluación con RAGAS.
 ## Uso de herramientas de IA
 
 Se usó Claude Code como apoyo. Los autores verifican y pueden explicar el código y las decisiones.
+

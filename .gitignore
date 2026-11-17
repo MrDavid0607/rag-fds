@@ -21,3 +21,8 @@ Thumbs.db
 # Comparaciones locales
 data/processed_ec2_muestra/
 metricas/x.json
+
+# Índice regenerable (python -m rag_fds.chunking && python -m rag_fds.indice)
+indice/chroma/
+indice/chunks.jsonl
+eval/_tmp_dev.json
