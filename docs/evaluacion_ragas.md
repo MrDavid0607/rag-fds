@@ -1,8 +1,8 @@
 # Evaluación con RAGAS (Fase 6)
 
-Estado: **evaluación completa corrida** (2026-11-16/17) sobre las 10 preguntas respondibles, en las dos configuraciones. **Aviso importante:** la corrida se hizo cuando las 12 preguntas
-estaban marcadas `"verificada": true` por una declaración del autor que después se retiró; hoy están en `false` porque **ninguna referencia ha sido verificada por una persona** (la evidencia sí está comprobada automáticamente contra el texto del PDF).
-Por eso **los resultados son provisionales** hasta que el autor verifique las referencias (y, si alguna cambia, habría que repetir la evaluación; `evaluacion.py generar` se niega a correr mientras no haya preguntas con `true`). Las puntuaciones de RAGAS orientan la
+Estado: **evaluación completa corrida** (2026-11-16/17) sobre las 10 preguntas respondibles, en las dos configuraciones. **Nota de trazabilidad:** la corrida se hizo cuando las 12 preguntas
+estaban marcadas `"verificada": true` por una declaración del autor que luego se retiró (pasaron a `false` el 2026-11-17); ese mismo día el autor las verificó contra los PDF con `eval/revision_preguntas/index.html`
+(12 de 12 «verificada», sin cambios; registro en `eval/verificacion_preguntas_autor.json`) y volvieron a `true`. Como ninguna referencia cambió, los resultados no se repitieron. Las puntuaciones de RAGAS orientan la
 comparación y **requieren revisión manual** (Fase 7); no demuestran que una configuración sea mejor en general.
 
 ## Resultados (eval/resumen.csv; detalle por pregunta en eval/resultados_topk{3,6}.{csv,json})

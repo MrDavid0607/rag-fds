@@ -4,8 +4,8 @@
 Las conclusiones de **exactitud de las respuestas y de correspondencia de las citas con el PDF las confirma el autor** (ver `eval/revision_manual.md`
 y `eval/revision_manual/index.html`). Hasta entonces, léase como hipótesis bien documentadas, no como veredictos.
 
-> **Resultados provisionales.** Las referencias de las 12 preguntas **no han sido verificadas por una persona** (`verificada: false` en `eval/preguntas.json`); la evaluación se corrió cuando estaban marcadas `true` por una declaración posteriormente retirada.
-> La evidencia de cada referencia sí está comprobada automáticamente contra el texto del PDF, pero hasta que el autor las verifique con `eval/revision_preguntas/index.html`, todo lo que sigue es provisional.
+> **Verificación de las referencias.** La evaluación se corrió cuando las 12 preguntas estaban marcadas `true` por una declaración posteriormente retirada. El 2026-11-17 el autor las verificó contra los PDF
+> (`eval/revision_preguntas/index.html`; 12 de 12 «verificada», sin observaciones; `eval/verificacion_preguntas_autor.json`) y no hubo cambios, así que los resultados siguen vigentes. La evidencia de cada referencia además está comprobada automáticamente contra el texto del PDF.
 
 > **Alcance.** Son 10 preguntas respondibles y 2 sin respuesta, una sola corrida por configuración y un evaluador local de 8 B. El conjunto permite una comparación
 > **didáctica** entre top-k 3 y top-k 6; **no demuestra** que una configuración sea mejor en general.

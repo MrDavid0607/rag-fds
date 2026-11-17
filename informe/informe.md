@@ -6,7 +6,7 @@
 
 Se procesaron las **101 FDS** (1 134 páginas, 8 fabricantes) a Markdown con Docling, conservando tablas, página e imágenes; se dividieron en **6 483 fragmentos** (por sección, ~800 caracteres, solape 150, tablas enteras) y se indexaron con `bge-m3` en Chroma.
 Las preguntas filtran por fabricante, año y producto antes de buscar. `qwen2.5:7b-instruct` responde solo con los fragmentos y cita `[n]`; el código construye la lista de fuentes (fabricante · producto · versión · documento · página · sección).
-Todo corre con modelos locales de Ollama, sin APIs de pago (RTX 3050 de 4 GB). Se evaluaron **12 preguntas** (6 directas, 4 integradoras o comparativas, 2 sin respuesta; 9 secciones; una compara dos versiones del mismo producto) cuyas referencias (redactadas con asistencia de IA) tienen su evidencia comprobada automáticamente contra el texto del PDF; **su verificación humana está pendiente**, por lo que los resultados son provisionales.
+Todo corre con modelos locales de Ollama, sin APIs de pago (RTX 3050 de 4 GB). Se evaluaron **12 preguntas** (6 directas, 4 integradoras o comparativas, 2 sin respuesta; 9 secciones; una compara dos versiones del mismo producto) cuyas referencias (redactadas con asistencia de IA) tienen su evidencia comprobada automáticamente contra el texto del PDF y fueron verificadas por el autor contra los PDF (12 de 12, sin cambios).
 Las dos configuraciones **solo difieren en top-k** (3 y 6); corpus, chunking, embeddings, generador, prompt y evaluador (`llama3.1:8b`, RAGAS 0.4.4, temperatura 0) son idénticos.
 
 ## 2. Comparación (10 preguntas respondibles)
