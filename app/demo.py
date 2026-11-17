@@ -42,7 +42,8 @@ with st.sidebar:
     ejemplos = [
         "¿Qué medios de extinción son adecuados para el Topcoat 400 1793 Blanco de International?",
         "¿Cuál es el teléfono de emergencia del proveedor del Sikafloor-2430 Part A?",
-        "Compara las precauciones de manipulación y almacenamiento de la Pintura Total de Corona entre la ficha de 2021 y la de 2023.",
+        "Compara la Pintura Primera Mano & Acabado de Corona entre la ficha de 2019 y la de 2021: tiempo máximo de almacenamiento y densidad a 20 ºC.",
+        "¿Cuál es el rendimiento teórico en m² por galón del Acrolatex 50 3508 de Pintuco?",
         "¿Cuál es el punto de inflamación del producto Viniltex Advanced de Pintuco?",
     ]
     st.subheader("Ejemplos")
