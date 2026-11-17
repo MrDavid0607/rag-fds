@@ -1,0 +1,164 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        93.57708740234375,
+        707.0793075561523,
+        194.21224975585938,
+        756.7370109558105
+      ],
+      "ancho_px": 201,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE SEGURIDAD PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS",
+      "bbox_pagina": [
+        440.5494079589844,
+        707.4235458374023,
+        489.64337158203125,
+        755.2526626586914
+      ],
+      "ancho_px": 98,
+      "alto_px": 96,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        55.814613342285156,
+        162.6119384765625,
+        277.6833801269531,
+        233.664306640625
+      ],
+      "ancho_px": 443,
+      "alto_px": 142,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        59.756526947021484,
+        120.97900390625,
+        81.18621826171875,
+        142.71710205078125
+      ],
+      "ancho_px": 42,
+      "alto_px": 43,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        93.25714111328125,
+        706.8209075927734,
+        194.3085174560547,
+        756.6958885192871
+      ],
+      "ancho_px": 202,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "HOJA DE SEGURIDAD PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS",
+      "bbox_pagina": [
+        440.5118408203125,
+        707.284309387207,
+        489.6938781738281,
+        755.1882133483887
+      ],
+      "ancho_px": 98,
+      "alto_px": 95,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img04.png",
+      "pagina": 2,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        57.61131286621094,
+        471.1959533691406,
+        80.72459411621094,
+        491.39068603515625
+      ],
+      "ancho_px": 46,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "9. PROPIEDADES FISICAS Y QUIMICAS.",
+      "bbox_pagina": [
+        92.76331329345703,
+        706.8058395385742,
+        194.48690795898438,
+        756.9165573120117
+      ],
+      "ancho_px": 203,
+      "alto_px": 100,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img05.png",
+      "pagina": 3,
+      "seccion_aproximada": "11. INFORMACION TOXICOLOGICA.",
+      "bbox_pagina": [
+        56.641868591308594,
+        490.16937255859375,
+        79.67570495605469,
+        512.4144897460938
+      ],
+      "ancho_px": 46,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img06.png",
+      "pagina": 3,
+      "seccion_aproximada": "12. INFORMACION ECOLOGICA.",
+      "bbox_pagina": [
+        61.91083908081055,
+        436.57818603515625,
+        84.54777526855469,
+        457.7376708984375
+      ],
+      "ancho_px": 45,
+      "alto_px": 42,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img07.png",
+      "pagina": 3,
+      "seccion_aproximada": "13. CONSIDERACIONES SOBRE LA DISPOSICION.",
+      "bbox_pagina": [
+        56.94756317138672,
+        351.4648742675781,
+        77.20899963378906,
+        374.1314697265625
+      ],
+      "ancho_px": 40,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p002_img02.png"
+    }
+  ]
+}

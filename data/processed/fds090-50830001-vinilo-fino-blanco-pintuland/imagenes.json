@@ -1,0 +1,47 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Componentes:",
+      "bbox_pagina": [
+        481.4238586425781,
+        298.43597412109375,
+        553.4925537109375,
+        408.186279296875
+      ],
+      "ancho_px": 144,
+      "alto_px": 219,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        87.04898071289062,
+        382.2894287109375,
+        148.21725463867188,
+        445.8613586425781
+      ],
+      "ancho_px": 122,
+      "alto_px": 127,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        85.19538879394531,
+        278.8309326171875,
+        550.45703125,
+        347.0079345703125
+      ],
+      "ancho_px": 931,
+      "alto_px": 136,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

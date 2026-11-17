@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds092-pintura-coolguard-corona",
+  "archivo_original": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "nombre_mostrado": "FDS 92 - PINTURA COOLGUARD - CORONA.pdf",
+  "carpeta_origen": "FDS 2025",
+  "anio_carpeta": "2025",
+  "numero_fds": 92,
+  "sha256": "9bb23ae66bae42b55b30f10ed7260254e956fa309e97184f4e380f8c34254ebf",
+  "tamano_bytes": 278503,
+  "n_paginas": 12,
+  "n_tablas": 18,
+  "n_imagenes_guardadas": 17,
+  "n_imagenes_omitidas_por_tamano": 6,
+  "n_imagenes_duplicadas_no_guardadas": 20,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA COOLGUARD",
+  "codigo_producto": "",
+  "version": "7",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA COOLGUARD",
+    "version": "texto crudo del PDF, pág. 1: Versión: 7"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,117 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        375.05767822265625,
+        774.4279708862305,
+        546.6897583007812,
+        797.3154945373535
+      ],
+      "ancho_px": 343,
+      "alto_px": 46,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        172.6549530029297,
+        106.5723876953125,
+        221.8534393310547,
+        156.5294189453125
+      ],
+      "ancho_px": 99,
+      "alto_px": 100,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        229.67047119140625,
+        107.4278564453125,
+        279.10791015625,
+        156.5667724609375
+      ],
+      "ancho_px": 99,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        286.35345458984375,
+        107.67474365234375,
+        335.4562683105469,
+        156.2811279296875
+      ],
+      "ancho_px": 98,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p014_img01.png",
+      "pagina": 14,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        118.40843963623047,
+        61.03472900390625,
+        156.05245971679688,
+        98.3448486328125
+      ],
+      "ancho_px": 75,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p014_img03.png",
+      "pagina": 14,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        262.9569091796875,
+        61.01177978515625,
+        299.91070556640625,
+        98.360107421875
+      ],
+      "ancho_px": 74,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p014_img04.png",
+      "pagina": 14,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        305.070556640625,
+        60.6993408203125,
+        342.30010986328125,
+        97.690185546875
+      ],
+      "ancho_px": 75,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p014_img06.png",
+      "pagina": 14,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        407.3371276855469,
+        61.14996337890625,
+        444.5035705566406,
+        98.41424560546875
+      ],
+      "ancho_px": 74,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

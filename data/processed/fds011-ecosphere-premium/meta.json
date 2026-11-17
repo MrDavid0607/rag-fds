@@ -1,0 +1,31 @@
+{
+  "doc_id": "fds011-ecosphere-premium",
+  "archivo_original": "FDS 11  - Ecosphere Premium.pdf",
+  "nombre_mostrado": "FDS 11  - Ecosphere Premium.pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 11,
+  "sha256": "b3101d2b023abb5fb7b8fe13928b980e20ffc190ef58cdc0a5042d53889e16ed",
+  "tamano_bytes": 337733,
+  "n_paginas": 9,
+  "n_tablas": 16,
+  "n_imagenes_guardadas": 23,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 9,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "Ecosphere Premium (G012P20I000)",
+  "codigo_producto": "",
+  "version": "3",
+  "fecha_revision": "",
+  "notas_metadatos": "fabricante: no aparece en el contenido; codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): Identificador del producto: Ecosphere Premium (G012P20I000)",
+    "version": "texto crudo del PDF, pág. 1: Versión: 3"
+  },
+  "version_en_nombre_archivo": ""
+}

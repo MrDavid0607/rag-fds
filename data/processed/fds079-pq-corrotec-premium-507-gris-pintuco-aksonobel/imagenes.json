@@ -1,0 +1,89 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        394.5167541503906,
+        660.9216461181641,
+        537.8409423828125,
+        760.408805847168
+      ],
+      "ancho_px": 287,
+      "alto_px": 199,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Palabra de advertencia",
+      "bbox_pagina": [
+        173.38409423828125,
+        539.5223999023438,
+        222.3715362548828,
+        588.5930633544922
+      ],
+      "ancho_px": 98,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "Respuesta",
+      "bbox_pagina": [
+        227.45545959472656,
+        539.5396118164062,
+        280.40863037109375,
+        588.9943542480469
+      ],
+      "ancho_px": 106,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p015_img01.png",
+      "pagina": 15,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        118.39920043945312,
+        600.7079925537109,
+        156.24691772460938,
+        638.3009185791016
+      ],
+      "ancho_px": 75,
+      "alto_px": 76,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p015_img02.png",
+      "pagina": 15,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        263.0032958984375,
+        600.7151794433594,
+        300.0547180175781,
+        638.2350158691406
+      ],
+      "ancho_px": 74,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p015_img03.png",
+      "pagina": 15,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        407.1631774902344,
+        601.1006164550781,
+        444.6008605957031,
+        637.9773559570312
+      ],
+      "ancho_px": 75,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds088-pintura-lavable-corona",
+  "archivo_original": "FDS 88 - PINTURA LAVABLE - CORONA.pdf",
+  "nombre_mostrado": "FDS 88 - PINTURA LAVABLE - CORONA.pdf",
+  "carpeta_origen": "FDS 2024",
+  "anio_carpeta": "2024",
+  "numero_fds": 88,
+  "sha256": "371caa101640f22263b8202353035282943efc71ccc6aad7df0ce923b9b9d2aa",
+  "tamano_bytes": 475449,
+  "n_paginas": 12,
+  "n_tablas": 14,
+  "n_imagenes_guardadas": 19,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 7,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA LAVABLE",
+  "codigo_producto": "",
+  "version": "7",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (7 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA LAVABLE",
+    "version": "texto crudo del PDF, pág. 1: Versión: 7"
+  },
+  "version_en_nombre_archivo": ""
+}

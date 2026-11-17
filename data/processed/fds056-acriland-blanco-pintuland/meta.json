@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds056-acriland-blanco-pintuland",
+  "archivo_original": "FDS 56 - ACRILAND BLANCO - PINTULAND.pdf",
+  "nombre_mostrado": "FDS 56 - ACRILAND BLANCO - PINTULAND.pdf",
+  "carpeta_origen": "FDS 2022",
+  "anio_carpeta": "2022",
+  "numero_fds": 56,
+  "sha256": "e76fcaa429f9a3086e554769aca1c40a679a2c5e683a3a2660d769b5946285e3",
+  "tamano_bytes": 431367,
+  "n_paginas": 11,
+  "n_tablas": 17,
+  "n_imagenes_guardadas": 6,
+  "n_imagenes_omitidas_por_tamano": 20,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuland",
+  "producto": "50630001 - ACRILAND BLANCO",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"pintuland\" (9 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: 50630001 - ACRILAND BLANCO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
+}

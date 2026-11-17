@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds075-pintura-alta-cobertura-corona",
+  "archivo_original": "FDS 75 -PINTURA-ALTA-COBERTURA - CORONA.pdf",
+  "nombre_mostrado": "FDS 75 -PINTURA-ALTA-COBERTURA - CORONA.pdf",
+  "carpeta_origen": "FDS 2023",
+  "anio_carpeta": "2023",
+  "numero_fds": 75,
+  "sha256": "7aded0a2357d57319f56115483f151a49503c6cc60e38c0099c4ea9382f88cdb",
+  "tamano_bytes": 378905,
+  "n_paginas": 10,
+  "n_tablas": 14,
+  "n_imagenes_guardadas": 7,
+  "n_imagenes_omitidas_por_tamano": 2,
+  "n_imagenes_duplicadas_no_guardadas": 8,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "321654 - PINTURA ALTA COBERTURA",
+  "codigo_producto": "",
+  "version": "5",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: 321654 - PINTURA ALTA COBERTURA",
+    "version": "texto crudo del PDF, pág. 1: Versión: 5"
+  },
+  "version_en_nombre_archivo": ""
+}

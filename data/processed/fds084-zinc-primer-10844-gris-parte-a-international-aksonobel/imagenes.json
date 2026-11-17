@@ -1,0 +1,145 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        375.7895202636719,
+        774.4127502441406,
+        547.2125854492188,
+        797.3332138061523
+      ],
+      "ancho_px": 342,
+      "alto_px": 46,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        173.09698486328125,
+        94.688232421875,
+        221.9609375,
+        143.2176513671875
+      ],
+      "ancho_px": 98,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        229.7105712890625,
+        94.2135009765625,
+        278.77532958984375,
+        142.9864501953125
+      ],
+      "ancho_px": 99,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        286.4445495605469,
+        94.43902587890625,
+        335.365234375,
+        143.176025390625
+      ],
+      "ancho_px": 98,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img01.png",
+      "pagina": 13,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        117.99884033203125,
+        314.560546875,
+        156.9642791748047,
+        353.2923583984375
+      ],
+      "ancho_px": 78,
+      "alto_px": 78,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img02.png",
+      "pagina": 13,
+      "seccion_aproximada": "Información adicional IMDG",
+      "bbox_pagina": [
+        160.98574829101562,
+        315.095703125,
+        198.22311401367188,
+        352.679931640625
+      ],
+      "ancho_px": 74,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img03.png",
+      "pagina": 13,
+      "seccion_aproximada": "Información adicional IMDG",
+      "bbox_pagina": [
+        262.8363037109375,
+        314.2314453125,
+        301.4424743652344,
+        353.2781066894531
+      ],
+      "ancho_px": 77,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img04.png",
+      "pagina": 13,
+      "seccion_aproximada": "Información adicional IMDG",
+      "bbox_pagina": [
+        304.9290771484375,
+        315.52667236328125,
+        342.3613586425781,
+        352.6617126464844
+      ],
+      "ancho_px": 75,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img06.png",
+      "pagina": 13,
+      "seccion_aproximada": "Programas de emergencia F-A, S-F",
+      "bbox_pagina": [
+        407.1905517578125,
+        314.68994140625,
+        445.7804260253906,
+        353.3372497558594
+      ],
+      "ancho_px": 78,
+      "alto_px": 78,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img07.png",
+      "pagina": 13,
+      "seccion_aproximada": "Programas de emergencia F-A, S-F",
+      "bbox_pagina": [
+        449.9543762207031,
+        315.14031982421875,
+        486.8697204589844,
+        352.74383544921875
+      ],
+      "ancho_px": 74,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

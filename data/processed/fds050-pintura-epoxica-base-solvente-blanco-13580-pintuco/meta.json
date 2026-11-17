@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds050-pintura-epoxica-base-solvente-blanco-13580-pintuco",
+  "archivo_original": "FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf",
+  "nombre_mostrado": "FDS 50 - PINTURA EPOXICA BASE SOLVENTE BLANCO 13580 - PINTUCO .pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 50,
+  "sha256": "b033b28131eff6a4a9cd0f87543325695fbaa00be55dccf098182879d3770f72",
+  "tamano_bytes": 349754,
+  "n_paginas": 14,
+  "n_tablas": 19,
+  "n_imagenes_guardadas": 22,
+  "n_imagenes_omitidas_por_tamano": 2,
+  "n_imagenes_duplicadas_no_guardadas": 10,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "PINTURA EPOXICA BASE SOLVENTE BLANCO 13580",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA EPOXICA BASE SOLVENTE BLANCO 13580",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
+}

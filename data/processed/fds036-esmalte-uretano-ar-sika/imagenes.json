@@ -1,0 +1,75 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "FICHA DE DATOS DE SEGURIDAD (MSDS)",
+      "bbox_pagina": [
+        454.29217529296875,
+        718.3470687866211,
+        563.9527587890625,
+        756.8613166809082
+      ],
+      "ancho_px": 219,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Pictogramas de peligro:",
+      "bbox_pagina": [
+        34.696224212646484,
+        650.1842041015625,
+        184.46780395507812,
+        704.0191345214844
+      ],
+      "ancho_px": 300,
+      "alto_px": 108,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img01.png",
+      "pagina": 10,
+      "seccion_aproximada": "Producto",
+      "bbox_pagina": [
+        177.02313232421875,
+        591.2438049316406,
+        210.97042846679688,
+        624.4940795898438
+      ],
+      "ancho_px": 68,
+      "alto_px": 67,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img02.png",
+      "pagina": 10,
+      "seccion_aproximada": "15.2 Evaluación de la seguridad química:",
+      "bbox_pagina": [
+        314.4159851074219,
+        590.8760833740234,
+        348.9780578613281,
+        624.2840728759766
+      ],
+      "ancho_px": 69,
+      "alto_px": 67,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img03.png",
+      "pagina": 10,
+      "seccion_aproximada": "15.2 Evaluación de la seguridad química:",
+      "bbox_pagina": [
+        452.5785217285156,
+        590.96240234375,
+        486.8642272949219,
+        624.1425170898438
+      ],
+      "ancho_px": 69,
+      "alto_px": 66,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

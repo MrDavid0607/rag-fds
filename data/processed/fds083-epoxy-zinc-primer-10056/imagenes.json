@@ -1,0 +1,117 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        375.7966003417969,
+        774.4650955200195,
+        547.208984375,
+        797.3415451049805
+      ],
+      "ancho_px": 342,
+      "alto_px": 46,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        173.2343292236328,
+        150.553466796875,
+        222.4463348388672,
+        199.8345947265625
+      ],
+      "ancho_px": 99,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img01.png",
+      "pagina": 10,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        117.71007537841797,
+        552.8239135742188,
+        156.51858520507812,
+        592.8644866943359
+      ],
+      "ancho_px": 78,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img02.png",
+      "pagina": 10,
+      "seccion_aproximada": "Información adicional",
+      "bbox_pagina": [
+        161.3136749267578,
+        553.7816162109375,
+        197.79981994628906,
+        591.2692413330078
+      ],
+      "ancho_px": 73,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img03.png",
+      "pagina": 10,
+      "seccion_aproximada": "Información adicional",
+      "bbox_pagina": [
+        262.7580871582031,
+        552.8273620605469,
+        301.9033508300781,
+        592.7072906494141
+      ],
+      "ancho_px": 78,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img04.png",
+      "pagina": 10,
+      "seccion_aproximada": "Información adicional",
+      "bbox_pagina": [
+        305.25042724609375,
+        553.8011169433594,
+        342.43572998046875,
+        591.0016174316406
+      ],
+      "ancho_px": 74,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img05.png",
+      "pagina": 10,
+      "seccion_aproximada": "Lista de inventario",
+      "bbox_pagina": [
+        406.5114440917969,
+        552.8839416503906,
+        446.05096435546875,
+        593.0317230224609
+      ],
+      "ancho_px": 79,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img06.png",
+      "pagina": 10,
+      "seccion_aproximada": "Lista de inventario",
+      "bbox_pagina": [
+        450.281005859375,
+        553.9237976074219,
+        486.9485168457031,
+        591.3792877197266
+      ],
+      "ancho_px": 73,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

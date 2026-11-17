@@ -1,0 +1,216 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        49.87188534986253,
+        752.8769015705897,
+        121.54883260637322,
+        802.6036471050198
+      ],
+      "ancho_px": 143,
+      "alto_px": 100,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Atención",
+      "bbox_pagina": [
+        75.05246146182887,
+        348.5247812650776,
+        103.23901101950833,
+        376.05188282003877
+      ],
+      "ancho_px": 56,
+      "alto_px": 55,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "3.2 Mezclas:",
+      "bbox_pagina": [
+        49.91947471772265,
+        752.9542723623533,
+        121.47447779201022,
+        802.6322769672456
+      ],
+      "ancho_px": 143,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Medios de extinción no apropiados:",
+      "bbox_pagina": [
+        472.5067272457661,
+        254.860013442232,
+        546.713426513672,
+        295.82429754769146
+      ],
+      "ancho_px": 148,
+      "alto_px": 82,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        95.30333624820582,
+        195.71495841490685,
+        141.65303289835887,
+        254.5731962183139
+      ],
+      "ancho_px": 92,
+      "alto_px": 118,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        91.15049600485989,
+        108.87248694630534,
+        141.09215902238887,
+        177.13584040625926
+      ],
+      "ancho_px": 100,
+      "alto_px": 137,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)",
+      "bbox_pagina": [
+        90.06917653947869,
+        657.1112555439058,
+        148.74543794363137,
+        711.6458655495542
+      ],
+      "ancho_px": 117,
+      "alto_px": 109,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img03.png",
+      "pagina": 5,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        93.22687420429,
+        511.6045337986889,
+        142.75048099389815,
+        567.8301055284803
+      ],
+      "ancho_px": 100,
+      "alto_px": 112,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img04.png",
+      "pagina": 5,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        100.49407975779285,
+        590.2687028492544,
+        136.19635754681275,
+        625.6965634162522
+      ],
+      "ancho_px": 71,
+      "alto_px": 71,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img05.png",
+      "pagina": 5,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        102.08803203096326,
+        442.01188226042905,
+        167.17450163361212,
+        480.8020051716059
+      ],
+      "ancho_px": 130,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img06.png",
+      "pagina": 5,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        366.0897815514891,
+        254.07478951714666,
+        546.207127775666,
+        296.0345447618208
+      ],
+      "ancho_px": 360,
+      "alto_px": 84,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img07.png",
+      "pagina": 5,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        350.14204206018644,
+        443.1225134741269,
+        379.42495735731706,
+        479.9341710526926
+      ],
+      "ancho_px": 59,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img01.png",
+      "pagina": 8,
+      "seccion_aproximada": "Información adicional:",
+      "bbox_pagina": [
+        50.397022419359864,
+        752.9439003291549,
+        121.22114548958389,
+        802.5112101723859
+      ],
+      "ancho_px": 141,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p008_img01.png"
+    }
+  ]
+}

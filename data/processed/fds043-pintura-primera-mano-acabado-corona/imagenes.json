@@ -1,0 +1,198 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        35.18132151046856,
+        766.0539367501809,
+        133.0018521527796,
+        790.7091405231539
+      ],
+      "ancho_px": 196,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "NFPA:",
+      "bbox_pagina": [
+        82.88207295872222,
+        338.21229573954315,
+        121.29697139355962,
+        375.95139612193344
+      ],
+      "ancho_px": 77,
+      "alto_px": 76,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Atención",
+      "bbox_pagina": [
+        83.91158415416744,
+        279.3172067123014,
+        112.90220995192561,
+        307.85128016093563
+      ],
+      "ancho_px": 58,
+      "alto_px": 57,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "2.3 Otros peligros que no conducen a una clasificación:",
+      "bbox_pagina": [
+        35.2774987577912,
+        766.1397882043833,
+        132.90479072724415,
+        790.6555300765592
+      ],
+      "ancho_px": 195,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        85.98045446101452,
+        378.4490732340688,
+        148.3802266083788,
+        449.7270276371827
+      ],
+      "ancho_px": 125,
+      "alto_px": 142,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        85.97612503666207,
+        297.52952081748253,
+        147.9503483079744,
+        362.2457914534544
+      ],
+      "ancho_px": 124,
+      "alto_px": 129,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img04.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        85.95860916137696,
+        194.59361960223055,
+        148.0558399154356,
+        259.3716648476934
+      ],
+      "ancho_px": 124,
+      "alto_px": 129,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img05.png",
+      "pagina": 4,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        85.85920009024193,
+        115.66806006207321,
+        147.71296170228283,
+        178.21739942102136
+      ],
+      "ancho_px": 123,
+      "alto_px": 125,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)",
+      "bbox_pagina": [
+        85.7941520137915,
+        663.1119343389298,
+        147.7906626738478,
+        727.126880121299
+      ],
+      "ancho_px": 124,
+      "alto_px": 128,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img03.png",
+      "pagina": 5,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        102.79811860257348,
+        592.107588070396,
+        166.03566485104147,
+        632.5098147474275
+      ],
+      "ancho_px": 126,
+      "alto_px": 81,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img04.png",
+      "pagina": 5,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        349.93035760047457,
+        598.1678602973412,
+        378.82414301725044,
+        632.5560465601108
+      ],
+      "ancho_px": 58,
+      "alto_px": 69,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img01.png",
+      "pagina": 8,
+      "seccion_aproximada": "Información toxicológica específica de las sustancias:",
+      "bbox_pagina": [
+        35.27130951030143,
+        752.3549213733809,
+        132.96903084774146,
+        777.546797786178
+      ],
+      "ancho_px": 195,
+      "alto_px": 51,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p002_img01.png"
+    }
+  ]
+}

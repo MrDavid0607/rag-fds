@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds068-pintura-superlavable-zero-corona",
+  "archivo_original": "FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf",
+  "nombre_mostrado": "FDS 68 - PINTURA SUPERLAVABLE ZERO - CORONA.pdf",
+  "carpeta_origen": "FDS 2023",
+  "anio_carpeta": "2023",
+  "numero_fds": 68,
+  "sha256": "a8d59d32f4d1130635339aee30e1062922a41cb33d0ee020b7e4588a2643b497",
+  "tamano_bytes": 424174,
+  "n_paginas": 11,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 13,
+  "n_imagenes_omitidas_por_tamano": 2,
+  "n_imagenes_duplicadas_no_guardadas": 9,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA SUPERLAVABLE ZERO",
+  "codigo_producto": "",
+  "version": "6",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA SUPERLAVABLE ZERO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 6"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,31 @@
+{
+  "doc_id": "fds101-barniz-solar-pinturas-bler",
+  "archivo_original": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "nombre_mostrado": "FDS 101 - BARNIZ SOLAR - PINTURAS BLER.pdf",
+  "carpeta_origen": "FDS 2025",
+  "anio_carpeta": "2025",
+  "numero_fds": 101,
+  "sha256": "ff75c9a12c5507f13178a77f78df518b3054ef6df84b9e28b5c1b16bd42dcfe0",
+  "tamano_bytes": 349785,
+  "n_paginas": 14,
+  "n_tablas": 17,
+  "n_imagenes_guardadas": 14,
+  "n_imagenes_omitidas_por_tamano": 20,
+  "n_imagenes_duplicadas_no_guardadas": 12,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "BARNIZ SOLAR",
+  "codigo_producto": "",
+  "version": "3",
+  "fecha_revision": "",
+  "notas_metadatos": "fabricante: no aparece en el contenido; codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: BARNIZ SOLAR",
+    "version": "texto crudo del PDF, pág. 1: Versión: 3"
+  },
+  "version_en_nombre_archivo": ""
+}

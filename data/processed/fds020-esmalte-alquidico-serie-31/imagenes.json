@@ -1,0 +1,103 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "FICHA DE DATOS DE SEGURIDAD (MSDS)",
+      "bbox_pagina": [
+        460.06591796875,
+        718.3198318481445,
+        569.1004028320312,
+        756.8943939208984
+      ],
+      "ancho_px": 218,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "2.2 Elementos de la etiqueta Pictogramas de peligro:",
+      "bbox_pagina": [
+        37.6226806640625,
+        627.6940155029297,
+        77.70222473144531,
+        667.6805801391602
+      ],
+      "ancho_px": 80,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "2.2 Elementos de la etiqueta Pictogramas de peligro:",
+      "bbox_pagina": [
+        81.4000244140625,
+        625.6806640625,
+        127.21148681640625,
+        670.1117095947266
+      ],
+      "ancho_px": 91,
+      "alto_px": 89,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "2.2 Elementos de la etiqueta Pictogramas de peligro:",
+      "bbox_pagina": [
+        130.82003784179688,
+        627.3053436279297,
+        170.8072967529297,
+        667.5247344970703
+      ],
+      "ancho_px": 80,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img01.png",
+      "pagina": 9,
+      "seccion_aproximada": "Producto",
+      "bbox_pagina": [
+        169.6392059326172,
+        588.5416107177734,
+        203.02810668945312,
+        620.9021301269531
+      ],
+      "ancho_px": 67,
+      "alto_px": 65,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img02.png",
+      "pagina": 9,
+      "seccion_aproximada": "SECCIÓN 16: Otra Información",
+      "bbox_pagina": [
+        310.14813232421875,
+        588.07763671875,
+        343.58477783203125,
+        620.8808135986328
+      ],
+      "ancho_px": 67,
+      "alto_px": 66,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img03.png",
+      "pagina": 9,
+      "seccion_aproximada": "SECCIÓN 16: Otra Información",
+      "bbox_pagina": [
+        451.38787841796875,
+        588.3187255859375,
+        484.5494079589844,
+        620.7464447021484
+      ],
+      "ancho_px": 66,
+      "alto_px": 64,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

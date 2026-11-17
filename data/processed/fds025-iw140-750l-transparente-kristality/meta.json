@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds025-iw140-750l-transparente-kristality",
+  "archivo_original": "FDS 25 - IW140 .750L TRANSPARENTE KRISTALITY.pdf",
+  "nombre_mostrado": "FDS 25 - IW140 .750L TRANSPARENTE KRISTALITY.pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 25,
+  "sha256": "dc8998c0e50da14a78f54b2d37f8bd298b608bcc615e52e70417e1e039c55ea2",
+  "tamano_bytes": 160864,
+  "n_paginas": 16,
+  "n_tablas": 15,
+  "n_imagenes_guardadas": 11,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "IW140 .750L TRANSPARENTE KRISTALITY",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "5/6/2020",
+  "notas_metadatos": "fabricante: no aparece en el contenido; codigo_producto: no aparece",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): título de la página 1: IW140 .750L TRANSPARENTE KRISTALITY",
+    "version": "texto crudo del PDF, pág. 1: Versión : 1",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión : 5/6/2020"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds074-sikafloor-161-264-b-sika",
+  "archivo_original": "FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf",
+  "nombre_mostrado": "FDS 74 - Sikafloor-161-264 (B) - SIKA.pdf",
+  "carpeta_origen": "FDS 2023",
+  "anio_carpeta": "2023",
+  "numero_fds": 74,
+  "sha256": "ed9366dc839b12b958b930e6aa5f777f1e23ede7e4acb4b5a36e1754b52bbfa8",
+  "tamano_bytes": 386229,
+  "n_paginas": 12,
+  "n_tablas": 5,
+  "n_imagenes_guardadas": 8,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 10,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Sika",
+  "producto": "Sikafloor®-161/264 Part B",
+  "codigo_producto": "100000034346",
+  "version": "2.0",
+  "fecha_revision": "2023/07/25",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"Sika\" (4 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto : Sikafloor®-161/264 Part B",
+    "codigo_producto": "Número de HDS: 100000034346",
+    "version": "texto crudo del PDF, pág. 1: Versión 2.0",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión: 2023/07/25"
+  },
+  "version_en_nombre_archivo": ""
+}

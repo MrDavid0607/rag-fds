@@ -17,10 +17,16 @@
     "docling_core": "2.107.1",
     "ocr": "rapidocr 3.10.0"
   },
-  "fabricante": "",
-  "producto": "",
+  "fabricante": "Corona",
+  "producto": "407141521 - RECUBRIMIENTO ANTIGRAFFITI",
   "codigo_producto": "",
-  "version": "",
+  "version": "1",
   "fecha_revision": "",
-  "notas_metadatos": "pendiente: lo llena metadatos.py"
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: 407141521 - RECUBRIMIENTO ANTIGRAFFITI |",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
 }

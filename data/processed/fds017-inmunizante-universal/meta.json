@@ -1,0 +1,31 @@
+{
+  "doc_id": "fds017-inmunizante-universal",
+  "archivo_original": "FDS 17 - inmunizante-universal.pdf",
+  "nombre_mostrado": "FDS 17 - inmunizante-universal.pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 17,
+  "sha256": "2e1d1b6d9524d9ca51f8d623057b758b281c865fe461d451b210b58844307453",
+  "tamano_bytes": 196695,
+  "n_paginas": 4,
+  "n_tablas": 0,
+  "n_imagenes_guardadas": 21,
+  "n_imagenes_omitidas_por_tamano": 8,
+  "n_imagenes_duplicadas_no_guardadas": 1,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "INMUNIZANTE UNIVERSAL",
+  "codigo_producto": "136",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "fabricante: no aparece en el contenido; version: no aparece en el texto de la ficha; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): Nombre del Producto: INMUNIZANTE UNIVERSAL",
+    "codigo_producto": "Código del producto: 136"
+  },
+  "version_en_nombre_archivo": ""
+}

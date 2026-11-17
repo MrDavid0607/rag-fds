@@ -1,0 +1,33 @@
+{
+  "doc_id": "fds036-esmalte-uretano-ar-sika",
+  "archivo_original": "FDS 36 - Esmalte_Uretano_AR - SIKA.pdf",
+  "nombre_mostrado": "FDS 36 - Esmalte_Uretano_AR - SIKA.pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 36,
+  "sha256": "221437b6522250746c542f84439c6a326398c36cd349eefc65c1b8ec0dd6fdc4",
+  "tamano_bytes": 842788,
+  "n_paginas": 11,
+  "n_tablas": 4,
+  "n_imagenes_guardadas": 5,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Sika",
+  "producto": "Esmalte Uretano AR Comp. A",
+  "codigo_producto": "1115",
+  "version": "",
+  "fecha_revision": "07.01.2020",
+  "notas_metadatos": "version: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Sika\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto: Esmalte Uretano AR Comp. A",
+    "codigo_producto": "MSDS no. 1115",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión: 07.01.2020"
+  },
+  "version_en_nombre_archivo": ""
+}

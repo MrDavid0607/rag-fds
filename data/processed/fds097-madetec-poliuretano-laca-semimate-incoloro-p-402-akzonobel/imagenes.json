@@ -1,0 +1,103 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        173.64710841895354,
+        45.53432951686227,
+        222.24988936941966,
+        94.4373769913534
+      ],
+      "ancho_px": 97,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        229.74830186654742,
+        45.525367566309,
+        278.84807393973216,
+        94.52498463043537
+      ],
+      "ancho_px": 99,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        286.094718085281,
+        45.79581118980764,
+        335.6546795561975,
+        94.45091136565838
+      ],
+      "ancho_px": 99,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img01.png",
+      "pagina": 13,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        118.55966364910223,
+        153.10169565655588,
+        156.28227856650474,
+        189.36632001883618
+      ],
+      "ancho_px": 76,
+      "alto_px": 73,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img02.png",
+      "pagina": 13,
+      "seccion_aproximada": "Información adicional",
+      "bbox_pagina": [
+        333.6281129242713,
+        152.69913946945894,
+        370.31403148798586,
+        189.10380192984042
+      ],
+      "ancho_px": 74,
+      "alto_px": 73,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p016_img01.png",
+      "pagina": 16,
+      "seccion_aproximada": "PARA USO PROFESIONAL SOLAMENTE",
+      "bbox_pagina": [
+        15.365281858428187,
+        620.4127460629065,
+        104.79310262215239,
+        742.9715884051883
+      ],
+      "ancho_px": 179,
+      "alto_px": 245,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p016_img04.png",
+      "pagina": 16,
+      "seccion_aproximada": "Fabricante:",
+      "bbox_pagina": [
+        475.62714156873693,
+        553.2672367190976,
+        543.4008443244486,
+        620.982546269427
+      ],
+      "ancho_px": 136,
+      "alto_px": 136,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

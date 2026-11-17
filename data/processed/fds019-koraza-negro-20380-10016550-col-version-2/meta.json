@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds019-koraza-negro-20380-10016550-col-version-2",
+  "archivo_original": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versi#U00f3n 2).pdf",
+  "nombre_mostrado": "FDS 19 - KORAZA NEGRO 20380 _ 10016550 _COL (Versión 2).pdf",
+  "carpeta_origen": "FDS 2019",
+  "anio_carpeta": "2019",
+  "numero_fds": 19,
+  "sha256": "67877c7b72ea1b74e8b82da9c70e233461bbd828568b4300b359e59e5dbea0e1",
+  "tamano_bytes": 350801,
+  "n_paginas": 9,
+  "n_tablas": 14,
+  "n_imagenes_guardadas": 9,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 6,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "KORAZA NEGRO 20380",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: KORAZA NEGRO 20380",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": "2"
+}

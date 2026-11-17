@@ -1,0 +1,61 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE DATOS DE SEGURIDAD",
+      "bbox_pagina": [
+        502.64703369140625,
+        726.5168685913086,
+        570.0006713867188,
+        778.8688220977783
+      ],
+      "ancho_px": 135,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        198.43997192382812,
+        588.5898742675781,
+        246.83334350585938,
+        636.7303009033203
+      ],
+      "ancho_px": 97,
+      "alto_px": 96,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        255.1389617919922,
+        588.2385711669922,
+        303.8067626953125,
+        636.5928955078125
+      ],
+      "ancho_px": 98,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        311.86492919921875,
+        587.3142547607422,
+        361.3285217285156,
+        636.5083923339844
+      ],
+      "ancho_px": 99,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

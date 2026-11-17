@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds023-tufcote-3-5-hh-aluminum",
+  "archivo_original": "FDS 23 - Tufcote 3.5 HH - Aluminum.pdf",
+  "nombre_mostrado": "FDS 23 - Tufcote 3.5 HH - Aluminum.pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 23,
+  "sha256": "80aeb05aae0414f432e927d5bde44f73c2786735274f500f9a1dd1da028d6c6b",
+  "tamano_bytes": 153594,
+  "n_paginas": 14,
+  "n_tablas": 12,
+  "n_imagenes_guardadas": 11,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "Tufcote 3.5 HH - Aluminum",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "2/28/2020",
+  "notas_metadatos": "fabricante: no aparece en el contenido; codigo_producto: no aparece",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): título de la página 1: Tufcote 3.5 HH - Aluminum",
+    "version": "texto crudo del PDF, pág. 1: Versión : 2",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión : 2/28/2020"
+  },
+  "version_en_nombre_archivo": ""
+}

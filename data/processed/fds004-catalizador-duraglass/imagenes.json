@@ -1,0 +1,232 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        95.30580139160156,
+        708.232536315918,
+        193.29881286621094,
+        756.758373260498
+      ],
+      "ancho_px": 196,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE SEGURIDAD CATALIZADOR DURAGLASS",
+      "bbox_pagina": [
+        445.86053466796875,
+        714.1264038085938,
+        486.9180908203125,
+        753.9086151123047
+      ],
+      "ancho_px": 82,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        56.094268798828125,
+        206.83282470703125,
+        206.83984375,
+        277.1492919921875
+      ],
+      "ancho_px": 302,
+      "alto_px": 140,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        208.538818359375,
+        209.2613525390625,
+        274.7695617675781,
+        275.92413330078125
+      ],
+      "ancho_px": 133,
+      "alto_px": 133,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img08.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        279.0452575683594,
+        207.47991943359375,
+        347.0498352050781,
+        275.58056640625
+      ],
+      "ancho_px": 136,
+      "alto_px": 136,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img09.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        349.2095642089844,
+        206.44232177734375,
+        419.7771301269531,
+        277.25396728515625
+      ],
+      "ancho_px": 142,
+      "alto_px": 142,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img10.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        59.546173095703125,
+        92.509521484375,
+        80.99250030517578,
+        114.19683837890625
+      ],
+      "ancho_px": 43,
+      "alto_px": 43,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "En caso de contacto con la piel:",
+      "bbox_pagina": [
+        94.80916595458984,
+        708.3011245727539,
+        193.6320037841797,
+        756.8845329284668
+      ],
+      "ancho_px": 197,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "HOJA DE SEGURIDAD CATALIZADOR DURAGLASS",
+      "bbox_pagina": [
+        446.0398254394531,
+        714.1834335327148,
+        486.6195983886719,
+        753.8012390136719
+      ],
+      "ancho_px": 81,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img04.png",
+      "pagina": 2,
+      "seccion_aproximada": "Incendio:",
+      "bbox_pagina": [
+        57.46003341674805,
+        256.0482177734375,
+        80.63153839111328,
+        276.4598388671875
+      ],
+      "ancho_px": 46,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "7.MANEJO Y ALMACENAJE",
+      "bbox_pagina": [
+        94.24259948730469,
+        708.0897827148438,
+        194.3109893798828,
+        756.8877105712891
+      ],
+      "ancho_px": 201,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "Otros datos",
+      "bbox_pagina": [
+        94.54273223876953,
+        708.0786514282227,
+        193.8555145263672,
+        756.8211097717285
+      ],
+      "ancho_px": 199,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img05.png",
+      "pagina": 4,
+      "seccion_aproximada": "11. INFORMACION TOXICOLOGICA.",
+      "bbox_pagina": [
+        56.67948532104492,
+        327.40673828125,
+        80.16912841796875,
+        348.93988037109375
+      ],
+      "ancho_px": 47,
+      "alto_px": 43,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img06.png",
+      "pagina": 4,
+      "seccion_aproximada": "12. INFORMACION ECOLOGICA.",
+      "bbox_pagina": [
+        61.72890090942383,
+        190.182373046875,
+        84.52101135253906,
+        211.8790283203125
+      ],
+      "ancho_px": 46,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img07.png",
+      "pagina": 4,
+      "seccion_aproximada": "13. CONSIDERACIONES SOBRE LA DISPOSICION.",
+      "bbox_pagina": [
+        57.02002716064453,
+        105.51202392578125,
+        77.11029815673828,
+        127.849853515625
+      ],
+      "ancho_px": 40,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p002_img02.png"
+    }
+  ]
+}

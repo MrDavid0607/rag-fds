@@ -1,0 +1,145 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        503.15338134765625,
+        736.2362976074219,
+        556.445556640625,
+        776.0076065063477
+      ],
+      "ancho_px": 107,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        189.54678344726562,
+        121.83154296875,
+        238.31857299804688,
+        170.90411376953125
+      ],
+      "ancho_px": 98,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        246.16891479492188,
+        122.056640625,
+        295.42388916015625,
+        171.2022705078125
+      ],
+      "ancho_px": 99,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img01.png",
+      "pagina": 12,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        213.6748809814453,
+        341.60186767578125,
+        251.00970458984375,
+        378.1624755859375
+      ],
+      "ancho_px": 75,
+      "alto_px": 73,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img02.png",
+      "pagina": 12,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        301.5829162597656,
+        341.27490234375,
+        339.21337890625,
+        378.2657165527344
+      ],
+      "ancho_px": 75,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img03.png",
+      "pagina": 12,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        389.62213134765625,
+        341.03289794921875,
+        426.6378479003906,
+        378.03887939453125
+      ],
+      "ancho_px": 74,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img04.png",
+      "pagina": 12,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        477.84368896484375,
+        341.00164794921875,
+        514.3219604492188,
+        377.8164978027344
+      ],
+      "ancho_px": 73,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img05.png",
+      "pagina": 12,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        126.21308898925781,
+        340.924560546875,
+        163.36846923828125,
+        378.3361511230469
+      ],
+      "ancho_px": 75,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img01.png",
+      "pagina": 13,
+      "seccion_aproximada": "National Fire Protection Association (Estados Unidos)",
+      "bbox_pagina": [
+        112.1090316772461,
+        641.9931182861328,
+        319.2892761230469,
+        690.9122772216797
+      ],
+      "ancho_px": 415,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img02.png",
+      "pagina": 13,
+      "seccion_aproximada": "Hazardous Material Information System (Estados Unidos)",
+      "bbox_pagina": [
+        40.29220962524414,
+        286.74420166015625,
+        198.2676544189453,
+        357.0437927246094
+      ],
+      "ancho_px": 316,
+      "alto_px": 141,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

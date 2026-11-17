@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds021-pintura-para-trafico-acrilico-base-solvente-13722-10017277-1",
+  "archivo_original": "FDS 21 - Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf",
+  "nombre_mostrado": "FDS 21 - Pintura-para-trafico-acrilico-base-solvente-13722-10017277-10015687.pdf",
+  "carpeta_origen": "FDS 2019",
+  "anio_carpeta": "2019",
+  "numero_fds": 21,
+  "sha256": "842f520284a0977810411481b185d6e423bc02bbe70afa5b4ff7699214ca3cc3",
+  "tamano_bytes": 441393,
+  "n_paginas": 12,
+  "n_tablas": 15,
+  "n_imagenes_guardadas": 18,
+  "n_imagenes_omitidas_por_tamano": 3,
+  "n_imagenes_duplicadas_no_guardadas": 7,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA PARA TRAFICO ACRILICO BASE SOLVENTE BLANCO 13722",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
+}

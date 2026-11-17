@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds039-hs-p-p-008-pintura-trafico-acrilica-base-agua-invesa",
+  "archivo_original": "FDS 39 - HS-P-P-008 - Pintura Tr#U00e1fico Acr#U00edlica Base Agua - INVESA.pdf",
+  "nombre_mostrado": "FDS 39 - HS-P-P-008 - Pintura Tráfico Acrílica Base Agua - INVESA.pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 39,
+  "sha256": "68b708c523468070377c334e335d97b168f2e7af2d1187e54c3aba905746f86b",
+  "tamano_bytes": 234178,
+  "n_paginas": 9,
+  "n_tablas": 12,
+  "n_imagenes_guardadas": 8,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 7,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "INVESA",
+  "producto": "HS-P-P-008 - Pintura Tráfico Acrílica Base Agua",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Invesa\" (9 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: HS-P-P-008 - Pintura Tráfico Acrílica Base Agua",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds052-hs-p-p-029-premier-invesa",
+  "archivo_original": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "nombre_mostrado": "FDS 52 - HS-P-P-029 - Premier - INVESA.pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 52,
+  "sha256": "a555c08e407e1e6c1650648469e8631431f40d88adfbc69e4a754390652e8f9f",
+  "tamano_bytes": 328644,
+  "n_paginas": 12,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 20,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 26,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "INVESA",
+  "producto": "HS-P-P-029 - Premier",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Invesa\" (9 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: HS-P-P-029 - Premier",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
+}

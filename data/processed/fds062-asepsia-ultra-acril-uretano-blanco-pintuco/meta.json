@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco",
+  "archivo_original": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf",
+  "nombre_mostrado": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf",
+  "carpeta_origen": "FDS 2022",
+  "anio_carpeta": "2022",
+  "numero_fds": 62,
+  "sha256": "068718eb47da965b4e59144ac4bc3a74f3346438b0d220d6fc48e573232e95bd",
+  "tamano_bytes": 403790,
+  "n_paginas": 10,
+  "n_tablas": 17,
+  "n_imagenes_guardadas": 11,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 5,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "ASEPSIA ULTRA ACRIL URETANO BLANCO",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: ASEPSIA ULTRA ACRIL URETANO BLANCO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": ""
+}

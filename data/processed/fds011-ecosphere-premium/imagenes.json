@@ -1,0 +1,364 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        57.63005337478331,
+        754.7676215078031,
+        162.83103622538934,
+        803.7330958698481
+      ],
+      "ancho_px": 211,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "ECOSPHERE PREMIUM G012P20I000",
+      "bbox_pagina": [
+        453.04269589417737,
+        763.1777568173804,
+        541.2012137680566,
+        806.5935723558005
+      ],
+      "ancho_px": 176,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.2 Elementos de la etiqueta:",
+      "bbox_pagina": [
+        85.4872374597332,
+        436.1347665760466,
+        145.74487040270097,
+        464.72741710816877
+      ],
+      "ancho_px": 120,
+      "alto_px": 58,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "3.2 Mezclas:",
+      "bbox_pagina": [
+        57.624368340153026,
+        754.5923528226367,
+        162.88817615790657,
+        803.6298494548299
+      ],
+      "ancho_px": 211,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "6.1 Precauciones personales, equipo de protección y procedimientos de emergencia:",
+      "bbox_pagina": [
+        57.69511501440267,
+        754.8177647534005,
+        162.8611227089287,
+        803.5932928698759
+      ],
+      "ancho_px": 211,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "DNEL (Trabajadores):",
+      "bbox_pagina": [
+        57.83255415590018,
+        754.6636274831595,
+        162.86057401925927,
+        803.7543760438316
+      ],
+      "ancho_px": 210,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "ECOSPHERE PREMIUM G012P20I000",
+      "bbox_pagina": [
+        453.19840182925236,
+        763.1361653104586,
+        541.2529734935378,
+        806.7077048824066
+      ],
+      "ancho_px": 177,
+      "alto_px": 88,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        110.2459138263472,
+        434.0697467316471,
+        143.16747688754296,
+        467.8605727620249
+      ],
+      "ancho_px": 66,
+      "alto_px": 68,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img04.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        94.36453334526729,
+        329.81564548229665,
+        162.11738910342225,
+        389.5008310755641
+      ],
+      "ancho_px": 135,
+      "alto_px": 119,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img05.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        259.9783101945916,
+        414.85682016404394,
+        304.20464844569267,
+        461.1779496942733
+      ],
+      "ancho_px": 88,
+      "alto_px": 93,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img06.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        259.8629634329777,
+        332.0874633035184,
+        305.29806502579044,
+        379.33034972999553
+      ],
+      "ancho_px": 91,
+      "alto_px": 95,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img07.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        93.64562794730169,
+        231.60897375111347,
+        162.39891262796903,
+        292.87671160555226
+      ],
+      "ancho_px": 138,
+      "alto_px": 123,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img08.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        260.248814201611,
+        234.97327809530884,
+        303.95554333578025,
+        281.99828971663453
+      ],
+      "ancho_px": 88,
+      "alto_px": 94,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img09.png",
+      "pagina": 4,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        259.56539073560066,
+        105.16163830537414,
+        304.4662210042045,
+        151.08781635057903
+      ],
+      "ancho_px": 90,
+      "alto_px": 92,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img10.png",
+      "pagina": 4,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        92.85530144403445,
+        100.49484542013067,
+        248.81503597387535,
+        216.00236344362384
+      ],
+      "ancho_px": 312,
+      "alto_px": 231,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img11.png",
+      "pagina": 4,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        260.0809456455308,
+        157.33490341077788,
+        304.2488789295991,
+        203.6784612297729
+      ],
+      "ancho_px": 88,
+      "alto_px": 93,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "ECOSPHERE PREMIUM G012P20I000",
+      "bbox_pagina": [
+        453.1369485862784,
+        763.1859271225736,
+        541.2992463223246,
+        806.5130784480078
+      ],
+      "ancho_px": 177,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img03.png",
+      "pagina": 5,
+      "seccion_aproximada": "ECOSPHERE PREMIUM G012P20I000",
+      "bbox_pagina": [
+        351.2757292533721,
+        683.643962872068,
+        385.92938366985965,
+        721.1277134490749
+      ],
+      "ancho_px": 69,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img02.png",
+      "pagina": 7,
+      "seccion_aproximada": "SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE",
+      "bbox_pagina": [
+        95.96337693848066,
+        135.90859463145785,
+        154.30471883172157,
+        194.01903972127377
+      ],
+      "ancho_px": 117,
+      "alto_px": 116,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img02.png",
+      "pagina": 8,
+      "seccion_aproximada": "ECOSPHERE PREMIUM G012P20I000",
+      "bbox_pagina": [
+        453.12021355136136,
+        763.1311990465177,
+        541.2799812183765,
+        806.5083639301653
+      ],
+      "ancho_px": 177,
+      "alto_px": 87,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img03.png",
+      "pagina": 8,
+      "seccion_aproximada": "14.2. Transporte marítimo de mercancías peligrosas:",
+      "bbox_pagina": [
+        95.90693048874004,
+        610.603768817965,
+        154.30199062475424,
+        668.4149259401444
+      ],
+      "ancho_px": 117,
+      "alto_px": 116,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img04.png",
+      "pagina": 8,
+      "seccion_aproximada": "14.3. Transporte aéreo de mercancías peligrosas:",
+      "bbox_pagina": [
+        96.2559657046939,
+        422.5855169286297,
+        154.52547497538114,
+        480.17150623747403
+      ],
+      "ancho_px": 116,
+      "alto_px": 116,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img01.png",
+      "pagina": 9,
+      "seccion_aproximada": "Otras legislaciones:",
+      "bbox_pagina": [
+        57.79696553428702,
+        754.8080610856081,
+        162.8122131214526,
+        803.6141801673725
+      ],
+      "ancho_px": 210,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p001_img02.png"
+    }
+  ]
+}

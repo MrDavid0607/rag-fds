@@ -1,0 +1,31 @@
+{
+  "doc_id": "fds009-oxigel",
+  "archivo_original": "FDS 9 - OXIGEL.pdf",
+  "nombre_mostrado": "FDS 9 - OXIGEL.pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 9,
+  "sha256": "a14a593dca5c124aab14e09a475ff89c8cac0a2e24fbe8540f3823dcaa4a3761",
+  "tamano_bytes": 173300,
+  "n_paginas": 4,
+  "n_tablas": 3,
+  "n_imagenes_guardadas": 14,
+  "n_imagenes_omitidas_por_tamano": 11,
+  "n_imagenes_duplicadas_no_guardadas": 2,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "OXIGEL",
+  "codigo_producto": "138",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "fabricante: no aparece en el contenido; version: no aparece en el texto de la ficha; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): Nombre del Producto: OXIGEL",
+    "codigo_producto": "Código del producto: 138"
+  },
+  "version_en_nombre_archivo": ""
+}

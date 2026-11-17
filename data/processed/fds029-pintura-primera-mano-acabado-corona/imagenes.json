@@ -1,0 +1,266 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        35.0868173417469,
+        765.9662320576937,
+        133.02362123015743,
+        790.9203296094156
+      ],
+      "ancho_px": 196,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "NFPA:",
+      "bbox_pagina": [
+        83.12188343227311,
+        356.6409277488727,
+        120.98974233128082,
+        394.099190079424
+      ],
+      "ancho_px": 76,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Atención",
+      "bbox_pagina": [
+        83.96088471175841,
+        295.8637722858058,
+        112.87688129501856,
+        323.7808317830501
+      ],
+      "ancho_px": 58,
+      "alto_px": 56,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Atención",
+      "bbox_pagina": [
+        119.85073023751279,
+        296.18945412823825,
+        146.999140239946,
+        323.91273964055074
+      ],
+      "ancho_px": 54,
+      "alto_px": 55,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.3 Otros peligros que no conducen a una clasificación:",
+      "bbox_pagina": [
+        502.7998009065974,
+        751.1150058164619,
+        559.7025532603425,
+        806.9016384398399
+      ],
+      "ancho_px": 113,
+      "alto_px": 111,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "5.2 Peligros específicos del producto químico:",
+      "bbox_pagina": [
+        502.7881236564074,
+        751.0616813634297,
+        559.7545063525719,
+        806.8020059091745
+      ],
+      "ancho_px": 114,
+      "alto_px": 111,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "7.3 Usos específicos finales:",
+      "bbox_pagina": [
+        35.296249433683876,
+        765.8731583127272,
+        133.0539881784324,
+        790.7874951327724
+      ],
+      "ancho_px": 195,
+      "alto_px": 50,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        85.7604541527665,
+        405.5427153192733,
+        148.21820857310456,
+        476.0255313538032
+      ],
+      "ancho_px": 124,
+      "alto_px": 141,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        85.81194228921161,
+        324.479601760828,
+        147.3069867025286,
+        388.42516931819233
+      ],
+      "ancho_px": 123,
+      "alto_px": 127,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img04.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        86.02506734963232,
+        222.3223961909423,
+        148.2271113330406,
+        288.7668000876819
+      ],
+      "ancho_px": 124,
+      "alto_px": 133,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img05.png",
+      "pagina": 4,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        503.0259980845612,
+        749.7946307373046,
+        559.6960286349099,
+        806.7356020172191
+      ],
+      "ancho_px": 113,
+      "alto_px": 114,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "Inflamabilidad:",
+      "bbox_pagina": [
+        502.92937874813214,
+        749.7493064775263,
+        559.8398752834654,
+        806.8200540095893
+      ],
+      "ancho_px": 114,
+      "alto_px": 114,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img01.png",
+      "pagina": 6,
+      "seccion_aproximada": "Inflamabilidad:",
+      "bbox_pagina": [
+        35.279183269731156,
+        765.9768176327522,
+        133.0097945122431,
+        790.8283273869965
+      ],
+      "ancho_px": 195,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img01.png",
+      "pagina": 7,
+      "seccion_aproximada": "B- Inhalación (efecto agudo):",
+      "bbox_pagina": [
+        35.232363746694276,
+        765.841035515792,
+        133.05814991381345,
+        790.8226609012123
+      ],
+      "ancho_px": 196,
+      "alto_px": 50,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img02.png",
+      "pagina": 8,
+      "seccion_aproximada": "Disposiciones particulares en materia de protección de las personas o el medio ambiente:",
+      "bbox_pagina": [
+        504.1215863569631,
+        409.6633105671717,
+        538.1892168083448,
+        444.3928434931014
+      ],
+      "ancho_px": 68,
+      "alto_px": 69,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img02.png",
+      "pagina": 9,
+      "seccion_aproximada": "BCF: factor de bioconcentración",
+      "bbox_pagina": [
+        502.91517091891916,
+        750.7172993552599,
+        559.5768779985057,
+        806.8141511024602
+      ],
+      "ancho_px": 113,
+      "alto_px": 112,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img05.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p004_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p001_img05.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p004_img05.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p007_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p005_img02.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p001_img01.png"
+    }
+  ]
+}

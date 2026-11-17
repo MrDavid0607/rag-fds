@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds100-esmalte-maestro-bler",
+  "archivo_original": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "nombre_mostrado": "FDS 100 - Esmalte maestro. Bler.pdf",
+  "carpeta_origen": "FDS 2025",
+  "anio_carpeta": "2025",
+  "numero_fds": 100,
+  "sha256": "2f9bc305244059f8d57f7974658b2be860f154b759e4b369f0d373d9614d8909",
+  "tamano_bytes": 340863,
+  "n_paginas": 13,
+  "n_tablas": 17,
+  "n_imagenes_guardadas": 17,
+  "n_imagenes_omitidas_por_tamano": 10,
+  "n_imagenes_duplicadas_no_guardadas": 11,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Bler",
+  "producto": "ESMALTE MAESTRO",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"BLER\" (2 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: ESMALTE MAESTRO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": ""
+}

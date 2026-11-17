@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds099-topcoat-400-26015-aluminio-international-aksonobel",
+  "archivo_original": "FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL.pdf",
+  "nombre_mostrado": "FDS 99 - TOPCOAT 400 26015 ALUMINIO - INTERNATIONAL - AKSONOBEL.pdf",
+  "carpeta_origen": "FDS 2025",
+  "anio_carpeta": "2025",
+  "numero_fds": 99,
+  "sha256": "231422a362ab91a1a1f4b42befdd7b1bf8cda75013c35f75803c87aeb8750451",
+  "tamano_bytes": 190039,
+  "n_paginas": 14,
+  "n_tablas": 18,
+  "n_imagenes_guardadas": 7,
+  "n_imagenes_omitidas_por_tamano": 44,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "AkzoNobel",
+  "producto": "International. X",
+  "codigo_producto": "17A982",
+  "version": "2",
+  "fecha_revision": "5-9-2025",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"Global de Pinturas\" (17 menciones)",
+    "producto": "pág. 1-2 (md): título de la página 1: International. X",
+    "codigo_producto": "SDS code : 17A982",
+    "version": "texto crudo del PDF, pág. 1: Versión : 2",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión : 5-9-2025"
+  },
+  "version_en_nombre_archivo": ""
+}

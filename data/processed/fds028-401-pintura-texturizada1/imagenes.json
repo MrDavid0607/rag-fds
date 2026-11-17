@@ -1,0 +1,33 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "FICHA DE DATOS DE SEGURIDAD (MSDS)",
+      "bbox_pagina": [
+        460.10198974609375,
+        718.3064041137695,
+        569.0502319335938,
+        756.879711151123
+      ],
+      "ancho_px": 218,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.2 Elementos de la etiqueta",
+      "bbox_pagina": [
+        204.56179809570312,
+        140.423095703125,
+        255.841064453125,
+        191.9307861328125
+      ],
+      "ancho_px": 103,
+      "alto_px": 103,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

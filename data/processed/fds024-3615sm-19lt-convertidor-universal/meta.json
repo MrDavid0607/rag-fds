@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds024-3615sm-19lt-convertidor-universal",
+  "archivo_original": "FDS 24 - 3615SM 19LT CONVERTIDOR UNIVERSAL.pdf",
+  "nombre_mostrado": "FDS 24 - 3615SM 19LT CONVERTIDOR UNIVERSAL.pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 24,
+  "sha256": "28032b1c41cba4efe2adfe352f2f9e8b7348aa0b86e90c09c76d536a68d26646",
+  "tamano_bytes": 146818,
+  "n_paginas": 14,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 10,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "3615SM 19LT CONVERTIDOR UNIVERSAL",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "4/1/2020",
+  "notas_metadatos": "fabricante: no aparece en el contenido; codigo_producto: no aparece",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): título de la página 1: 3615SM 19LT CONVERTIDOR UNIVERSAL",
+    "version": "texto crudo del PDF, pág. 1: Versión : 1",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión : 4/1/2020"
+  },
+  "version_en_nombre_archivo": ""
+}

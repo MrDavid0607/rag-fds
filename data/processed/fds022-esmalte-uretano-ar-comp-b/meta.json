@@ -1,0 +1,33 @@
+{
+  "doc_id": "fds022-esmalte-uretano-ar-comp-b",
+  "archivo_original": "FDS 22 - Esmalte Uretano AR Comp. B.pdf",
+  "nombre_mostrado": "FDS 22 - Esmalte Uretano AR Comp. B.pdf",
+  "carpeta_origen": "FDS 2019",
+  "anio_carpeta": "2019",
+  "numero_fds": 22,
+  "sha256": "7408cd19747f4bc3903d9c365feb77e25933fd6a8f3583ee7fbbd41e7604a482",
+  "tamano_bytes": 737385,
+  "n_paginas": 8,
+  "n_tablas": 3,
+  "n_imagenes_guardadas": 5,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Sika",
+  "producto": "Esmalte Uretano AR Comp. B",
+  "codigo_producto": "1115",
+  "version": "",
+  "fecha_revision": "27.04.2019",
+  "notas_metadatos": "version: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Sika\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto: Esmalte Uretano AR Comp. B",
+    "codigo_producto": "MSDS no. 1115",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión: 27.04.2019"
+  },
+  "version_en_nombre_archivo": ""
+}

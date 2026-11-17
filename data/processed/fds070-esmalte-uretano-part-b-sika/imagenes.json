@@ -1,0 +1,148 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "Esmalte Uretano Part B",
+      "bbox_pagina": [
+        485.87143895296447,
+        753.7874967549279,
+        561.5899731936871,
+        819.476713901126
+      ],
+      "ancho_px": 151,
+      "alto_px": 132,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Esmalte Uretano Part B",
+      "bbox_pagina": [
+        362.85622100215636,
+        618.3900886921186,
+        414.30941185458397,
+        671.6478820648736
+      ],
+      "ancho_px": 103,
+      "alto_px": 106,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "Esmalte Uretano Part B",
+      "bbox_pagina": [
+        247.1526282065987,
+        618.2230885352952,
+        298.35281215590925,
+        671.1028034294372
+      ],
+      "ancho_px": 103,
+      "alto_px": 106,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img04.png",
+      "pagina": 2,
+      "seccion_aproximada": "Esmalte Uretano Part B",
+      "bbox_pagina": [
+        304.5212119021832,
+        618.3088824462891,
+        356.23615820967916,
+        670.8776725253176
+      ],
+      "ancho_px": 103,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "Esmalte Uretano Part B",
+      "bbox_pagina": [
+        485.9040859882944,
+        753.8263166325796,
+        561.5845472625118,
+        819.5201214439419
+      ],
+      "ancho_px": 151,
+      "alto_px": 131,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img02.png",
+      "pagina": 12,
+      "seccion_aproximada": "HMIS® IV:",
+      "bbox_pagina": [
+        101.34269997462332,
+        369.3411864799961,
+        292.30195392992675,
+        543.6893502036532
+      ],
+      "ancho_px": 382,
+      "alto_px": 348,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img03.png",
+      "pagina": 12,
+      "seccion_aproximada": "Texto completo de otras abreviaturas",
+      "bbox_pagina": [
+        307.91885074897107,
+        442.4038236766014,
+        494.02588192318916,
+        543.7547358633021
+      ],
+      "ancho_px": 372,
+      "alto_px": 202,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 11,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 12,
+      "duplicada_de": "imagenes/p003_img01.png"
+    },
+    {
+      "pagina": 13,
+      "duplicada_de": "imagenes/p003_img01.png"
+    }
+  ]
+}

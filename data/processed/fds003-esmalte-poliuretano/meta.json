@@ -1,0 +1,31 @@
+{
+  "doc_id": "fds003-esmalte-poliuretano",
+  "archivo_original": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "nombre_mostrado": "FDS 3 - ESMALTE-POLIURETANO.pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 3,
+  "sha256": "69e7996e6512d0f1dee70d944f68849abf12afef316a7e20b35118f2735a84e2",
+  "tamano_bytes": 303951,
+  "n_paginas": 4,
+  "n_tablas": 4,
+  "n_imagenes_guardadas": 10,
+  "n_imagenes_omitidas_por_tamano": 10,
+  "n_imagenes_duplicadas_no_guardadas": 3,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "ESMALTE POLIURETANO",
+  "codigo_producto": "100",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "fabricante: no aparece en el contenido; version: no aparece en el texto de la ficha; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): Nombre del Producto: ESMALTE POLIURETANO",
+    "codigo_producto": "Código del producto: 100"
+  },
+  "version_en_nombre_archivo": ""
+}

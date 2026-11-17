@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds065-sigmadur-one-buff-3142-ppg",
+  "archivo_original": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf",
+  "nombre_mostrado": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf",
+  "carpeta_origen": "FDS 2022",
+  "anio_carpeta": "2022",
+  "numero_fds": 65,
+  "sha256": "ab94a98c4a348d0337d4ad89e370995e19b0e2833bfa8b3cd149cb2bdb4eaea7",
+  "tamano_bytes": 162548,
+  "n_paginas": 15,
+  "n_tablas": 21,
+  "n_imagenes_guardadas": 4,
+  "n_imagenes_omitidas_por_tamano": 2,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "PPG",
+  "producto": "SIGMADUR ONE BUFF 3142",
+  "codigo_producto": "00322206",
+  "version": "8",
+  "fecha_revision": "1 Marzo 2022",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"PPG\" (7 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto : SIGMADUR ONE BUFF 3142",
+    "codigo_producto": "Código del producto : 00322206",
+    "version": "texto crudo del PDF, pág. 1: Versión 8",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión 1 Marzo 2022"
+  },
+  "version_en_nombre_archivo": ""
+}

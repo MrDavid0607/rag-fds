@@ -1,0 +1,103 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        375.8063659667969,
+        774.4203872680664,
+        547.1987915039062,
+        797.3184356689453
+      ],
+      "ancho_px": 342,
+      "alto_px": 46,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        173.21612548828125,
+        94.222412109375,
+        222.4240264892578,
+        143.26904296875
+      ],
+      "ancho_px": 99,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        229.6728973388672,
+        94.28399658203125,
+        278.95196533203125,
+        143.113037109375
+      ],
+      "ancho_px": 99,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        286.31793212890625,
+        94.173828125,
+        335.4664611816406,
+        143.127685546875
+      ],
+      "ancho_px": 98,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p014_img01.png",
+      "pagina": 14,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        117.70742797851562,
+        599.6684265136719,
+        156.72877502441406,
+        638.8515930175781
+      ],
+      "ancho_px": 78,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p014_img02.png",
+      "pagina": 14,
+      "seccion_aproximada": "Lista de inventario",
+      "bbox_pagina": [
+        262.33807373046875,
+        599.1793060302734,
+        301.44635009765625,
+        639.0223999023438
+      ],
+      "ancho_px": 78,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p014_img03.png",
+      "pagina": 14,
+      "seccion_aproximada": "Lista de inventario",
+      "bbox_pagina": [
+        406.54443359375,
+        599.6430816650391,
+        445.6327819824219,
+        638.8848419189453
+      ],
+      "ancho_px": 78,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

@@ -1,0 +1,136 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        35.1894963478242,
+        766.080515085252,
+        132.9654636459863,
+        790.745667620951
+      ],
+      "ancho_px": 196,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "NFPA:",
+      "bbox_pagina": [
+        82.79812938408564,
+        341.0032268373757,
+        121.5418506473823,
+        378.0532276376466
+      ],
+      "ancho_px": 77,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "SGA:",
+      "bbox_pagina": [
+        83.73941331389767,
+        284.7004139662355,
+        113.10632554124668,
+        312.59032314128376
+      ],
+      "ancho_px": 59,
+      "alto_px": 56,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "2.3 Otros peligros que no conducen a una clasificación:",
+      "bbox_pagina": [
+        35.33208151798121,
+        766.1574435403057,
+        132.88919565290414,
+        790.6965110474357
+      ],
+      "ancho_px": 195,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        86.22404555864783,
+        180.8046115844437,
+        147.7149434810357,
+        252.73069603854287
+      ],
+      "ancho_px": 123,
+      "alto_px": 144,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        85.93414181600482,
+        100.4692486847722,
+        148.178542509143,
+        164.62497193832576
+      ],
+      "ancho_px": 124,
+      "alto_px": 128,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        98.99490986459209,
+        522.0101235751697,
+        135.50250631652423,
+        556.7728470073346
+      ],
+      "ancho_px": 73,
+      "alto_px": 69,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p001_img01.png"
+    }
+  ]
+}

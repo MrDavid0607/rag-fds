@@ -1,0 +1,31 @@
+{
+  "doc_id": "fds016-sellador-nitrocelulosico",
+  "archivo_original": "FDS 16 - sellador-nitrocelulosico.pdf",
+  "nombre_mostrado": "FDS 16 - sellador-nitrocelulosico.pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 16,
+  "sha256": "f3d7734ea42e96848775a751ad33878a611fd43ce3365a4a54532ff57d092b96",
+  "tamano_bytes": 295294,
+  "n_paginas": 4,
+  "n_tablas": 0,
+  "n_imagenes_guardadas": 18,
+  "n_imagenes_omitidas_por_tamano": 9,
+  "n_imagenes_duplicadas_no_guardadas": 2,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "SELLADOR NITROCELULOSICO",
+  "codigo_producto": "137",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "fabricante: no aparece en el contenido; version: no aparece en el texto de la ficha; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): Nombre del Producto: SELLADOR NITROCELULOSICO",
+    "codigo_producto": "Código del producto: 137"
+  },
+  "version_en_nombre_archivo": ""
+}

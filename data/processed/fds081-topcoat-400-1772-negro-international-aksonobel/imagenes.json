@@ -1,0 +1,103 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        316.7542168625263,
+        749.1338743781364,
+        560.8700067620799,
+        780.7460270902694
+      ],
+      "ancho_px": 488,
+      "alto_px": 63,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        173.25272575416886,
+        552.388660736627,
+        222.56741868065586,
+        602.2189652651315
+      ],
+      "ancho_px": 98,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        229.44354330316114,
+        552.385947765201,
+        278.8217085248162,
+        601.8967465633514
+      ],
+      "ancho_px": 99,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        286.07839227859114,
+        552.4995572540174,
+        335.57509506302523,
+        602.2438849745781
+      ],
+      "ancho_px": 99,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img01.png",
+      "pagina": 13,
+      "seccion_aproximada": "Sección 14. Información relativa al transporte",
+      "bbox_pagina": [
+        119.07463604582459,
+        165.05071919831516,
+        156.49085219029018,
+        203.1146227897019
+      ],
+      "ancho_px": 75,
+      "alto_px": 76,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img03.png",
+      "pagina": 13,
+      "seccion_aproximada": "Información adicional",
+      "bbox_pagina": [
+        263.3559819500066,
+        164.72839380664755,
+        300.1900228794643,
+        202.89581707177217
+      ],
+      "ancho_px": 73,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img04.png",
+      "pagina": 13,
+      "seccion_aproximada": "Información adicional",
+      "bbox_pagina": [
+        407.457621918494,
+        165.1240608752919,
+        444.59120325630255,
+        202.7101157018044
+      ],
+      "ancho_px": 74,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds096-international-aksonobel-sealer-f100-parte-b",
+  "archivo_original": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "nombre_mostrado": "FDS 96 - INTERNATIONAL - AKSONOBEL - SEALER F100 PARTE B.pdf",
+  "carpeta_origen": "FDS 2025",
+  "anio_carpeta": "2025",
+  "numero_fds": 96,
+  "sha256": "9612c06e8a66518ec88227571c4fd2e4373e67bd473414f76e4df0a908fe1436",
+  "tamano_bytes": 248631,
+  "n_paginas": 16,
+  "n_tablas": 18,
+  "n_imagenes_guardadas": 7,
+  "n_imagenes_omitidas_por_tamano": 16,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "AkzoNobel",
+  "producto": "X International.",
+  "codigo_producto": "UFA551",
+  "version": "1",
+  "fecha_revision": "21-3-2025",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"Global de Pinturas\" (15 menciones)",
+    "producto": "pág. 1-2 (md): título de la página 1: X International.",
+    "codigo_producto": "SDS code : UFA551",
+    "version": "texto crudo del PDF, pág. 1: Versión : 1",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión : 21-3-2025"
+  },
+  "version_en_nombre_archivo": ""
+}

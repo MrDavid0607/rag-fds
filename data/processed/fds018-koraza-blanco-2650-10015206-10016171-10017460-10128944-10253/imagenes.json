@@ -1,0 +1,152 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        50.04354168987915,
+        752.9970493728022,
+        121.18442922707374,
+        802.4430559998283
+      ],
+      "ancho_px": 142,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "8.2 Controles técnicos apropiados:",
+      "bbox_pagina": [
+        96.76275623295932,
+        93.15074205992062,
+        140.04309681732383,
+        150.56690117697815
+      ],
+      "ancho_px": 86,
+      "alto_px": 115,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "8.2 Controles técnicos apropiados:",
+      "bbox_pagina": [
+        50.191199451420935,
+        753.0125616636299,
+        121.20497874829594,
+        802.4154366481898
+      ],
+      "ancho_px": 142,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        87.24094197010835,
+        634.7361411675024,
+        147.24174044820288,
+        697.3206234154055
+      ],
+      "ancho_px": 120,
+      "alto_px": 125,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        102.16119777807454,
+        440.95689395424307,
+        167.4667530218547,
+        482.7048766857881
+      ],
+      "ancho_px": 131,
+      "alto_px": 83,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img04.png",
+      "pagina": 4,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        366.5009244204528,
+        254.32432843351023,
+        546.3782315042996,
+        295.75449986546175
+      ],
+      "ancho_px": 360,
+      "alto_px": 83,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img05.png",
+      "pagina": 4,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        350.2149410293887,
+        442.33152391882237,
+        379.3144350807139,
+        478.4972783829424
+      ],
+      "ancho_px": 59,
+      "alto_px": 73,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img01.png",
+      "pagina": 6,
+      "seccion_aproximada": "SECCIÓN 11: INFORMACIÓN TOXICOLÓGICA",
+      "bbox_pagina": [
+        50.44848387801408,
+        752.9008030059161,
+        120.84204645860916,
+        802.3057218911358
+      ],
+      "ancho_px": 141,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img02.png",
+      "pagina": 8,
+      "seccion_aproximada": "Abreviaturas y acrónimos:",
+      "bbox_pagina": [
+        364.9589481061897,
+        254.3606915616649,
+        546.6271429156618,
+        296.0364971445405
+      ],
+      "ancho_px": 363,
+      "alto_px": 84,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p004_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p004_img01.png"
+    }
+  ]
+}

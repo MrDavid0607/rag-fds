@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds082-acrilica-mantenimiento-13883-blanco-ral9003-brillante-intern",
+  "archivo_original": "FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE  - INTERNATIONAL - AKSONOBEL.pdf",
+  "nombre_mostrado": "FDS 82 - ACRILICA MANTENIMIENTO 13883 BLANCO RAL9003 BRILLANTE  - INTERNATIONAL - AKSONOBEL.pdf",
+  "carpeta_origen": "FDS 2024",
+  "anio_carpeta": "2024",
+  "numero_fds": 82,
+  "sha256": "1ccc3d41893488dbc86d15c07d852ca932b70583d64428bf867cc012ea823fdd",
+  "tamano_bytes": 198001,
+  "n_paginas": 17,
+  "n_tablas": 18,
+  "n_imagenes_guardadas": 7,
+  "n_imagenes_omitidas_por_tamano": 18,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "AkzoNobel",
+  "producto": "X International.",
+  "codigo_producto": "11Z028",
+  "version": "1",
+  "fecha_revision": "13-11-2024",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"Global de Pinturas\" (18 menciones)",
+    "producto": "pág. 1-2 (md): título de la página 1: X International.",
+    "codigo_producto": "SDS code : 11Z028",
+    "version": "texto crudo del PDF, pág. 1: Versión : 1",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión : 13-11-2024"
+  },
+  "version_en_nombre_archivo": ""
+}

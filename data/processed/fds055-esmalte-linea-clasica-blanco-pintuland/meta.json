@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds055-esmalte-linea-clasica-blanco-pintuland",
+  "archivo_original": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "nombre_mostrado": "FDS 55 - ESMALTE LINEA CLASICA, BLANCO - PINTULAND.pdf",
+  "carpeta_origen": "FDS 2022",
+  "anio_carpeta": "2022",
+  "numero_fds": 55,
+  "sha256": "8793b0b04a34622e4b513cfe278145f1f8192122b6cf2d173a86f5b22ab5a90d",
+  "tamano_bytes": 614487,
+  "n_paginas": 14,
+  "n_tablas": 16,
+  "n_imagenes_guardadas": 25,
+  "n_imagenes_omitidas_por_tamano": 14,
+  "n_imagenes_duplicadas_no_guardadas": 22,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuland",
+  "producto": "50130001 - ESMALTE LINEA CLASICA, BLANCO",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"pintuland\" (8 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: 50130001 - ESMALTE LINEA CLASICA, BLANCO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": ""
+}

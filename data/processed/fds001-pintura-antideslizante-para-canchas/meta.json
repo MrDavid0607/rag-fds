@@ -1,0 +1,31 @@
+{
+  "doc_id": "fds001-pintura-antideslizante-para-canchas",
+  "archivo_original": "FDS 1 -pintura-antideslizante-para-canchas.pdf",
+  "nombre_mostrado": "FDS 1 -pintura-antideslizante-para-canchas.pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 1,
+  "sha256": "af2f130f632124f70c5c3aeaaeabe2a9b116b9675efd6f3e2ba9ecfdf1a5a856",
+  "tamano_bytes": 155065,
+  "n_paginas": 3,
+  "n_tablas": 2,
+  "n_imagenes_guardadas": 11,
+  "n_imagenes_omitidas_por_tamano": 11,
+  "n_imagenes_duplicadas_no_guardadas": 1,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS",
+  "codigo_producto": "142",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "fabricante: no aparece en el contenido; version: no aparece en el texto de la ficha; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): Nombre del Producto: PINTURA ANTIDESLIZANTE PARA CANCHAS DEPORTIVAS",
+    "codigo_producto": "Código del producto: 142"
+  },
+  "version_en_nombre_archivo": ""
+}

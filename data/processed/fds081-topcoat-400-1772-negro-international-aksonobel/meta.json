@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds081-topcoat-400-1772-negro-international-aksonobel",
+  "archivo_original": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "nombre_mostrado": "FDS 81 - TOPCOAT 400 1772 NEGRO - INTERNATIONAL - AKSONOBEL.pdf",
+  "carpeta_origen": "FDS 2024",
+  "anio_carpeta": "2024",
+  "numero_fds": 81,
+  "sha256": "f06c008b0913020453b9c026bd904e57b11badc426db3cdbc02d43cbbf8068b3",
+  "tamano_bytes": 468921,
+  "n_paginas": 15,
+  "n_tablas": 16,
+  "n_imagenes_guardadas": 7,
+  "n_imagenes_omitidas_por_tamano": 16,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "AkzoNobel",
+  "producto": "TOPCOAT 400 1772 NEGRO",
+  "codigo_producto": "95",
+  "version": "1",
+  "fecha_revision": "2-5-2024",
+  "notas_metadatos": "fabricantes mencionados: AkzoNobel x15, Pintuco x2",
+  "evidencia_metadatos": {
+    "fabricante": "\"Global de Pinturas\" (15 menciones)",
+    "producto": "pág. 1-2 (md): título de la página 1: TOPCOAT 400 1772 NEGRO",
+    "codigo_producto": "SDS code : 95",
+    "version": "texto crudo del PDF, pág. 1: Versión : 1",
+    "fecha_revision": "Markdown: Fecha de revisión : 2-5-2024"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds042-pintura-lavable-antibacterial-corona",
+  "archivo_original": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "nombre_mostrado": "FDS 42 - PINTURA LAVABLE ANTIBACTERIAL - CORONA .pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 42,
+  "sha256": "f5ad3cfa146d5cfcce6e6d6815bc1ae1f64295bb4c41c1500596a613a486208b",
+  "tamano_bytes": 624624,
+  "n_paginas": 10,
+  "n_tablas": 11,
+  "n_imagenes_guardadas": 11,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 6,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA LAVABLE ANTIBACTERIAL",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA LAVABLE ANTIBACTERIAL",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,138 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        49.831239829863485,
+        752.854083097553,
+        121.58378051245774,
+        802.619559786835
+      ],
+      "ancho_px": 143,
+      "alto_px": 100,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "SECCIÓN 4: PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        49.85731546491585,
+        752.9693423164712,
+        121.50725336369253,
+        802.6683617283329
+      ],
+      "ancho_px": 143,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        96.0819694979879,
+        635.2292398281505,
+        141.39651450547598,
+        694.4586438901633
+      ],
+      "ancho_px": 91,
+      "alto_px": 119,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        98.2810274244475,
+        451.3425938317668,
+        137.9856598494357,
+        498.3632301457421
+      ],
+      "ancho_px": 79,
+      "alto_px": 94,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img04.png",
+      "pagina": 4,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        100.34967668674138,
+        382.17354833172504,
+        136.28809865861933,
+        417.1692459331159
+      ],
+      "ancho_px": 72,
+      "alto_px": 70,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img05.png",
+      "pagina": 4,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        95.28919701902659,
+        302.8139497081911,
+        142.2831318306123,
+        359.35751577345604
+      ],
+      "ancho_px": 94,
+      "alto_px": 113,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img01.png",
+      "pagina": 5,
+      "seccion_aproximada": "Aspecto físico:",
+      "bbox_pagina": [
+        50.427663767769836,
+        753.0329472847619,
+        121.2567870182319,
+        802.5882682778546
+      ],
+      "ancho_px": 142,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img01.png",
+      "pagina": 9,
+      "seccion_aproximada": "Abreviaturas y acrónimos:",
+      "bbox_pagina": [
+        50.4565253264152,
+        753.1565880216838,
+        121.10368698734567,
+        802.5049297537543
+      ],
+      "ancho_px": 141,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p001_img01.png"
+    }
+  ]
+}

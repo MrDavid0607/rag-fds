@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds038-esmalte-top-quality-rojo-bermellon-9409-pintuco",
+  "archivo_original": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "nombre_mostrado": "FDS 38 - ESMALTE TOP QUALITY ROJO BERMELLON 9409 - PINTUCO .pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 38,
+  "sha256": "95bd9224044b878758a6253a4d1685ee9792e88e08290a2f1d21200c11cb6994",
+  "tamano_bytes": 313659,
+  "n_paginas": 11,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 16,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 8,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "ESMALTE TOP QUALITY ROJO BERMELLON 9409 10013026",
+  "codigo_producto": "",
+  "version": "4",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: ESMALTE TOP QUALITY ROJO BERMELLON 9409 10013026",
+    "version": "texto crudo del PDF, pág. 1: Versión: 4"
+  },
+  "version_en_nombre_archivo": ""
+}

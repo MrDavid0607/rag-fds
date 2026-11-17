@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds091-pintura-exteriores-corona",
+  "archivo_original": "FDS 91 - PINTURA EXTERIORES - CORONA.pdf",
+  "nombre_mostrado": "FDS 91 - PINTURA EXTERIORES - CORONA.pdf",
+  "carpeta_origen": "FDS 2025",
+  "anio_carpeta": "2025",
+  "numero_fds": 91,
+  "sha256": "64660bde3d5dc8044df721e0f6d3f1673051c5f63a95834189742759d21afcf2",
+  "tamano_bytes": 268004,
+  "n_paginas": 12,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 16,
+  "n_imagenes_omitidas_por_tamano": 2,
+  "n_imagenes_duplicadas_no_guardadas": 20,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA EXTERIORES",
+  "codigo_producto": "",
+  "version": "9",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA EXTERIORES",
+    "version": "texto crudo del PDF, pág. 1: Versión: 9"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,210 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        95.46783447265625,
+        708.3449249267578,
+        193.40118408203125,
+        756.8092346191406
+      ],
+      "ancho_px": 196,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE SEGURIDAD OXIGEL",
+      "bbox_pagina": [
+        445.9432373046875,
+        714.2201614379883,
+        486.7032165527344,
+        753.9021377563477
+      ],
+      "ancho_px": 81,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        55.640560150146484,
+        298.33453369140625,
+        205.11129760742188,
+        368.9910583496094
+      ],
+      "ancho_px": 299,
+      "alto_px": 141,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        208.70333862304688,
+        310.5018615722656,
+        264.87493896484375,
+        365.4224548339844
+      ],
+      "ancho_px": 113,
+      "alto_px": 110,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img08.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        282.9147644042969,
+        313.01959228515625,
+        334.6056213378906,
+        363.9491271972656
+      ],
+      "ancho_px": 103,
+      "alto_px": 102,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img09.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        59.88391876220703,
+        256.8135986328125,
+        80.93595123291016,
+        278.220703125
+      ],
+      "ancho_px": 42,
+      "alto_px": 42,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        94.60813903808594,
+        708.1911849975586,
+        193.80874633789062,
+        756.9944076538086
+      ],
+      "ancho_px": 199,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img04.png",
+      "pagina": 2,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        56.722232818603516,
+        504.3390197753906,
+        80.92237854003906,
+        524.7544860839844
+      ],
+      "ancho_px": 49,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "9. PROPIEDADES FISICAS Y QUIMICAS.",
+      "bbox_pagina": [
+        94.39224243164062,
+        708.2308883666992,
+        194.122314453125,
+        756.6892433166504
+      ],
+      "ancho_px": 199,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "9. PROPIEDADES FISICAS Y QUIMICAS.",
+      "bbox_pagina": [
+        445.8829040527344,
+        713.8104095458984,
+        486.9637451171875,
+        753.8514366149902
+      ],
+      "ancho_px": 82,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img05.png",
+      "pagina": 3,
+      "seccion_aproximada": "11. INFORMACION TOXICOLOGICA.",
+      "bbox_pagina": [
+        56.82408905029297,
+        264.6466064453125,
+        80.0858154296875,
+        286.92950439453125
+      ],
+      "ancho_px": 46,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img06.png",
+      "pagina": 3,
+      "seccion_aproximada": "11. INFORMACION TOXICOLOGICA.",
+      "bbox_pagina": [
+        62.11480712890625,
+        200.21417236328125,
+        84.49529266357422,
+        222.00927734375
+      ],
+      "ancho_px": 45,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img07.png",
+      "pagina": 3,
+      "seccion_aproximada": "13. CONSIDERACIONES SOBRE LA DISPOSICION.",
+      "bbox_pagina": [
+        57.11079025268555,
+        126.33612060546875,
+        76.93523406982422,
+        148.74127197265625
+      ],
+      "ancho_px": 40,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "14. INFORMACION SOBRE EL TRANSPORTE.",
+      "bbox_pagina": [
+        95.14530181884766,
+        708.262580871582,
+        193.757568359375,
+        756.8909530639648
+      ],
+      "ancho_px": 198,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img02.png"
+    }
+  ]
+}

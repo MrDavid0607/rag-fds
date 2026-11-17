@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds044-textuco-corona",
+  "archivo_original": "FDS 44 - TEXTUCO - CORONA .pdf",
+  "nombre_mostrado": "FDS 44 - TEXTUCO - CORONA .pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 44,
+  "sha256": "21c4d1297c2fa5122d566c5e16e9262c6c77af065ec9aa2a6788f115faae43db",
+  "tamano_bytes": 738356,
+  "n_paginas": 10,
+  "n_tablas": 11,
+  "n_imagenes_guardadas": 11,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 7,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "TEXTUCO",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: TEXTUCO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": ""
+}

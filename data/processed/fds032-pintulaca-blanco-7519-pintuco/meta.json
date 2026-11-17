@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds032-pintulaca-blanco-7519-pintuco",
+  "archivo_original": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "nombre_mostrado": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf",
+  "carpeta_origen": "FDS 2019",
+  "anio_carpeta": "2019",
+  "numero_fds": 32,
+  "sha256": "16fe82c92807f7ac8c14b288b343ab1aa0144b4f3ce99b24b351243790afdd25",
+  "tamano_bytes": 535606,
+  "n_paginas": 14,
+  "n_tablas": 19,
+  "n_imagenes_guardadas": 18,
+  "n_imagenes_omitidas_por_tamano": 4,
+  "n_imagenes_duplicadas_no_guardadas": 9,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "PINTULACA BLANCO 7519",
+  "codigo_producto": "",
+  "version": "3",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTULACA BLANCO 7519",
+    "version": "texto crudo del PDF, pág. 1: Versión: 3"
+  },
+  "version_en_nombre_archivo": ""
+}

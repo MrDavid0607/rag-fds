@@ -1,0 +1,150 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.2 Elementos de las etiquetas del SGA, incluidos los consejos de prudencia:",
+      "bbox_pagina": [
+        74.56285095214844,
+        318.8280029296875,
+        102.52571105957031,
+        347.7564392089844
+      ],
+      "ancho_px": 56,
+      "alto_px": 58,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "51630001 - PINTURA PARA CANCHAS, BLANCO",
+      "bbox_pagina": [
+        516.0933227539062,
+        755.5042190551758,
+        559.1055908203125,
+        798.5723876953125
+      ],
+      "ancho_px": 86,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "51630001 - PINTURA PARA CANCHAS, BLANCO",
+      "bbox_pagina": [
+        516.1766357421875,
+        755.5627288818359,
+        559.0220336914062,
+        798.5443420410156
+      ],
+      "ancho_px": 86,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        86.93234252929688,
+        206.21209716796875,
+        149.40846252441406,
+        278.2850341796875
+      ],
+      "ancho_px": 125,
+      "alto_px": 145,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        87.2043228149414,
+        127.1715087890625,
+        148.37574768066406,
+        189.6729736328125
+      ],
+      "ancho_px": 123,
+      "alto_px": 125,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)",
+      "bbox_pagina": [
+        88.70989227294922,
+        645.4088745117188,
+        148.13772583007812,
+        697.0587921142578
+      ],
+      "ancho_px": 119,
+      "alto_px": 103,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img03.png",
+      "pagina": 5,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        120.7781753540039,
+        461.1379089355469,
+        148.18743896484375,
+        488.8815002441406
+      ],
+      "ancho_px": 54,
+      "alto_px": 56,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img05.png",
+      "pagina": 5,
+      "seccion_aproximada": "51630001 - PINTURA PARA CANCHAS, BLANCO",
+      "bbox_pagina": [
+        351.8481140136719,
+        456.4944763183594,
+        378.5503845214844,
+        488.8170471191406
+      ],
+      "ancho_px": 53,
+      "alto_px": 65,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img03.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p003_img02.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p003_img02.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p003_img02.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p003_img02.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p003_img02.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p003_img02.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p001_img03.png"
+    }
+  ]
+}

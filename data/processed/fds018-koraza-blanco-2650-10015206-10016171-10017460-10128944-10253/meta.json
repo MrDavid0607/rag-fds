@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds018-koraza-blanco-2650-10015206-10016171-10017460-10128944-10253",
+  "archivo_original": "FDS 18 - KORAZA BLANCO 2650 _ 10015206-10016171-10017460-10128944-10253596-10287798-10346307-10346308 _COL.pdf",
+  "nombre_mostrado": "FDS 18 - KORAZA BLANCO 2650 _ 10015206-10016171-10017460-10128944-10253596-10287798-10346307-10346308 _COL.pdf",
+  "carpeta_origen": "FDS 2019",
+  "anio_carpeta": "2019",
+  "numero_fds": 18,
+  "sha256": "cea6f28b322196ee591b389738dc5242110e6090aeea89725eba43bed7996e49",
+  "tamano_bytes": 345318,
+  "n_paginas": 8,
+  "n_tablas": 9,
+  "n_imagenes_guardadas": 9,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 5,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "KORAZA BLANCO 2650",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: KORAZA BLANCO 2650",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": ""
+}

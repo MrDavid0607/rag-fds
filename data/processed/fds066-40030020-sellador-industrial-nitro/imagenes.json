@@ -1,0 +1,472 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Peligro",
+      "bbox_pagina": [
+        74.25679016113281,
+        242.55694580078125,
+        102.89874267578125,
+        270.841552734375
+      ],
+      "ancho_px": 57,
+      "alto_px": 57,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Peligro",
+      "bbox_pagina": [
+        109.22603607177734,
+        241.5440673828125,
+        137.57965087890625,
+        270.61248779296875
+      ],
+      "ancho_px": 57,
+      "alto_px": 58,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Peligro",
+      "bbox_pagina": [
+        143.96820068359375,
+        242.6954345703125,
+        172.6521453857422,
+        270.86407470703125
+      ],
+      "ancho_px": 57,
+      "alto_px": 57,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "Indicaciones de peligro:",
+      "bbox_pagina": [
+        380.2884521484375,
+        755.5248794555664,
+        422.4139099121094,
+        798.2422027587891
+      ],
+      "ancho_px": 84,
+      "alto_px": 85,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "Indicaciones de peligro:",
+      "bbox_pagina": [
+        424.8028564453125,
+        755.5602111816406,
+        467.8824157714844,
+        798.265251159668
+      ],
+      "ancho_px": 86,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "Indicaciones de peligro:",
+      "bbox_pagina": [
+        470.5333251953125,
+        755.6767044067383,
+        513.9696655273438,
+        798.434684753418
+      ],
+      "ancho_px": 87,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img08.png",
+      "pagina": 1,
+      "seccion_aproximada": "Indicaciones de peligro:",
+      "bbox_pagina": [
+        517.7330322265625,
+        755.9143753051758,
+        558.5445556640625,
+        797.6879692077637
+      ],
+      "ancho_px": 82,
+      "alto_px": 83,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img09.png",
+      "pagina": 1,
+      "seccion_aproximada": "Indicaciones de peligro:",
+      "bbox_pagina": [
+        429.6962890625,
+        552.4443969726562,
+        540.3553466796875,
+        690.2229614257812
+      ],
+      "ancho_px": 222,
+      "alto_px": 275,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img10.png",
+      "pagina": 1,
+      "seccion_aproximada": "Indicaciones de peligro:",
+      "bbox_pagina": [
+        178.54827880859375,
+        241.8675537109375,
+        207.3710479736328,
+        269.968505859375
+      ],
+      "ancho_px": 58,
+      "alto_px": 56,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Componentes:",
+      "bbox_pagina": [
+        380.1058044433594,
+        755.3069458007812,
+        558.766845703125,
+        798.8332862854004
+      ],
+      "ancho_px": 358,
+      "alto_px": 87,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "SECCIÓN 6: MEDIDAS QUE DEBEN TOMARSE EN CASO DE VERTIDO ACCIDENTAL",
+      "bbox_pagina": [
+        380.1738586425781,
+        755.3435363769531,
+        558.7384033203125,
+        798.7684326171875
+      ],
+      "ancho_px": 357,
+      "alto_px": 87,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "7.2 Condiciones de almacenamiento seguro, incluidas cualesquiera incompatibilidades:",
+      "bbox_pagina": [
+        470.5649719238281,
+        755.7425231933594,
+        513.9706420898438,
+        798.4273109436035
+      ],
+      "ancho_px": 87,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "ACGIH (2022):",
+      "bbox_pagina": [
+        380.1828918457031,
+        755.1813507080078,
+        558.7869873046875,
+        798.8479080200195
+      ],
+      "ancho_px": 358,
+      "alto_px": 88,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img02.png",
+      "pagina": 6,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        86.81593322753906,
+        89.80609130859375,
+        148.51759338378906,
+        153.9381103515625
+      ],
+      "ancho_px": 123,
+      "alto_px": 128,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img03.png",
+      "pagina": 6,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        380.2027893066406,
+        755.1673049926758,
+        558.7071533203125,
+        798.9288520812988
+      ],
+      "ancho_px": 357,
+      "alto_px": 88,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img03.png",
+      "pagina": 7,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        95.00981903076172,
+        616.3448791503906,
+        147.50271606445312,
+        665.3715515136719
+      ],
+      "ancho_px": 105,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img04.png",
+      "pagina": 7,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        100.37905883789062,
+        544.5724487304688,
+        135.9654083251953,
+        578.7891235351562
+      ],
+      "ancho_px": 71,
+      "alto_px": 69,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img05.png",
+      "pagina": 7,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        99.74342346191406,
+        491.8796691894531,
+        136.5609588623047,
+        527.4032287597656
+      ],
+      "ancho_px": 74,
+      "alto_px": 71,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img06.png",
+      "pagina": 7,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        120.65177917480469,
+        417.7016906738281,
+        148.2642059326172,
+        445.2239990234375
+      ],
+      "ancho_px": 56,
+      "alto_px": 55,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img08.png",
+      "pagina": 7,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        351.3152160644531,
+        415.8431701660156,
+        378.70062255859375,
+        445.7716369628906
+      ],
+      "ancho_px": 54,
+      "alto_px": 60,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img03.png",
+      "pagina": 8,
+      "seccion_aproximada": "10.4 Condiciones que deben evitarse:",
+      "bbox_pagina": [
+        424.8538513183594,
+        755.5758285522461,
+        467.9678649902344,
+        798.2773513793945
+      ],
+      "ancho_px": 86,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img05.png",
+      "pagina": 8,
+      "seccion_aproximada": "10.4 Condiciones que deben evitarse:",
+      "bbox_pagina": [
+        517.8300170898438,
+        755.9905624389648,
+        558.5474243164062,
+        797.7458915710449
+      ],
+      "ancho_px": 81,
+      "alto_px": 83,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img02.png",
+      "pagina": 9,
+      "seccion_aproximada": "Efectos peligrosos para la salud:",
+      "bbox_pagina": [
+        380.28692626953125,
+        755.18017578125,
+        558.8373413085938,
+        798.8378677368164
+      ],
+      "ancho_px": 357,
+      "alto_px": 88,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p015_img02.png",
+      "pagina": 15,
+      "seccion_aproximada": "SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)",
+      "bbox_pagina": [
+        72.29806518554688,
+        650.2059173583984,
+        132.8775634765625,
+        711.0953521728516
+      ],
+      "ancho_px": 121,
+      "alto_px": 122,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p015_img03.png",
+      "pagina": 15,
+      "seccion_aproximada": "Transporte marítimo de mercancías peligrosas:",
+      "bbox_pagina": [
+        72.11685943603516,
+        412.9726257324219,
+        132.9774169921875,
+        472.9873352050781
+      ],
+      "ancho_px": 122,
+      "alto_px": 120,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p015_img04.png",
+      "pagina": 15,
+      "seccion_aproximada": "Transporte marítimo de mercancías peligrosas:",
+      "bbox_pagina": [
+        22.769468307495117,
+        299.70635986328125,
+        144.01588439941406,
+        407.6586608886719
+      ],
+      "ancho_px": 242,
+      "alto_px": 216,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p015_img06.png",
+      "pagina": 15,
+      "seccion_aproximada": "Transporte marítimo de mercancías peligrosas:",
+      "bbox_pagina": [
+        352.2397155761719,
+        298.06939697265625,
+        553.4575805664062,
+        407.8444519042969
+      ],
+      "ancho_px": 403,
+      "alto_px": 220,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p016_img02.png",
+      "pagina": 16,
+      "seccion_aproximada": "SECCIÓN 14: INFORMACIÓN RELATIVA AL TRANSPORTE (continúa)",
+      "bbox_pagina": [
+        72.46031188964844,
+        650.3421630859375,
+        132.83029174804688,
+        711.0241546630859
+      ],
+      "ancho_px": 121,
+      "alto_px": 121,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p018_img02.png",
+      "pagina": 18,
+      "seccion_aproximada": "SECCIÓN 16: OTRAS INFORMACIONES (continúa)",
+      "bbox_pagina": [
+        21.544559478759766,
+        297.776611328125,
+        575.2330932617188,
+        556.1100158691406
+      ],
+      "ancho_px": 1107,
+      "alto_px": 516,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p003_img02.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p001_img05.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p004_img02.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p005_img02.png"
+    },
+    {
+      "pagina": 11,
+      "duplicada_de": "imagenes/p005_img02.png"
+    },
+    {
+      "pagina": 12,
+      "duplicada_de": "imagenes/p006_img03.png"
+    },
+    {
+      "pagina": 13,
+      "duplicada_de": "imagenes/p005_img02.png"
+    },
+    {
+      "pagina": 14,
+      "duplicada_de": "imagenes/p002_img02.png"
+    },
+    {
+      "pagina": 15,
+      "duplicada_de": "imagenes/p005_img02.png"
+    },
+    {
+      "pagina": 16,
+      "duplicada_de": "imagenes/p001_img05.png"
+    },
+    {
+      "pagina": 16,
+      "duplicada_de": "imagenes/p008_img03.png"
+    },
+    {
+      "pagina": 16,
+      "duplicada_de": "imagenes/p004_img02.png"
+    },
+    {
+      "pagina": 16,
+      "duplicada_de": "imagenes/p001_img08.png"
+    },
+    {
+      "pagina": 17,
+      "duplicada_de": "imagenes/p005_img02.png"
+    },
+    {
+      "pagina": 18,
+      "duplicada_de": "imagenes/p006_img03.png"
+    }
+  ]
+}

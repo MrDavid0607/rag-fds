@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds063-amercoat-68hs-powder-pintura-epoxica-ppg",
+  "archivo_original": "FDS 63 AMERCOAT 68HS POWDER (PINTURA EP#U00d3XICA) - PPG.pdf",
+  "nombre_mostrado": "FDS 63 AMERCOAT 68HS POWDER (PINTURA EPÓXICA) - PPG.pdf",
+  "carpeta_origen": "FDS 2022",
+  "anio_carpeta": "2022",
+  "numero_fds": 63,
+  "sha256": "9dba76852c86ee361e0ce7a83f4be156e9435d11750d5790f8c0bd66d85b6dd8",
+  "tamano_bytes": 138611,
+  "n_paginas": 12,
+  "n_tablas": 11,
+  "n_imagenes_guardadas": 2,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "PPG",
+  "producto": "AMERCOAT 68HS POWDER (PINTURA EPÓXICA)",
+  "codigo_producto": "00348486",
+  "version": "2.02",
+  "fecha_revision": "8 Febrero 2022",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"PPG\" (5 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto : AMERCOAT 68HS POWDER (PINTURA EPÓXICA)",
+    "codigo_producto": "Código del producto : 00348486",
+    "version": "texto crudo del PDF, pág. 1: Versión 2.02",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión 8 Febrero 2022"
+  },
+  "version_en_nombre_archivo": ""
+}

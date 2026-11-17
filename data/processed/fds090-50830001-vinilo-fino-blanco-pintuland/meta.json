@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds090-50830001-vinilo-fino-blanco-pintuland",
+  "archivo_original": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "nombre_mostrado": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf",
+  "carpeta_origen": "FDS 2024",
+  "anio_carpeta": "2024",
+  "numero_fds": 90,
+  "sha256": "6c2e0ad8f7fce3d6feba83c52277675013b9684abbca2de132fdc8bda9282dbd",
+  "tamano_bytes": 338567,
+  "n_paginas": 10,
+  "n_tablas": 14,
+  "n_imagenes_guardadas": 3,
+  "n_imagenes_omitidas_por_tamano": 15,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuland",
+  "producto": "50830001 - VINILO FINO BLANCO",
+  "codigo_producto": "",
+  "version": "3",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"pintuland\" (8 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: 50830001 - VINILO FINO BLANCO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 3"
+  },
+  "version_en_nombre_archivo": ""
+}

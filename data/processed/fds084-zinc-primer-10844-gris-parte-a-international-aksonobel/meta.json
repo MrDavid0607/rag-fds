@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds084-zinc-primer-10844-gris-parte-a-international-aksonobel",
+  "archivo_original": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "nombre_mostrado": "FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf",
+  "carpeta_origen": "FDS 2024",
+  "anio_carpeta": "2024",
+  "numero_fds": 84,
+  "sha256": "a7f5bcd3f2ad58c2384f73cccab4633aa25715014c6ccd595262a0c92802c25d",
+  "tamano_bytes": 237338,
+  "n_paginas": 15,
+  "n_tablas": 18,
+  "n_imagenes_guardadas": 10,
+  "n_imagenes_omitidas_por_tamano": 16,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "AkzoNobel",
+  "producto": "X International.",
+  "codigo_producto": "UDA850",
+  "version": "1",
+  "fecha_revision": "6-5-2024",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"Global de Pinturas\" (18 menciones)",
+    "producto": "pág. 1-2 (md): título de la página 1: X International.",
+    "codigo_producto": "SDS code : UDA850",
+    "version": "texto crudo del PDF, pág. 1: Versión : 1",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión : 6-5-2024"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,122 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "Sikafloor®-510 Part A",
+      "bbox_pagina": [
+        485.77935053678175,
+        753.4747505910201,
+        561.6605102989658,
+        819.498312887823
+      ],
+      "ancho_px": 151,
+      "alto_px": 132,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Etiqueta SGA (GHS)",
+      "bbox_pagina": [
+        247.44672586940283,
+        75.69220761336464,
+        298.7689627873978,
+        128.26770391389573
+      ],
+      "ancho_px": 103,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Etiqueta SGA (GHS)",
+      "bbox_pagina": [
+        304.8565832212308,
+        75.32110970167923,
+        356.6930033249823,
+        128.2534379517905
+      ],
+      "ancho_px": 103,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Sikafloor®-510 Part A",
+      "bbox_pagina": [
+        485.7016499830413,
+        753.5284918115148,
+        561.5332752611814,
+        819.626710357123
+      ],
+      "ancho_px": 152,
+      "alto_px": 132,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img02.png",
+      "pagina": 9,
+      "seccion_aproximada": "HMIS® IV:",
+      "bbox_pagina": [
+        100.8506167894402,
+        405.4392831692407,
+        292.39105503568715,
+        593.7184941997052
+      ],
+      "ancho_px": 383,
+      "alto_px": 376,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img03.png",
+      "pagina": 9,
+      "seccion_aproximada": "Texto completo de otras abreviaturas",
+      "bbox_pagina": [
+        307.9315315768863,
+        493.4922458417899,
+        494.10522854593785,
+        594.8522419103439
+      ],
+      "ancho_px": 372,
+      "alto_px": 203,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p001_img01.png"
+    }
+  ]
+}

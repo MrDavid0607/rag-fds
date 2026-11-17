@@ -1,0 +1,89 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "FICHA DE DATOS DE SEGURIDAD (MSDS)",
+      "bbox_pagina": [
+        460.0565185546875,
+        718.2738494873047,
+        569.0934448242188,
+        756.9051856994629
+      ],
+      "ancho_px": 218,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.2 Elementos de la etiqueta SGA",
+      "bbox_pagina": [
+        204.72274780273438,
+        123.33734130859375,
+        250.53366088867188,
+        167.88153076171875
+      ],
+      "ancho_px": 92,
+      "alto_px": 89,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.2 Elementos de la etiqueta SGA",
+      "bbox_pagina": [
+        256.02398681640625,
+        122.875732421875,
+        300.5881042480469,
+        167.92919921875
+      ],
+      "ancho_px": 89,
+      "alto_px": 90,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.2 Elementos de la etiqueta SGA",
+      "bbox_pagina": [
+        305.77972412109375,
+        122.8560791015625,
+        351.3330078125,
+        167.7855224609375
+      ],
+      "ancho_px": 91,
+      "alto_px": 90,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img01.png",
+      "pagina": 7,
+      "seccion_aproximada": "Producto",
+      "bbox_pagina": [
+        173.266357421875,
+        462.3863830566406,
+        210.1156768798828,
+        493.1935729980469
+      ],
+      "ancho_px": 73,
+      "alto_px": 61,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img02.png",
+      "pagina": 7,
+      "seccion_aproximada": "Legislación nacional",
+      "bbox_pagina": [
+        454.8634948730469,
+        462.448974609375,
+        492.14508056640625,
+        492.552978515625
+      ],
+      "ancho_px": 74,
+      "alto_px": 60,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

@@ -1,0 +1,266 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        94.75929260253906,
+        708.163703918457,
+        193.53330993652344,
+        756.8145713806152
+      ],
+      "ancho_px": 197,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE SEGURIDAD SELLADOR NITROCELULOSICO",
+      "bbox_pagina": [
+        445.9675598144531,
+        714.0054168701172,
+        487.15289306640625,
+        753.9512825012207
+      ],
+      "ancho_px": 82,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        55.61195755004883,
+        247.74176025390625,
+        204.83041381835938,
+        318.7409973144531
+      ],
+      "ancho_px": 299,
+      "alto_px": 142,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        59.594970703125,
+        205.90533447265625,
+        81.09149169921875,
+        227.69512939453125
+      ],
+      "ancho_px": 43,
+      "alto_px": 43,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img09.png",
+      "pagina": 1,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        355.7442626953125,
+        262.74072265625,
+        407.53521728515625,
+        314.5090637207031
+      ],
+      "ancho_px": 104,
+      "alto_px": 104,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img10.png",
+      "pagina": 1,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        421.55010986328125,
+        247.97686767578125,
+        497.09759521484375,
+        317.6289367675781
+      ],
+      "ancho_px": 151,
+      "alto_px": 139,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img11.png",
+      "pagina": 1,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        208.63165283203125,
+        259.81072998046875,
+        265.21728515625,
+        315.25103759765625
+      ],
+      "ancho_px": 113,
+      "alto_px": 111,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img12.png",
+      "pagina": 1,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        278.3425598144531,
+        251.45233154296875,
+        346.1060791015625,
+        316.786865234375
+      ],
+      "ancho_px": 135,
+      "alto_px": 131,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        94.36676025390625,
+        708.5172500610352,
+        193.3677520751953,
+        756.6067886352539
+      ],
+      "ancho_px": 198,
+      "alto_px": 96,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        57.50274658203125,
+        547.6208953857422,
+        80.8289566040039,
+        569.1746978759766
+      ],
+      "ancho_px": 47,
+      "alto_px": 43,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img04.png",
+      "pagina": 2,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        61.84803009033203,
+        381.7040710449219,
+        85.93212890625,
+        401.9053039550781
+      ],
+      "ancho_px": 48,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "8. CONTROLES DE EXPOSICION, PROTECCION PERSONAL",
+      "bbox_pagina": [
+        95.44620513916016,
+        708.0218200683594,
+        193.48504638671875,
+        756.8221282958984
+      ],
+      "ancho_px": 196,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "8. CONTROLES DE EXPOSICION, PROTECCION PERSONAL",
+      "bbox_pagina": [
+        446.2020568847656,
+        713.978759765625,
+        486.8759460449219,
+        753.7230682373047
+      ],
+      "ancho_px": 82,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img05.png",
+      "pagina": 3,
+      "seccion_aproximada": "10. ESTABILIDAD Y REACTIVIDAD",
+      "bbox_pagina": [
+        56.97134017944336,
+        489.5590515136719,
+        79.31251525878906,
+        509.8728332519531
+      ],
+      "ancho_px": 45,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img06.png",
+      "pagina": 3,
+      "seccion_aproximada": "11. INFORMACION TOXICOLOGICA.",
+      "bbox_pagina": [
+        56.52870178222656,
+        393.0431823730469,
+        80.23207092285156,
+        415.7737731933594
+      ],
+      "ancho_px": 47,
+      "alto_px": 46,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img07.png",
+      "pagina": 3,
+      "seccion_aproximada": "12. INFORMACION ECOLOGICA.",
+      "bbox_pagina": [
+        61.590782165527344,
+        318.4101257324219,
+        83.9844741821289,
+        339.3808288574219
+      ],
+      "ancho_px": 45,
+      "alto_px": 42,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img08.png",
+      "pagina": 3,
+      "seccion_aproximada": "13. CONSIDERACIONES SOBRE LA DISPOSICION.",
+      "bbox_pagina": [
+        56.96194076538086,
+        182.21380615234375,
+        77.21780395507812,
+        204.2608642578125
+      ],
+      "ancho_px": 40,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "15. INFORMACION SOBRE REGLAMENTACION.",
+      "bbox_pagina": [
+        94.08313751220703,
+        708.4343414306641,
+        193.9576873779297,
+        756.8607635498047
+      ],
+      "ancho_px": 200,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img02.png"
+    }
+  ]
+}

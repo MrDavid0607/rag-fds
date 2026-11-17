@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds066-40030020-sellador-industrial-nitro",
+  "archivo_original": "FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf",
+  "nombre_mostrado": "FDS 66 - 40030020 - SELLADOR INDUSTRIAL NITRO.pdf",
+  "carpeta_origen": "FDS 2022",
+  "anio_carpeta": "2022",
+  "numero_fds": 66,
+  "sha256": "08443d08a7cb7e3677252c5b0b7a9fd977daa330d11bd924b03e1439ec33c883",
+  "tamano_bytes": 774186,
+  "n_paginas": 18,
+  "n_tablas": 21,
+  "n_imagenes_guardadas": 29,
+  "n_imagenes_omitidas_por_tamano": 19,
+  "n_imagenes_duplicadas_no_guardadas": 15,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuland",
+  "producto": "40030020 - SELLADOR INDUSTRIAL NITRO",
+  "codigo_producto": "",
+  "version": "4",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"pintuland\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: 40030020 - SELLADOR INDUSTRIAL NITRO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 4"
+  },
+  "version_en_nombre_archivo": ""
+}

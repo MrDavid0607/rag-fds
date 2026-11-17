@@ -1,0 +1,156 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        50.10906996656585,
+        753.0849371011693,
+        121.1066291665711,
+        802.4771654987109
+      ],
+      "ancho_px": 142,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "8.1 Parámetros de control:",
+      "bbox_pagina": [
+        516.7397241210938,
+        273.48385321755313,
+        546.1218198225803,
+        295.69062034335104
+      ],
+      "ancho_px": 59,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)",
+      "bbox_pagina": [
+        97.36494257370099,
+        649.6850170507,
+        139.95269721728846,
+        706.523621701492
+      ],
+      "ancho_px": 85,
+      "alto_px": 114,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        86.92217285770698,
+        548.1081114852796,
+        148.7967050355233,
+        612.5608867190399
+      ],
+      "ancho_px": 124,
+      "alto_px": 129,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img04.png",
+      "pagina": 4,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        101.29158563908315,
+        354.9871375613541,
+        167.1921851978686,
+        393.5359581707662
+      ],
+      "ancho_px": 131,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img05.png",
+      "pagina": 4,
+      "seccion_aproximada": "Volatilidad:",
+      "bbox_pagina": [
+        350.3675379933607,
+        355.37779714117704,
+        379.54843741807366,
+        393.66692034288707
+      ],
+      "ancho_px": 58,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img01.png",
+      "pagina": 5,
+      "seccion_aproximada": "Volatilidad:",
+      "bbox_pagina": [
+        50.29840605972598,
+        753.1976414442628,
+        120.98577877377505,
+        802.4710566762167
+      ],
+      "ancho_px": 141,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img01.png",
+      "pagina": 9,
+      "seccion_aproximada": "Principales fuentes bibliográficas:",
+      "bbox_pagina": [
+        50.581872832535105,
+        753.2038722906769,
+        120.88446414614685,
+        802.3388895178861
+      ],
+      "ancho_px": 141,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img02.png",
+      "pagina": 9,
+      "seccion_aproximada": "Principales fuentes bibliográficas:",
+      "bbox_pagina": [
+        71.85718622297249,
+        252.74698623186055,
+        547.209115113124,
+        297.5275684347629
+      ],
+      "ancho_px": 950,
+      "alto_px": 90,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p001_img01.png"
+    }
+  ]
+}

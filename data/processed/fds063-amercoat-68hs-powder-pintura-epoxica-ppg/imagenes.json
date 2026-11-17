@@ -1,0 +1,33 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE DATOS DE SEGURIDAD",
+      "bbox_pagina": [
+        502.6468200683594,
+        726.536003112793,
+        569.9869384765625,
+        778.8645086288452
+      ],
+      "ancho_px": 135,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        198.33738708496094,
+        651.5889892578125,
+        247.23361206054688,
+        700.4715576171875
+      ],
+      "ancho_px": 97,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

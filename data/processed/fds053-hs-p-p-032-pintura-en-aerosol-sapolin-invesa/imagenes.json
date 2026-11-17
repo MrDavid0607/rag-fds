@@ -1,0 +1,400 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        35.47308349609375,
+        757.2452392578125,
+        132.7881317138672,
+        799.5158386230469
+      ],
+      "ancho_px": 195,
+      "alto_px": 85,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "HS-P-P-032 - Pintura en Aerosol Sapolin",
+      "bbox_pagina": [
+        425.4201354980469,
+        755.2102203369141,
+        467.583984375,
+        798.5347175598145
+      ],
+      "ancho_px": 84,
+      "alto_px": 87,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "HS-P-P-032 - Pintura en Aerosol Sapolin",
+      "bbox_pagina": [
+        470.480224609375,
+        755.6666793823242,
+        513.8260498046875,
+        798.5785713195801
+      ],
+      "ancho_px": 87,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "HS-P-P-032 - Pintura en Aerosol Sapolin",
+      "bbox_pagina": [
+        516.9735717773438,
+        755.5360412597656,
+        559.1828002929688,
+        798.5275077819824
+      ],
+      "ancho_px": 84,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "SGA:",
+      "bbox_pagina": [
+        74.36115264892578,
+        319.849609375,
+        103.32901000976562,
+        348.0282897949219
+      ],
+      "ancho_px": 58,
+      "alto_px": 56,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "SGA:",
+      "bbox_pagina": [
+        109.19237518310547,
+        320.379638671875,
+        137.93466186523438,
+        348.6173400878906
+      ],
+      "ancho_px": 58,
+      "alto_px": 56,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "SGA:",
+      "bbox_pagina": [
+        143.79168701171875,
+        319.654052734375,
+        172.96080017089844,
+        348.7434997558594
+      ],
+      "ancho_px": 58,
+      "alto_px": 58,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Sustancias que contribuyen a la clasificación",
+      "bbox_pagina": [
+        35.5244026184082,
+        757.3270492553711,
+        132.79385375976562,
+        799.468677520752
+      ],
+      "ancho_px": 195,
+      "alto_px": 84,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "4.2 Síntomas/efectos más importantes, agudos o retardados:",
+      "bbox_pagina": [
+        425.2210388183594,
+        755.100700378418,
+        559.255615234375,
+        799.1460113525391
+      ],
+      "ancho_px": 269,
+      "alto_px": 88,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "7.1 Precauciones que se deben tomar para garantizar una manipulación segura:",
+      "bbox_pagina": [
+        425.20367431640625,
+        755.1129989624023,
+        559.2442626953125,
+        799.1388511657715
+      ],
+      "ancho_px": 268,
+      "alto_px": 88,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        96.20684051513672,
+        504.7179870605469,
+        140.71621704101562,
+        572.024658203125
+      ],
+      "ancho_px": 89,
+      "alto_px": 135,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img03.png",
+      "pagina": 5,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        100.83775329589844,
+        250.79052734375,
+        135.5361785888672,
+        286.3865966796875
+      ],
+      "ancho_px": 69,
+      "alto_px": 71,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img04.png",
+      "pagina": 5,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        95.94031524658203,
+        171.97869873046875,
+        141.8638458251953,
+        228.17041015625
+      ],
+      "ancho_px": 92,
+      "alto_px": 112,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img05.png",
+      "pagina": 5,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        425.26837158203125,
+        755.0984420776367,
+        559.2609252929688,
+        799.2491035461426
+      ],
+      "ancho_px": 268,
+      "alto_px": 88,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img06.png",
+      "pagina": 5,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        350.4927062988281,
+        111.208740234375,
+        379.7165222167969,
+        141.33331298828125
+      ],
+      "ancho_px": 58,
+      "alto_px": 61,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p006_img04.png",
+      "pagina": 6,
+      "seccion_aproximada": "9.2 Información adicional:",
+      "bbox_pagina": [
+        517.1198120117188,
+        755.465087890625,
+        559.2521362304688,
+        798.5305137634277
+      ],
+      "ancho_px": 85,
+      "alto_px": 86,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p011_img02.png",
+      "pagina": 11,
+      "seccion_aproximada": "Transporte terrestre de mercancías peligrosas:",
+      "bbox_pagina": [
+        72.71489715576172,
+        355.4110107421875,
+        132.39845275878906,
+        415.5257263183594
+      ],
+      "ancho_px": 120,
+      "alto_px": 120,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p011_img03.png",
+      "pagina": 11,
+      "seccion_aproximada": "Transporte terrestre de mercancías peligrosas:",
+      "bbox_pagina": [
+        425.2152099609375,
+        755.1110000610352,
+        559.3622436523438,
+        799.2671127319336
+      ],
+      "ancho_px": 269,
+      "alto_px": 89,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img02.png",
+      "pagina": 12,
+      "seccion_aproximada": "Precauciones especiales para el usuario 14.6",
+      "bbox_pagina": [
+        71.60479736328125,
+        432.615478515625,
+        135.62823486328125,
+        492.5223693847656
+      ],
+      "ancho_px": 128,
+      "alto_px": 120,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img03.png",
+      "pagina": 12,
+      "seccion_aproximada": "Precauciones especiales para el usuario 14.6",
+      "bbox_pagina": [
+        72.52140045166016,
+        641.9467468261719,
+        132.80821228027344,
+        702.7009582519531
+      ],
+      "ancho_px": 121,
+      "alto_px": 121,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p014_img01.png",
+      "pagina": 14,
+      "seccion_aproximada": "Abreviaturas y acrónimos:",
+      "bbox_pagina": [
+        35.644493103027344,
+        757.3474655151367,
+        132.68214416503906,
+        799.5296211242676
+      ],
+      "ancho_px": 194,
+      "alto_px": 84,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p002_img02.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p001_img03.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p002_img02.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p005_img05.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p005_img05.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p005_img05.png"
+    },
+    {
+      "pagina": 11,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 12,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 12,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 12,
+      "duplicada_de": "imagenes/p001_img03.png"
+    },
+    {
+      "pagina": 12,
+      "duplicada_de": "imagenes/p001_img04.png"
+    },
+    {
+      "pagina": 13,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 13,
+      "duplicada_de": "imagenes/p001_img02.png"
+    },
+    {
+      "pagina": 13,
+      "duplicada_de": "imagenes/p001_img03.png"
+    },
+    {
+      "pagina": 13,
+      "duplicada_de": "imagenes/p001_img04.png"
+    },
+    {
+      "pagina": 14,
+      "duplicada_de": "imagenes/p011_img03.png"
+    }
+  ]
+}

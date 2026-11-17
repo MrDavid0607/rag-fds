@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds059-pintura-para-canchas-blanco-pintuland",
+  "archivo_original": "FDS 59 - PINTURA PARA CANCHAS, BLANCO - PINTULAND.pdf",
+  "nombre_mostrado": "FDS 59 - PINTURA PARA CANCHAS, BLANCO - PINTULAND.pdf",
+  "carpeta_origen": "FDS 2022",
+  "anio_carpeta": "2022",
+  "numero_fds": 59,
+  "sha256": "45a426c1d4d8bfdb20e5087f4c9cd82ea3220b0c958f8f7477665f08e0376d88",
+  "tamano_bytes": 415915,
+  "n_paginas": 10,
+  "n_tablas": 15,
+  "n_imagenes_guardadas": 8,
+  "n_imagenes_omitidas_por_tamano": 13,
+  "n_imagenes_duplicadas_no_guardadas": 8,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuland",
+  "producto": "51630001 - PINTURA PARA CANCHAS, BLANCO",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"pintuland\" (8 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: 51630001 - PINTURA PARA CANCHAS, BLANCO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
+}

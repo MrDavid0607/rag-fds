@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds078-esmalte-protekland-blanco-2-en-1-pintuland",
+  "archivo_original": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "nombre_mostrado": "FDS 78 -  ESMALTE PROTEKLAND BLANCO, 2 en 1 - PINTULAND.pdf",
+  "carpeta_origen": "FDS 2023",
+  "anio_carpeta": "2023",
+  "numero_fds": 78,
+  "sha256": "602ec2fb39dd25e8864ab6fdf2df9af5c916442f7c40c25a78e267fac3b301f6",
+  "tamano_bytes": 950083,
+  "n_paginas": 14,
+  "n_tablas": 20,
+  "n_imagenes_guardadas": 20,
+  "n_imagenes_omitidas_por_tamano": 17,
+  "n_imagenes_duplicadas_no_guardadas": 16,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuland",
+  "producto": "51830001 - ESMALTE PROTEKLAND BLANCO, 2 en 1",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"pintuland\" (8 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: 51830001 - ESMALTE PROTEKLAND BLANCO, 2 en 1",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
+}

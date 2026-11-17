@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds058-esmalte-linea-dorada-aluminio-mezcla-pintuland",
+  "archivo_original": "FDS 58 - ESMALTE LINEA DORADA, ALUMINIO MEZCLA - PINTULAND.pdf",
+  "nombre_mostrado": "FDS 58 - ESMALTE LINEA DORADA, ALUMINIO MEZCLA - PINTULAND.pdf",
+  "carpeta_origen": "FDS 2022",
+  "anio_carpeta": "2022",
+  "numero_fds": 58,
+  "sha256": "6efbc428c5a0c553bb7cc43b844562c85226d429190ca0b70f01312a4daa8e89",
+  "tamano_bytes": 577729,
+  "n_paginas": 15,
+  "n_tablas": 21,
+  "n_imagenes_guardadas": 29,
+  "n_imagenes_omitidas_por_tamano": 15,
+  "n_imagenes_duplicadas_no_guardadas": 25,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuland",
+  "producto": "50030003 - ESMALTE LINEA DORADA, ALUMINIO MEZCLA",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"pintuland\" (7 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: 50030003 - ESMALTE LINEA DORADA, ALUMINIO MEZCLA",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": ""
+}

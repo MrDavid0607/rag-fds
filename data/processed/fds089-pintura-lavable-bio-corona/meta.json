@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds089-pintura-lavable-bio-corona",
+  "archivo_original": "FDS 89 - PINTURA LAVABLE BIO - CORONA.pdf",
+  "nombre_mostrado": "FDS 89 - PINTURA LAVABLE BIO - CORONA.pdf",
+  "carpeta_origen": "FDS 2024",
+  "anio_carpeta": "2024",
+  "numero_fds": 89,
+  "sha256": "07fb5e2d257270f17b78619dd79afe00e2101ec36ae7e54b5efd940de8677d12",
+  "tamano_bytes": 480639,
+  "n_paginas": 12,
+  "n_tablas": 15,
+  "n_imagenes_guardadas": 13,
+  "n_imagenes_omitidas_por_tamano": 4,
+  "n_imagenes_duplicadas_no_guardadas": 10,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA LAVABLE BIO",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (7 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA LAVABLE BIO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
+}

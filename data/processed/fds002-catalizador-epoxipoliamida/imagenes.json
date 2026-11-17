@@ -1,0 +1,210 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        94.2542495727539,
+        722.3766250610352,
+        212.478271484375,
+        742.9148483276367
+      ],
+      "ancho_px": 236,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACIÓN DE RIESGOS",
+      "bbox_pagina": [
+        56.2432975769043,
+        311.6141052246094,
+        205.9835205078125,
+        382.20501708984375
+      ],
+      "ancho_px": 300,
+      "alto_px": 141,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACIÓN DE RIESGOS",
+      "bbox_pagina": [
+        59.672691345214844,
+        270.16790771484375,
+        81.01575469970703,
+        292.0094909667969
+      ],
+      "ancho_px": 43,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img08.png",
+      "pagina": 1,
+      "seccion_aproximada": "Medios de extinción de incendio",
+      "bbox_pagina": [
+        57.31726837158203,
+        69.1444091796875,
+        80.7624740600586,
+        89.30950927734375
+      ],
+      "ancho_px": 47,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img09.png",
+      "pagina": 1,
+      "seccion_aproximada": "6. LIBERACIONES ACCIDENTALES",
+      "bbox_pagina": [
+        216.0548553466797,
+        321.9309387207031,
+        275.4613952636719,
+        379.75787353515625
+      ],
+      "ancho_px": 119,
+      "alto_px": 116,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img10.png",
+      "pagina": 1,
+      "seccion_aproximada": "6. LIBERACIONES ACCIDENTALES",
+      "bbox_pagina": [
+        286.9229431152344,
+        313.8573913574219,
+        357.714111328125,
+        380.7674865722656
+      ],
+      "ancho_px": 141,
+      "alto_px": 134,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img11.png",
+      "pagina": 1,
+      "seccion_aproximada": "6. LIBERACIONES ACCIDENTALES",
+      "bbox_pagina": [
+        364.47064208984375,
+        313.24468994140625,
+        439.4997863769531,
+        381.1518859863281
+      ],
+      "ancho_px": 150,
+      "alto_px": 136,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img12.png",
+      "pagina": 1,
+      "seccion_aproximada": "6. LIBERACIONES ACCIDENTALES",
+      "bbox_pagina": [
+        448.1754455566406,
+        714.550178527832,
+        489.1263427734375,
+        754.0453987121582
+      ],
+      "ancho_px": 82,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "6. LIBERACIONES ACCIDENTALES",
+      "bbox_pagina": [
+        64.35069274902344,
+        712.1333847045898,
+        215.2536163330078,
+        755.3780937194824
+      ],
+      "ancho_px": 302,
+      "alto_px": 87,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "HOJA DE SEGURIDAD CATALIZADOR EPOXICO AMIDA",
+      "bbox_pagina": [
+        94.74312591552734,
+        722.4080505371094,
+        212.44493103027344,
+        744.0190200805664
+      ],
+      "ancho_px": 236,
+      "alto_px": 43,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "HOJA DE SEGURIDAD CATALIZADOR EPOXICO AMIDA",
+      "bbox_pagina": [
+        56.56826400756836,
+        675.2052230834961,
+        80.33382415771484,
+        696.7623672485352
+      ],
+      "ancho_px": 48,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img03.png",
+      "pagina": 3,
+      "seccion_aproximada": "12. INFORMACIÓN ECOLÓGICA.",
+      "bbox_pagina": [
+        61.55329895019531,
+        610.7119140625,
+        84.5283432006836,
+        632.4317169189453
+      ],
+      "ancho_px": 46,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img04.png",
+      "pagina": 3,
+      "seccion_aproximada": "13. CONSIDERACIONES SOBRE LA DISPOSICIÓN.",
+      "bbox_pagina": [
+        56.921302795410156,
+        515.6499328613281,
+        77.55191040039062,
+        537.7071685791016
+      ],
+      "ancho_px": 41,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img06.png",
+      "pagina": 3,
+      "seccion_aproximada": "15. INFORMACIÓN SOBRE REGLAMENTACIÓN.",
+      "bbox_pagina": [
+        62.129920959472656,
+        371.23126220703125,
+        83.98538208007812,
+        390.97119140625
+      ],
+      "ancho_px": 44,
+      "alto_px": 40,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img12.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img12.png"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE DATOS DE SEGURIDAD",
+      "bbox_pagina": [
+        502.6052551269531,
+        726.5298385620117,
+        569.970947265625,
+        778.8820638656616
+      ],
+      "ancho_px": 135,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": ":",
+      "bbox_pagina": [
+        197.4022979736328,
+        515.5081176757812,
+        247.69264221191406,
+        567.1984558105469
+      ],
+      "ancho_px": 100,
+      "alto_px": 103,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": ":",
+      "bbox_pagina": [
+        254.68374633789062,
+        515.8772888183594,
+        303.8153381347656,
+        564.7173767089844
+      ],
+      "ancho_px": 99,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": ":",
+      "bbox_pagina": [
+        311.5163269042969,
+        515.9678649902344,
+        360.5339050292969,
+        564.6598205566406
+      ],
+      "ancho_px": 98,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

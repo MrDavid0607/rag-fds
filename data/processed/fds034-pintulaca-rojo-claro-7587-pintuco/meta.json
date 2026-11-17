@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds034-pintulaca-rojo-claro-7587-pintuco",
+  "archivo_original": "FDS 34 - PINTULACA ROJO CLARO 7587 - PINTUCO .pdf",
+  "nombre_mostrado": "FDS 34 - PINTULACA ROJO CLARO 7587 - PINTUCO .pdf",
+  "carpeta_origen": "FDS 2019",
+  "anio_carpeta": "2019",
+  "numero_fds": 34,
+  "sha256": "af127cfdc43b2745ab5082ff3923b339440876a76d8361fa725f5c7f13f7f544",
+  "tamano_bytes": 567587,
+  "n_paginas": 15,
+  "n_tablas": 19,
+  "n_imagenes_guardadas": 18,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 11,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "PINTULACA ROJO CLARO 7587",
+  "codigo_producto": "",
+  "version": "3",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTULACA ROJO CLARO 7587",
+    "version": "texto crudo del PDF, pág. 1: Versión: 3"
+  },
+  "version_en_nombre_archivo": ""
+}

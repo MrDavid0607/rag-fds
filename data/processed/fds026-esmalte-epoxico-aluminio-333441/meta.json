@@ -1,0 +1,33 @@
+{
+  "doc_id": "fds026-esmalte-epoxico-aluminio-333441",
+  "archivo_original": "FDS 26 - Esmalte Ep#U00f3xico Aluminio 333441.pdf",
+  "nombre_mostrado": "FDS 26 - Esmalte Epóxico Aluminio 333441.pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 26,
+  "sha256": "cff27b56685db62ff8e9d95d068f711b73df987fda7210f7464f3c13f14c6c4e",
+  "tamano_bytes": 930959,
+  "n_paginas": 9,
+  "n_tablas": 6,
+  "n_imagenes_guardadas": 6,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Sika",
+  "producto": "Esmalte Epóxico Aluminio",
+  "codigo_producto": "1120",
+  "version": "",
+  "fecha_revision": "07.10.2020",
+  "notas_metadatos": "version: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Sika\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto: Esmalte Epóxico Aluminio",
+    "codigo_producto": "MSDS no. 1120",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión: 07.10.2020"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,31 @@
+{
+  "doc_id": "fds002-catalizador-epoxipoliamida",
+  "archivo_original": "FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf",
+  "nombre_mostrado": "FDS 2-CATALIZADOR-EPOXIPOLIAMIDA.pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 2,
+  "sha256": "39e6b37d2d8b22d88f419887f5615c40fd536758a18951f4d4b2553a6b32b0e1",
+  "tamano_bytes": 277991,
+  "n_paginas": 3,
+  "n_tablas": 1,
+  "n_imagenes_guardadas": 14,
+  "n_imagenes_omitidas_por_tamano": 10,
+  "n_imagenes_duplicadas_no_guardadas": 2,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "",
+  "producto": "CATALIZADOR EPOXICO",
+  "codigo_producto": "108",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "fabricante: no aparece en el contenido; version: no aparece en el texto de la ficha; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "producto": "pág. 1-2 (md): Nombre del Producto: CATALIZADOR EPOXICO",
+    "codigo_producto": "Código del producto: 108"
+  },
+  "version_en_nombre_archivo": ""
+}

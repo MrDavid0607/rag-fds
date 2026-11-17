@@ -1,0 +1,148 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "Esmalte Epóxico Part A",
+      "bbox_pagina": [
+        485.87607233239504,
+        753.5680280355541,
+        561.7249508523622,
+        819.4392714661295
+      ],
+      "ancho_px": 151,
+      "alto_px": 132,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Etiqueta SGA (GHS)",
+      "bbox_pagina": [
+        247.43302386904725,
+        70.21017636336467,
+        298.6700462331068,
+        123.33021784989432
+      ],
+      "ancho_px": 102,
+      "alto_px": 107,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Etiqueta SGA (GHS)",
+      "bbox_pagina": [
+        304.90105756721243,
+        70.22614936367052,
+        356.48282469883867,
+        123.23529433280976
+      ],
+      "ancho_px": 103,
+      "alto_px": 106,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Etiqueta SGA (GHS)",
+      "bbox_pagina": [
+        363.0702404559859,
+        69.96546024417535,
+        414.54812234353705,
+        123.11805738781698
+      ],
+      "ancho_px": 103,
+      "alto_px": 106,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "Esmalte Epóxico Part A",
+      "bbox_pagina": [
+        485.8979894364121,
+        753.819092203052,
+        561.5002319499791,
+        819.4086038389918
+      ],
+      "ancho_px": 151,
+      "alto_px": 131,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img02.png",
+      "pagina": 12,
+      "seccion_aproximada": "HMIS® IV:",
+      "bbox_pagina": [
+        99.50855234082114,
+        520.5433448959839,
+        292.33499724112903,
+        694.7493976894392
+      ],
+      "ancho_px": 386,
+      "alto_px": 348,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img03.png",
+      "pagina": 12,
+      "seccion_aproximada": "Texto completo de otras abreviaturas",
+      "bbox_pagina": [
+        308.10665502970653,
+        593.346558010332,
+        493.9208992997753,
+        694.7089164978245
+      ],
+      "ancho_px": 372,
+      "alto_px": 202,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p004_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 11,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 12,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 13,
+      "duplicada_de": "imagenes/p001_img01.png"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        94.93142700195312,
+        722.2951812744141,
+        212.65814208984375,
+        743.2111587524414
+      ],
+      "ancho_px": 235,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        55.4647102355957,
+        228.24920654296875,
+        210.89280700683594,
+        298.44671630859375
+      ],
+      "ancho_px": 311,
+      "alto_px": 141,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        59.60765838623047,
+        186.31634521484375,
+        81.13819122314453,
+        207.89697265625
+      ],
+      "ancho_px": 43,
+      "alto_px": 43,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        220.67431640625,
+        237.01739501953125,
+        280.7391052246094,
+        294.20794677734375
+      ],
+      "ancho_px": 120,
+      "alto_px": 114,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img08.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        290.943603515625,
+        229.32501220703125,
+        363.533447265625,
+        297.2184143066406
+      ],
+      "ancho_px": 145,
+      "alto_px": 135,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img09.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        366.6421203613281,
+        228.9046630859375,
+        438.7534484863281,
+        298.1536865234375
+      ],
+      "ancho_px": 145,
+      "alto_px": 138,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img10.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE SEGURIDAD PINTURA ACRÍLICA PARA TRÁFICO",
+      "bbox_pagina": [
+        448.10321044921875,
+        714.271598815918,
+        489.26898193359375,
+        753.9169425964355
+      ],
+      "ancho_px": 83,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "HOJA DE SEGURIDAD PINTURA ACRÍLICA PARA TRÁFICO",
+      "bbox_pagina": [
+        95.6273422241211,
+        722.0941619873047,
+        212.79718017578125,
+        745.9219665527344
+      ],
+      "ancho_px": 235,
+      "alto_px": 48,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        57.72612380981445,
+        559.1927795410156,
+        80.99183654785156,
+        579.6117858886719
+      ],
+      "ancho_px": 47,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "9. PROPIEDADES FÍSICAS Y QUÍMICAS.",
+      "bbox_pagina": [
+        60.112449645996094,
+        711.5224533081055,
+        213.39344787597656,
+        753.7223510742188
+      ],
+      "ancho_px": 307,
+      "alto_px": 84,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img03.png",
+      "pagina": 3,
+      "seccion_aproximada": "10. ESTABILIDAD Y REACTIVIDAD",
+      "bbox_pagina": [
+        56.697811126708984,
+        498.4300842285156,
+        80.1815185546875,
+        519.1805725097656
+      ],
+      "ancho_px": 47,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img04.png",
+      "pagina": 3,
+      "seccion_aproximada": "11. INFORMACIÓN TOXICOLÓGICA.",
+      "bbox_pagina": [
+        56.59895706176758,
+        422.8934326171875,
+        80.04598236083984,
+        445.27899169921875
+      ],
+      "ancho_px": 47,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img05.png",
+      "pagina": 3,
+      "seccion_aproximada": "12. INFORMACIÓN ECOLÓGICA.",
+      "bbox_pagina": [
+        61.72157287597656,
+        358.5108337402344,
+        84.97531127929688,
+        380.743408203125
+      ],
+      "ancho_px": 47,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img06.png",
+      "pagina": 3,
+      "seccion_aproximada": "13. CONSIDERACIONES SOBRE LA DISPOSICIÓN.",
+      "bbox_pagina": [
+        56.94743347167969,
+        274.5223388671875,
+        77.04341125488281,
+        296.67041015625
+      ],
+      "ancho_px": 40,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img08.png",
+      "pagina": 3,
+      "seccion_aproximada": "15. INFORMACIÓN SOBRE REGLAMENTACIÓN.",
+      "bbox_pagina": [
+        62.393218994140625,
+        78.04620361328125,
+        83.85550689697266,
+        98.20550537109375
+      ],
+      "ancho_px": 43,
+      "alto_px": 40,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img09.png",
+      "pagina": 3,
+      "seccion_aproximada": "16. OTRA INFORMACIÓN.",
+      "bbox_pagina": [
+        447.9823303222656,
+        714.2051162719727,
+        489.3562927246094,
+        753.8012313842773
+      ],
+      "ancho_px": 83,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "16. OTRA INFORMACIÓN.",
+      "bbox_pagina": [
+        95.36861419677734,
+        722.3798217773438,
+        212.62655639648438,
+        742.9261322021484
+      ],
+      "ancho_px": 234,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "HOJA DE SEGURIDAD PINTURA ACRÍLICA PARA TRÁFICO",
+      "bbox_pagina": [
+        448.2790222167969,
+        714.2577972412109,
+        489.371826171875,
+        753.958625793457
+      ],
+      "ancho_px": 82,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img10.png"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Componentes:",
+      "bbox_pagina": [
+        433.40960693359375,
+        553.79052734375,
+        541.4481201171875,
+        690.9549102783203
+      ],
+      "ancho_px": 216,
+      "alto_px": 274,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Componentes:",
+      "bbox_pagina": [
+        481.56524658203125,
+        298.69659423828125,
+        553.2737426757812,
+        408.1181335449219
+      ],
+      "ancho_px": 144,
+      "alto_px": 219,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        95.62999725341797,
+        328.2239990234375,
+        143.77354431152344,
+        367.3895263671875
+      ],
+      "ancho_px": 97,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        87.62187957763672,
+        214.196533203125,
+        148.78497314453125,
+        277.82427978515625
+      ],
+      "ancho_px": 123,
+      "alto_px": 128,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "SECCIÓN 8: CONTROLES DE EXPOSICIÓN/PROTECCIÓN PERSONAL (continúa)",
+      "bbox_pagina": [
+        120.61639404296875,
+        666.7920989990234,
+        148.2359161376953,
+        694.6205291748047
+      ],
+      "ancho_px": 55,
+      "alto_px": 55,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p011_img02.png",
+      "pagina": 11,
+      "seccion_aproximada": "Abreviaturas y acrónimos:",
+      "bbox_pagina": [
+        22.0239200592041,
+        298.74896240234375,
+        554.0177612304688,
+        408.1253356933594
+      ],
+      "ancho_px": 1064,
+      "alto_px": 219,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

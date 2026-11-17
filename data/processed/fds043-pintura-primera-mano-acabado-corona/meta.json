@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds043-pintura-primera-mano-acabado-corona",
+  "archivo_original": "FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf",
+  "nombre_mostrado": "FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 43,
+  "sha256": "6c2d39fa9bc945fdbbc1b8f363ffa70b8d506a1e86fc3bae07be777143f96c64",
+  "tamano_bytes": 367460,
+  "n_paginas": 9,
+  "n_tablas": 12,
+  "n_imagenes_guardadas": 12,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 6,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA PRIMERA MANO & ACABADO",
+  "codigo_producto": "",
+  "version": "3",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA PRIMERA MANO & ACABADO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 3"
+  },
+  "version_en_nombre_archivo": ""
+}

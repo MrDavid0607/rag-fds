@@ -1,0 +1,184 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        35.18730114674408,
+        766.0158805401364,
+        133.01805700519742,
+        790.7339990836027
+      ],
+      "ancho_px": 196,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "NFPA:",
+      "bbox_pagina": [
+        82.96737328958193,
+        347.42479663839816,
+        121.42700656865269,
+        383.94082076482704
+      ],
+      "ancho_px": 77,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Atención",
+      "bbox_pagina": [
+        83.57389667690201,
+        286.2900805838035,
+        113.2093551697187,
+        314.4685763296096
+      ],
+      "ancho_px": 59,
+      "alto_px": 57,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Sustancias que contribuyen a la clasificación",
+      "bbox_pagina": [
+        35.37441154992021,
+        765.984367862801,
+        132.95439617387402,
+        790.6212604212817
+      ],
+      "ancho_px": 195,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        86.32430831909181,
+        279.9872400569236,
+        147.9611566244036,
+        350.8723994616148
+      ],
+      "ancho_px": 123,
+      "alto_px": 141,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        86.03669886646655,
+        201.04679359852844,
+        147.3468356999135,
+        263.25178145528685
+      ],
+      "ancho_px": 123,
+      "alto_px": 124,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img04.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        85.89224243983327,
+        98.82619660221201,
+        148.59270377959183,
+        163.15372953510064
+      ],
+      "ancho_px": 125,
+      "alto_px": 129,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        88.68543763640744,
+        595.9933177783087,
+        147.2056110970926,
+        647.3596682195596
+      ],
+      "ancho_px": 117,
+      "alto_px": 102,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img03.png",
+      "pagina": 5,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        350.03453818506847,
+        534.7360897080518,
+        378.9482633449888,
+        566.0357437851424
+      ],
+      "ancho_px": 58,
+      "alto_px": 63,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img01.png",
+      "pagina": 10,
+      "seccion_aproximada": "Abreviaturas y acrónimos:",
+      "bbox_pagina": [
+        35.376652484356164,
+        765.8859937038104,
+        133.06903445250236,
+        790.8704523321228
+      ],
+      "ancho_px": 195,
+      "alto_px": 50,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img02.png",
+      "pagina": 10,
+      "seccion_aproximada": "PINTURA LAVABLE ANTIBACTERIAL",
+      "bbox_pagina": [
+        0.0,
+        345.0755311189411,
+        595.2290167850776,
+        496.8127332064884
+      ],
+      "ancho_px": 1190,
+      "alto_px": 303,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p002_img01.png"
+    }
+  ]
+}

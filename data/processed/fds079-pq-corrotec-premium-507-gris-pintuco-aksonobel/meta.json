@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds079-pq-corrotec-premium-507-gris-pintuco-aksonobel",
+  "archivo_original": "FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL.pdf",
+  "nombre_mostrado": "FDS 79 - PQ CORROTEC PREMIUM 507 GRIS - PINTUCO - AKSONOBEL.pdf",
+  "carpeta_origen": "FDS 2024",
+  "anio_carpeta": "2024",
+  "numero_fds": 79,
+  "sha256": "40f6f4e1046b27372ab1e6b7f10dfe133675faf5580247c4691dd2b80a0487a4",
+  "tamano_bytes": 211604,
+  "n_paginas": 17,
+  "n_tablas": 20,
+  "n_imagenes_guardadas": 6,
+  "n_imagenes_omitidas_por_tamano": 17,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "AkzoNobel",
+  "producto": "PQ CORROTEC PREMIUM 507 GRIS",
+  "codigo_producto": "507",
+  "version": "1",
+  "fecha_revision": "2-5-2024",
+  "notas_metadatos": "fabricantes mencionados: AkzoNobel x19, Pintuco x2",
+  "evidencia_metadatos": {
+    "fabricante": "\"Global de Pinturas\" (19 menciones)",
+    "producto": "pág. 1-2 (md): título de la página 1: PQ CORROTEC PREMIUM 507 GRIS",
+    "codigo_producto": "SDS code : 507",
+    "version": "texto crudo del PDF, pág. 1: Versión : 1",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión : 2-5-2024"
+  },
+  "version_en_nombre_archivo": ""
+}

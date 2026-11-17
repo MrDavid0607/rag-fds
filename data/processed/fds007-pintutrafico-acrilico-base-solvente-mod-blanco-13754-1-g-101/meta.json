@@ -1,0 +1,31 @@
+{
+  "doc_id": "fds007-pintutrafico-acrilico-base-solvente-mod-blanco-13754-1-g-101",
+  "archivo_original": "FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf",
+  "nombre_mostrado": "FDS 7 - PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G _ 10115022 _COL (1).pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 7,
+  "sha256": "092b9361cf7cf9aa3dbb1df1bb76a2f978bc5712933e70afdd43843f89c1e529",
+  "tamano_bytes": 303547,
+  "n_paginas": 11,
+  "n_tablas": 15,
+  "n_imagenes_guardadas": 16,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 10,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G",
+  "codigo_producto": "",
+  "version": "",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; version: no aparece en el texto de la ficha; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTUTRAFICO ACRILICO BASE SOLVENTE MOD. BLANCO 13754 - 1 G"
+  },
+  "version_en_nombre_archivo": ""
+}

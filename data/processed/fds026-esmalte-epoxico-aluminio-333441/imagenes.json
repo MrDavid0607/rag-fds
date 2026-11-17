@@ -1,0 +1,89 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "FICHA DE DATOS DE SEGURIDAD (MSDS)",
+      "bbox_pagina": [
+        460.0674133300781,
+        718.2991561889648,
+        569.0718383789062,
+        756.8718490600586
+      ],
+      "ancho_px": 218,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.2 Elementos de etiquetado GHS",
+      "bbox_pagina": [
+        56.08518981933594,
+        115.69207763671875,
+        106.26435089111328,
+        166.93817138671875
+      ],
+      "ancho_px": 101,
+      "alto_px": 103,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.2 Elementos de etiquetado GHS",
+      "bbox_pagina": [
+        113.03572082519531,
+        115.711181640625,
+        163.4062957763672,
+        167.31103515625
+      ],
+      "ancho_px": 101,
+      "alto_px": 104,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img01.png",
+      "pagina": 8,
+      "seccion_aproximada": "13.1 Métodos para el tratamiento de residuos Producto",
+      "bbox_pagina": [
+        310.3333740234375,
+        170.934326171875,
+        343.1820068359375,
+        211.17608642578125
+      ],
+      "ancho_px": 65,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img02.png",
+      "pagina": 8,
+      "seccion_aproximada": "13.1 Métodos para el tratamiento de residuos Producto",
+      "bbox_pagina": [
+        451.1520690917969,
+        170.7542724609375,
+        484.454345703125,
+        203.02764892578125
+      ],
+      "ancho_px": 67,
+      "alto_px": 64,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img03.png",
+      "pagina": 8,
+      "seccion_aproximada": "13.1 Métodos para el tratamiento de residuos Producto",
+      "bbox_pagina": [
+        169.52816772460938,
+        171.03399658203125,
+        203.2224578857422,
+        202.6546630859375
+      ],
+      "ancho_px": 67,
+      "alto_px": 63,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

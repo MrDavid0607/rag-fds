@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds008-pintutrafico-alquidico-amarillo-659-10012970-10015685-col-ve",
+  "archivo_original": "FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versi#U00f3n 2).pdf",
+  "nombre_mostrado": "FDS 8 - PINTUTRAFICO ALQUIDICO AMARILLO 659 _ 10012970-10015685 _COL (Versión 2).pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 8,
+  "sha256": "f7a2f9834be19f2e1537ccb481739405f64ea9df70611e7c75b354dd0625c297",
+  "tamano_bytes": 312876,
+  "n_paginas": 11,
+  "n_tablas": 15,
+  "n_imagenes_guardadas": 17,
+  "n_imagenes_omitidas_por_tamano": 2,
+  "n_imagenes_duplicadas_no_guardadas": 8,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "PINTUTRAFICO ALQUIDICO AMARILLO 659 10012970-10015685",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTUTRAFICO ALQUIDICO AMARILLO 659 10012970-10015685",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": "2"
+}

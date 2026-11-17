@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds037-esmalte-pintulux-aluminio-pintuco",
+  "archivo_original": "FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf",
+  "nombre_mostrado": "FDS 37 - ESMALTE PINTULUX ALUMINIO - PINTUCO .pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 37,
+  "sha256": "04f3548a48f0583bae1bc6fb8435a74b0cd5c41c3786fa5093e5d90a55edc677",
+  "tamano_bytes": 326301,
+  "n_paginas": 11,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 18,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 8,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "ESMALTE PINTULUX ALUMINIO",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: ESMALTE PINTULUX ALUMINIO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": ""
+}

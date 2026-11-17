@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds048-pitt-char-xp-base-white-ppg",
+  "archivo_original": "FDS 48 - PITT-CHAR XP BASE WHITE - PPG.pdf",
+  "nombre_mostrado": "FDS 48 - PITT-CHAR XP BASE WHITE - PPG.pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 48,
+  "sha256": "f9f10166ceb12ebaa3ddcd94b9f80d234b3b91be042f2f61a7004bad4665ebf2",
+  "tamano_bytes": 156650,
+  "n_paginas": 15,
+  "n_tablas": 24,
+  "n_imagenes_guardadas": 4,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "PPG",
+  "producto": "PITT-CHAR XP BASE WHITE",
+  "codigo_producto": "00393292",
+  "version": "5",
+  "fecha_revision": "28 Julio 2021",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"PPG\" (7 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto : PITT-CHAR XP BASE WHITE",
+    "codigo_producto": "Código del producto : 00393292",
+    "version": "texto crudo del PDF, pág. 1: Versión 5",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión 28 Julio 2021"
+  },
+  "version_en_nombre_archivo": ""
+}

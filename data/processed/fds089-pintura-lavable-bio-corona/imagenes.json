@@ -1,0 +1,228 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        35.22102568555999,
+        766.0721564467333,
+        132.93941087761183,
+        790.77014485665
+      ],
+      "ancho_px": 196,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "NFPA:",
+      "bbox_pagina": [
+        83.47773467403131,
+        322.06304004950084,
+        121.10416718758194,
+        359.84179820588537
+      ],
+      "ancho_px": 75,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Atención",
+      "bbox_pagina": [
+        83.80404979014557,
+        265.2547430898345,
+        112.58645924100941,
+        294.17441212561243
+      ],
+      "ancho_px": 57,
+      "alto_px": 58,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Atención",
+      "bbox_pagina": [
+        119.37979862801981,
+        265.9527809240926,
+        147.16068569720994,
+        293.5843654605385
+      ],
+      "ancho_px": 55,
+      "alto_px": 55,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Sustancias que contribuyen a la clasificación",
+      "bbox_pagina": [
+        35.36420157822987,
+        766.1342818749941,
+        132.91405935402685,
+        790.7243630071716
+      ],
+      "ancho_px": 195,
+      "alto_px": 49,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "8.2 Controles técnicos apropiados:",
+      "bbox_pagina": [
+        86.18735216281559,
+        132.738413312101,
+        148.22049524089635,
+        202.9033265290974
+      ],
+      "ancho_px": 124,
+      "alto_px": 140,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "E.- Protección corporal",
+      "bbox_pagina": [
+        92.26629842054125,
+        442.33420844506196,
+        135.3575010896209,
+        477.83108879179963
+      ],
+      "ancho_px": 86,
+      "alto_px": 71,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img03.png",
+      "pagina": 5,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        120.40338735388431,
+        368.3548885013825,
+        147.69184813633862,
+        396.32728584633867
+      ],
+      "ancho_px": 54,
+      "alto_px": 56,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img04.png",
+      "pagina": 5,
+      "seccion_aproximada": "Volatilidad:",
+      "bbox_pagina": [
+        351.2944311605364,
+        367.95837177340036,
+        377.8768832622759,
+        395.9252475359774
+      ],
+      "ancho_px": 53,
+      "alto_px": 55,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p009_img02.png",
+      "pagina": 9,
+      "seccion_aproximada": "Transporte terrestre de mercancías peligrosas:",
+      "bbox_pagina": [
+        72.54264538246514,
+        368.5029035163209,
+        139.86031583850018,
+        402.01634605570814
+      ],
+      "ancho_px": 135,
+      "alto_px": 67,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img02.png",
+      "pagina": 10,
+      "seccion_aproximada": "14.6 Precauciones especiales para el usuario",
+      "bbox_pagina": [
+        72.16602357493151,
+        433.90818221647214,
+        139.8536540130001,
+        467.52211145396467
+      ],
+      "ancho_px": 136,
+      "alto_px": 68,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img03.png",
+      "pagina": 10,
+      "seccion_aproximada": "14.6 Precauciones especiales para el usuario",
+      "bbox_pagina": [
+        72.03518044388535,
+        676.5945402936414,
+        140.13951797587762,
+        710.6295435730125
+      ],
+      "ancho_px": 136,
+      "alto_px": 68,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p012_img02.png",
+      "pagina": 12,
+      "seccion_aproximada": "SECCIÓN 16: OTRAS INFORMACIONES (continúa)",
+      "bbox_pagina": [
+        28.456799390652037,
+        382.32925085362234,
+        559.1920470535996,
+        464.3445780716486
+      ],
+      "ancho_px": 1061,
+      "alto_px": 164,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 8,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 10,
+      "duplicada_de": "imagenes/p002_img01.png"
+    },
+    {
+      "pagina": 11,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 12,
+      "duplicada_de": "imagenes/p001_img01.png"
+    }
+  ]
+}

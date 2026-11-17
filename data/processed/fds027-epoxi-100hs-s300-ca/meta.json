@@ -1,0 +1,33 @@
+{
+  "doc_id": "fds027-epoxi-100hs-s300-ca",
+  "archivo_original": "FDS 27 - Epoxi_100HS_S300_CA.pdf",
+  "nombre_mostrado": "FDS 27 - Epoxi_100HS_S300_CA.pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 27,
+  "sha256": "01e894164b8550f5e2c23aa7eea161dd51becaf11612d10657523d7f2872a7fd",
+  "tamano_bytes": 806188,
+  "n_paginas": 8,
+  "n_tablas": 6,
+  "n_imagenes_guardadas": 6,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Sika",
+  "producto": "Sika® Epoxi 100HS Serie 300 Comp. A",
+  "codigo_producto": "1250",
+  "version": "",
+  "fecha_revision": "07.04.2020",
+  "notas_metadatos": "version: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Sika\" (20 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto: Sika® Epoxi 100HS Serie 300 Comp. A",
+    "codigo_producto": "MSDS no. 1250",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión: 07.04.2020"
+  },
+  "version_en_nombre_archivo": ""
+}

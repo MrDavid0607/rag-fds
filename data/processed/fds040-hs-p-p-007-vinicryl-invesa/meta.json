@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds040-hs-p-p-007-vinicryl-invesa",
+  "archivo_original": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "nombre_mostrado": "FDS 40 - HS-P-P-007 - Vinicryl - INVESA.pdf",
+  "carpeta_origen": "FDS 2020",
+  "anio_carpeta": "2020",
+  "numero_fds": 40,
+  "sha256": "3aa52b9c442d7a0c8f2f5546511c2c690feaba90fb2a9d8f806465d03c65af92",
+  "tamano_bytes": 231355,
+  "n_paginas": 9,
+  "n_tablas": 12,
+  "n_imagenes_guardadas": 6,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 7,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "INVESA",
+  "producto": "HS-P-P-007 - Vinicryl",
+  "codigo_producto": "",
+  "version": "1",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Invesa\" (8 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: HS-P-P-007 - Vinicryl",
+    "version": "texto crudo del PDF, pág. 1: Versión: 1"
+  },
+  "version_en_nombre_archivo": ""
+}

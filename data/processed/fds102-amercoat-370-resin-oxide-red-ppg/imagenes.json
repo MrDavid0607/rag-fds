@@ -1,0 +1,61 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE DATOS DE SEGURIDAD",
+      "bbox_pagina": [
+        502.64666748046875,
+        726.5155792236328,
+        569.9891357421875,
+        778.8744287490845
+      ],
+      "ancho_px": 135,
+      "alto_px": 105,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "Pictogramas de peligro :",
+      "bbox_pagina": [
+        198.32054138183594,
+        480.5464782714844,
+        247.35133361816406,
+        529.8114013671875
+      ],
+      "ancho_px": 98,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "Pictogramas de peligro :",
+      "bbox_pagina": [
+        254.69009399414062,
+        480.6083068847656,
+        304.02606201171875,
+        529.9120483398438
+      ],
+      "ancho_px": 99,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "Pictogramas de peligro :",
+      "bbox_pagina": [
+        311.42388916015625,
+        480.75872802734375,
+        360.3106689453125,
+        529.6182556152344
+      ],
+      "ancho_px": 98,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

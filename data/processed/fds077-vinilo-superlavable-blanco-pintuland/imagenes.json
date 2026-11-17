@@ -1,0 +1,75 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Componentes:",
+      "bbox_pagina": [
+        481.6019287109375,
+        298.760498046875,
+        553.3203125,
+        408.2262268066406
+      ],
+      "ancho_px": 144,
+      "alto_px": 218,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        87.42205810546875,
+        193.39154052734375,
+        148.31570434570312,
+        257.29302978515625
+      ],
+      "ancho_px": 122,
+      "alto_px": 128,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "F.- Medidas complementarias de emergencia",
+      "bbox_pagina": [
+        120.6458969116211,
+        590.3264617919922,
+        148.39898681640625,
+        617.6601257324219
+      ],
+      "ancho_px": 56,
+      "alto_px": 54,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img03.png",
+      "pagina": 5,
+      "seccion_aproximada": "Caracterización del producto:",
+      "bbox_pagina": [
+        351.30902099609375,
+        590.2788238525391,
+        378.84576416015625,
+        617.9082336425781
+      ],
+      "ancho_px": 55,
+      "alto_px": 55,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p011_img02.png",
+      "pagina": 11,
+      "seccion_aproximada": "Abreviaturas y acrónimos:",
+      "bbox_pagina": [
+        22.285808563232422,
+        298.82421875,
+        553.58935546875,
+        408.14556884765625
+      ],
+      "ancho_px": 1062,
+      "alto_px": 218,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

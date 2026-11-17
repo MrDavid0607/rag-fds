@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds051-hs-p-p-022-pintura-acrilica-base-solvente-sapolin-invesa",
+  "archivo_original": "FDS 51 - HS-P-P-022 - Pintura Acr#U00edlica Base Solvente Sapolin - INVESA.pdf",
+  "nombre_mostrado": "FDS 51 - HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin - INVESA.pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 51,
+  "sha256": "1e1a271e6b4554d87646160d2513834495111ad191f9e0c56fdab7a22a163b5a",
+  "tamano_bytes": 321450,
+  "n_paginas": 12,
+  "n_tablas": 16,
+  "n_imagenes_guardadas": 19,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 25,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "INVESA",
+  "producto": "HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin",
+  "codigo_producto": "",
+  "version": "2",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Sapolin\" (37 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: HS-P-P-022 - Pintura Acrílica Base Solvente Sapolin",
+    "version": "texto crudo del PDF, pág. 1: Versión: 2"
+  },
+  "version_en_nombre_archivo": ""
+}

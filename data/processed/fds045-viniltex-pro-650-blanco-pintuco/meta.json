@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds045-viniltex-pro-650-blanco-pintuco",
+  "archivo_original": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+  "nombre_mostrado": "FDS 45 - VINILTEX PRO 650 BLANCO - PINTUCO .pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 45,
+  "sha256": "75b87df3835058ba7ffdcb32a25ff1cfd697e00312ce6f36a9aa51fb85f7446c",
+  "tamano_bytes": 313701,
+  "n_paginas": 10,
+  "n_tablas": 16,
+  "n_imagenes_guardadas": 13,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 7,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "VINILTEX PRO 650 BLANCO",
+  "codigo_producto": "",
+  "version": "4",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: VINILTEX PRO 650 BLANCO",
+    "version": "texto crudo del PDF, pág. 1: Versión: 4"
+  },
+  "version_en_nombre_archivo": ""
+}

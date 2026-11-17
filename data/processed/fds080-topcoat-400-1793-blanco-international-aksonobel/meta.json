@@ -17,10 +17,17 @@
     "docling_core": "2.107.1",
     "ocr": "rapidocr 3.10.0"
   },
-  "fabricante": "",
-  "producto": "",
-  "codigo_producto": "",
-  "version": "",
+  "fabricante": "AkzoNobel",
+  "producto": "TOPCOAT 400 1793 BLANCO",
+  "codigo_producto": "11",
+  "version": "1",
   "fecha_revision": "",
-  "notas_metadatos": "pendiente: lo llena metadatos.py"
+  "notas_metadatos": "fabricantes mencionados: AkzoNobel x19, Pintuco x2; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Global de Pinturas\" (19 menciones)",
+    "producto": "pág. 1-2 (md): título de la página 1: TOPCOAT 400 1793 BLANCO",
+    "codigo_producto": "SDS code : 11",
+    "version": "texto crudo del PDF, pág. 1: Versión : 1"
+  },
+  "version_en_nombre_archivo": ""
 }

@@ -1,0 +1,174 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        50.05442622856806,
+        753.0962548197476,
+        121.08334326622472,
+        802.5036027436245
+      ],
+      "ancho_px": 142,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "SGA:",
+      "bbox_pagina": [
+        74.47607635600455,
+        337.021586328357,
+        103.08129954190863,
+        364.714152318814
+      ],
+      "ancho_px": 57,
+      "alto_px": 55,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "SGA:",
+      "bbox_pagina": [
+        109.37667890612713,
+        336.9601472846459,
+        138.33096193044778,
+        365.111431696296
+      ],
+      "ancho_px": 58,
+      "alto_px": 56,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img02.png",
+      "pagina": 4,
+      "seccion_aproximada": "B.- Protección respiratoria.",
+      "bbox_pagina": [
+        100.01614332263102,
+        359.94243743389063,
+        136.1251659562284,
+        395.05353915760463
+      ],
+      "ancho_px": 72,
+      "alto_px": 70,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img03.png",
+      "pagina": 4,
+      "seccion_aproximada": "C.- Protección específica de las manos.",
+      "bbox_pagina": [
+        85.7080132380748,
+        252.03174302488492,
+        147.6461605138587,
+        323.0058578672432
+      ],
+      "ancho_px": 124,
+      "alto_px": 142,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img04.png",
+      "pagina": 4,
+      "seccion_aproximada": "D.- Protección ocular y facial",
+      "bbox_pagina": [
+        89.17396896567122,
+        152.44375109022417,
+        147.39709665797702,
+        214.3771137011023
+      ],
+      "ancho_px": 117,
+      "alto_px": 123,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p005_img02.png",
+      "pagina": 5,
+      "seccion_aproximada": "Inflamabilidad:",
+      "bbox_pagina": [
+        350.5021160151335,
+        591.0093270315863,
+        379.5295647865654,
+        629.252676010313
+      ],
+      "ancho_px": 58,
+      "alto_px": 76,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p008_img01.png",
+      "pagina": 8,
+      "seccion_aproximada": "12.1 Toxicidad:",
+      "bbox_pagina": [
+        50.17181613077254,
+        753.1843560899748,
+        121.13752967066414,
+        802.4141553970301
+      ],
+      "ancho_px": 142,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img01.png",
+      "pagina": 10,
+      "seccion_aproximada": "Abreviaturas y acrónimos:",
+      "bbox_pagina": [
+        50.358011866831944,
+        753.01144819536,
+        121.16080794878455,
+        802.5479469987955
+      ],
+      "ancho_px": 141,
+      "alto_px": 99,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p010_img02.png",
+      "pagina": 10,
+      "seccion_aproximada": "Abreviaturas y acrónimos:",
+      "bbox_pagina": [
+        71.27917758301601,
+        252.82837618648864,
+        548.3038496962171,
+        297.09895941582545
+      ],
+      "ancho_px": 954,
+      "alto_px": 89,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 3,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 5,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 6,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 7,
+      "duplicada_de": "imagenes/p001_img01.png"
+    },
+    {
+      "pagina": 9,
+      "duplicada_de": "imagenes/p001_img01.png"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds098-epoxy-zinc-plus-primer-10073-plus-gris-parte-a-international",
+  "archivo_original": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "nombre_mostrado": "FDS 98 - EPOXY ZINC PLUS PRIMER 10073 PLUS GRIS PARTE A - INTERNATIONAL AKSONOBEL -.pdf",
+  "carpeta_origen": "FDS 2025",
+  "anio_carpeta": "2025",
+  "numero_fds": 98,
+  "sha256": "eaf61f86be958529eee2f4c759ca70aaa1826e6dee7eb05e1b788b5b0baabba9",
+  "tamano_bytes": 199767,
+  "n_paginas": 16,
+  "n_tablas": 22,
+  "n_imagenes_guardadas": 8,
+  "n_imagenes_omitidas_por_tamano": 36,
+  "n_imagenes_duplicadas_no_guardadas": 0,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "AkzoNobel",
+  "producto": "International. X",
+  "codigo_producto": "UEA603",
+  "version": "2",
+  "fecha_revision": "5-9-2025",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"Global de Pinturas\" (19 menciones)",
+    "producto": "pág. 1-2 (md): título de la página 1: International. X",
+    "codigo_producto": "SDS code : UEA603",
+    "version": "texto crudo del PDF, pág. 1: Versión : 2",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión : 5-9-2025"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds061-pintura-senalizacion-y-demarcacion-corona",
+  "archivo_original": "FDS 61 - PINTURA SE#U00d1ALIZACI#U00d3N Y DEMARCACI#U00d3N - CORONA.pdf",
+  "nombre_mostrado": "FDS 61 - PINTURA SEÑALIZACIÓN Y DEMARCACIÓN - CORONA.pdf",
+  "carpeta_origen": "FDS 2022",
+  "anio_carpeta": "2022",
+  "numero_fds": 61,
+  "sha256": "fe2750e17d1a18366396913ee538dbeb59e96147c8373c90b1a7e00af0fef323",
+  "tamano_bytes": 403818,
+  "n_paginas": 10,
+  "n_tablas": 15,
+  "n_imagenes_guardadas": 11,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 8,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA SEÑALIZACIÓN Y DEMARCACIÓN",
+  "codigo_producto": "",
+  "version": "3",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA SEÑALIZACIÓN Y DEMARCACIÓN",
+    "version": "texto crudo del PDF, pág. 1: Versión: 3"
+  },
+  "version_en_nombre_archivo": ""
+}

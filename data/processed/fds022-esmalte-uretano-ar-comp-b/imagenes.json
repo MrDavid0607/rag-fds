@@ -1,0 +1,75 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "FICHA DE DATOS DE SEGURIDAD (MSDS)",
+      "bbox_pagina": [
+        460.1159973144531,
+        718.3430709838867,
+        569.0855712890625,
+        756.8670349121094
+      ],
+      "ancho_px": 218,
+      "alto_px": 77,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "2.2 Elementos de la etiqueta",
+      "bbox_pagina": [
+        204.74864196777344,
+        127.81353759765625,
+        255.9573211669922,
+        179.1209716796875
+      ],
+      "ancho_px": 103,
+      "alto_px": 102,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img01.png",
+      "pagina": 7,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        173.534423828125,
+        185.54840087890625,
+        224.54750061035156,
+        235.6488037109375
+      ],
+      "ancho_px": 102,
+      "alto_px": 100,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img02.png",
+      "pagina": 7,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        313.95001220703125,
+        185.4569091796875,
+        365.5125427246094,
+        235.8216552734375
+      ],
+      "ancho_px": 103,
+      "alto_px": 101,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p007_img03.png",
+      "pagina": 7,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        455.3492126464844,
+        185.3487548828125,
+        506.40716552734375,
+        236.272216796875
+      ],
+      "ancho_px": 102,
+      "alto_px": 102,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}

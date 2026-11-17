@@ -17,10 +17,18 @@
     "docling_core": "2.107.1",
     "ocr": "rapidocr 3.10.0"
   },
-  "fabricante": "",
-  "producto": "",
-  "codigo_producto": "",
-  "version": "",
-  "fecha_revision": "",
-  "notas_metadatos": "pendiente: lo llena metadatos.py"
+  "fabricante": "Sika",
+  "producto": "Sikafloor®-2430 Part A",
+  "codigo_producto": "100000030164",
+  "version": "3.0",
+  "fecha_revision": "2023/08/15",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"Sika\" (4 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto : Sikafloor®-2430 Part A",
+    "codigo_producto": "Número de HDS: 100000030164",
+    "version": "texto crudo del PDF, pág. 1: Versión 3.0",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión: 2023/08/15"
+  },
+  "version_en_nombre_archivo": ""
 }

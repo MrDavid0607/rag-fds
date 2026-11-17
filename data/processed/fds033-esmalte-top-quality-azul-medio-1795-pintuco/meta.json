@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds033-esmalte-top-quality-azul-medio-1795-pintuco",
+  "archivo_original": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "nombre_mostrado": "FDS 33 - ESMALTE TOP QUALITY AZUL MEDIO 1795 - PINTUCO .pdf",
+  "carpeta_origen": "FDS 2019",
+  "anio_carpeta": "2019",
+  "numero_fds": 33,
+  "sha256": "36c6c442542b7cae3899e947e1156f180952841b970614ea06865a2b78fc7077",
+  "tamano_bytes": 402219,
+  "n_paginas": 11,
+  "n_tablas": 11,
+  "n_imagenes_guardadas": 19,
+  "n_imagenes_omitidas_por_tamano": 4,
+  "n_imagenes_duplicadas_no_guardadas": 8,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "ESMALTE TOP QUALITY AZUL MEDIO 1795",
+  "codigo_producto": "",
+  "version": "3",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: ESMALTE TOP QUALITY AZUL MEDIO 1795",
+    "version": "texto crudo del PDF, pág. 1: Versión: 3"
+  },
+  "version_en_nombre_archivo": ""
+}

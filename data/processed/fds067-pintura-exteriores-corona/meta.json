@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds067-pintura-exteriores-corona",
+  "archivo_original": "FDS 67 - PINTURA EXTERIORES  - CORONA.pdf",
+  "nombre_mostrado": "FDS 67 - PINTURA EXTERIORES  - CORONA.pdf",
+  "carpeta_origen": "FDS 2023",
+  "anio_carpeta": "2023",
+  "numero_fds": 67,
+  "sha256": "e7ce4146e91fc1afe10824c37b2707e0b48f4a7281edba761e9b8ff0f6f5bca0",
+  "tamano_bytes": 435531,
+  "n_paginas": 12,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 16,
+  "n_imagenes_omitidas_por_tamano": 2,
+  "n_imagenes_duplicadas_no_guardadas": 9,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA EXTERIORES",
+  "codigo_producto": "",
+  "version": "10",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (7 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA EXTERIORES",
+    "version": "texto crudo del PDF, pág. 1: Versión: 10"
+  },
+  "version_en_nombre_archivo": ""
+}

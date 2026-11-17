@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds094-esmalte-metal-master-premium-corona",
+  "archivo_original": "FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf",
+  "nombre_mostrado": "FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf",
+  "carpeta_origen": "FDS 2025",
+  "anio_carpeta": "2025",
+  "numero_fds": 94,
+  "sha256": "a1d1df89833ef8267ece36e96b974622a6a6b09f171db2810b987fe43b9ac7f5",
+  "tamano_bytes": 579087,
+  "n_paginas": 14,
+  "n_tablas": 17,
+  "n_imagenes_guardadas": 15,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 11,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "ESMALTE METAL MASTER PREMIUM",
+  "codigo_producto": "",
+  "version": "4",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: ESMALTE METAL MASTER PREMIUM",
+    "version": "texto crudo del PDF, pág. 1: Versión: 4"
+  },
+  "version_en_nombre_archivo": ""
+}

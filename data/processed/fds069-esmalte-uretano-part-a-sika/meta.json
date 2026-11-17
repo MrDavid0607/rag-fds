@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds069-esmalte-uretano-part-a-sika",
+  "archivo_original": "FDS 69 - Esmalte Uretano Part A - SIKA.pdf",
+  "nombre_mostrado": "FDS 69 - Esmalte Uretano Part A - SIKA.pdf",
+  "carpeta_origen": "FDS 2023",
+  "anio_carpeta": "2023",
+  "numero_fds": 69,
+  "sha256": "f7a997d57781de1971f59358f5dbb382eadbb13ec296cde3975695c078e73e36",
+  "tamano_bytes": 301054,
+  "n_paginas": 13,
+  "n_tablas": 7,
+  "n_imagenes_guardadas": 6,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 12,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Sika",
+  "producto": "Esmalte Uretano Part A",
+  "codigo_producto": "000000613420",
+  "version": "4.0",
+  "fecha_revision": "2023/09/30",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"Sika\" (4 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto : Esmalte Uretano Part A",
+    "codigo_producto": "Número de HDS: 000000613420",
+    "version": "texto crudo del PDF, pág. 1: Versión 4.0",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión: 2023/09/30"
+  },
+  "version_en_nombre_archivo": ""
+}

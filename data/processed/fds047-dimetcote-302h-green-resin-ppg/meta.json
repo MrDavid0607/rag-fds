@@ -17,10 +17,18 @@
     "docling_core": "2.107.1",
     "ocr": "rapidocr 3.10.0"
   },
-  "fabricante": "",
-  "producto": "",
-  "codigo_producto": "",
-  "version": "",
-  "fecha_revision": "",
-  "notas_metadatos": "pendiente: lo llena metadatos.py"
+  "fabricante": "PPG",
+  "producto": "DIMETCOTE 302H GREEN RESIN",
+  "codigo_producto": "00335609",
+  "version": "5.01",
+  "fecha_revision": "29 Diciembre 2021",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"PPG\" (5 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto : DIMETCOTE 302H GREEN RESIN",
+    "codigo_producto": "Código del producto : 00335609",
+    "version": "texto crudo del PDF, pág. 1: Versión 5.01",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de emisión 29 Diciembre 2021"
+  },
+  "version_en_nombre_archivo": ""
 }

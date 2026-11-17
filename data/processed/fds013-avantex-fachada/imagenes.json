@@ -1,0 +1,164 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        95.01717376708984,
+        720.3681640625,
+        213.3854217529297,
+        741.4662742614746
+      ],
+      "ancho_px": 237,
+      "alto_px": 42,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img05.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACIÓN DE RIESGOS",
+      "bbox_pagina": [
+        55.80751037597656,
+        193.28448486328125,
+        284.0843811035156,
+        264.74273681640625
+      ],
+      "ancho_px": 456,
+      "alto_px": 142,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACIÓN DE RIESGOS",
+      "bbox_pagina": [
+        59.5673942565918,
+        151.68365478515625,
+        81.01416015625,
+        174.2779541015625
+      ],
+      "ancho_px": 43,
+      "alto_px": 46,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        442.7354736328125,
+        707.5438766479492,
+        492.1731262207031,
+        755.5395355224609
+      ],
+      "ancho_px": 99,
+      "alto_px": 96,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img03.png",
+      "pagina": 2,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        57.748626708984375,
+        491.8663330078125,
+        80.6131820678711,
+        511.85906982421875
+      ],
+      "ancho_px": 46,
+      "alto_px": 40,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "10. ESTABILIDAD Y REACTIVIDAD",
+      "bbox_pagina": [
+        442.5491027832031,
+        707.2288360595703,
+        492.1022644042969,
+        755.3070983886719
+      ],
+      "ancho_px": 99,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "10. ESTABILIDAD Y REACTIVIDAD",
+      "bbox_pagina": [
+        56.636356353759766,
+        617.8016662597656,
+        79.81446838378906,
+        638.8601379394531
+      ],
+      "ancho_px": 47,
+      "alto_px": 42,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img03.png",
+      "pagina": 3,
+      "seccion_aproximada": "11. INFORMACIÓN TOXICOLÓGICA.",
+      "bbox_pagina": [
+        56.64644241333008,
+        521.3308715820312,
+        80.13198852539062,
+        543.7774047851562
+      ],
+      "ancho_px": 47,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img04.png",
+      "pagina": 3,
+      "seccion_aproximada": "12. INFORMACION ECOLÓGICA.",
+      "bbox_pagina": [
+        61.391387939453125,
+        467.23162841796875,
+        84.98779296875,
+        490.016357421875
+      ],
+      "ancho_px": 47,
+      "alto_px": 46,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img05.png",
+      "pagina": 3,
+      "seccion_aproximada": "13. CONSIDERACIONES SOBRE LA DISPOSICIÓN.",
+      "bbox_pagina": [
+        56.84990310668945,
+        383.2457275390625,
+        77.33948516845703,
+        405.84283447265625
+      ],
+      "ancho_px": 41,
+      "alto_px": 46,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img07.png",
+      "pagina": 3,
+      "seccion_aproximada": "15. INFORMACIÓN SOBRE REGLAMENTACIÓN.",
+      "bbox_pagina": [
+        62.28147888183594,
+        207.5255126953125,
+        84.09573364257812,
+        227.7464599609375
+      ],
+      "ancho_px": 43,
+      "alto_px": 40,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 2,
+      "duplicada_de": "imagenes/p001_img07.png"
+    }
+  ]
+}

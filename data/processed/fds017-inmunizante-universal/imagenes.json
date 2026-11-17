@@ -1,0 +1,304 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        95.17060089111328,
+        708.2068786621094,
+        193.50393676757812,
+        756.7384605407715
+      ],
+      "ancho_px": 197,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE SEGURIDAD INMUNIZANTE UNIVERSAL",
+      "bbox_pagina": [
+        445.8477783203125,
+        714.1414413452148,
+        486.99652099609375,
+        753.9233016967773
+      ],
+      "ancho_px": 82,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        55.95916748046875,
+        185.594482421875,
+        196.3009033203125,
+        256.12322998046875
+      ],
+      "ancho_px": 281,
+      "alto_px": 141,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        59.58013916015625,
+        144.01995849609375,
+        81.08319091796875,
+        166.266845703125
+      ],
+      "ancho_px": 43,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img08.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        198.3324737548828,
+        187.94354248046875,
+        266.6534729003906,
+        255.315185546875
+      ],
+      "ancho_px": 136,
+      "alto_px": 135,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img09.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        269.0690002441406,
+        189.1295166015625,
+        335.8421630859375,
+        254.98651123046875
+      ],
+      "ancho_px": 134,
+      "alto_px": 132,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img10.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        342.04058837890625,
+        187.2227783203125,
+        408.8161315917969,
+        255.2313232421875
+      ],
+      "ancho_px": 134,
+      "alto_px": 136,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img11.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        411.70245361328125,
+        187.911865234375,
+        482.52508544921875,
+        255.6884765625
+      ],
+      "ancho_px": 142,
+      "alto_px": 135,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img12.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        485.43157958984375,
+        186.427734375,
+        553.9827880859375,
+        255.0091552734375
+      ],
+      "ancho_px": 137,
+      "alto_px": 137,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        94.66172790527344,
+        708.3247299194336,
+        193.629638671875,
+        756.8294219970703
+      ],
+      "ancho_px": 198,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "HOJA DE SEGURIDAD INMUNIZANTE UNIVERSAL",
+      "bbox_pagina": [
+        446.05145263671875,
+        714.2832946777344,
+        486.5894470214844,
+        753.6878051757812
+      ],
+      "ancho_px": 81,
+      "alto_px": 78,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img04.png",
+      "pagina": 2,
+      "seccion_aproximada": "HOJA DE SEGURIDAD INMUNIZANTE UNIVERSAL",
+      "bbox_pagina": [
+        57.31781005859375,
+        535.1002807617188,
+        80.87371063232422,
+        555.4863891601562
+      ],
+      "ancho_px": 47,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img05.png",
+      "pagina": 2,
+      "seccion_aproximada": "HOJA DE SEGURIDAD INMUNIZANTE UNIVERSAL",
+      "bbox_pagina": [
+        62.00730514526367,
+        379.8099670410156,
+        86.07540130615234,
+        400.27447509765625
+      ],
+      "ancho_px": 48,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "8. CONTROLES DE EXPOSICION, PROTECCION PERSONAL",
+      "bbox_pagina": [
+        93.97779846191406,
+        708.054817199707,
+        193.99855041503906,
+        756.7142295837402
+      ],
+      "ancho_px": 200,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "8. CONTROLES DE EXPOSICION, PROTECCION PERSONAL",
+      "bbox_pagina": [
+        446.02899169921875,
+        714.1069869995117,
+        486.8150939941406,
+        753.6886825561523
+      ],
+      "ancho_px": 82,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img03.png",
+      "pagina": 3,
+      "seccion_aproximada": "8. CONTROLES DE EXPOSICION, PROTECCION PERSONAL",
+      "bbox_pagina": [
+        61.31825256347656,
+        549.0250854492188,
+        81.26055908203125,
+        569.2724456787109
+      ],
+      "ancho_px": 40,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img04.png",
+      "pagina": 3,
+      "seccion_aproximada": "10. ESTABILIDAD Y REACTIVIDAD",
+      "bbox_pagina": [
+        57.061378479003906,
+        454.5834045410156,
+        79.90717315673828,
+        474.2944030761719
+      ],
+      "ancho_px": 46,
+      "alto_px": 40,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img05.png",
+      "pagina": 3,
+      "seccion_aproximada": "11. INFORMACION TOXICOLOGICA.",
+      "bbox_pagina": [
+        56.65082550048828,
+        357.90887451171875,
+        80.33116149902344,
+        379.9158630371094
+      ],
+      "ancho_px": 48,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img06.png",
+      "pagina": 3,
+      "seccion_aproximada": "12. INFORMACION ECOLOGICA.",
+      "bbox_pagina": [
+        61.810420989990234,
+        283.5159606933594,
+        84.40756225585938,
+        304.26177978515625
+      ],
+      "ancho_px": 45,
+      "alto_px": 42,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img07.png",
+      "pagina": 3,
+      "seccion_aproximada": "13. CONSIDERACIONES SOBRE LA DISPOSICION.",
+      "bbox_pagina": [
+        57.05642318725586,
+        208.85821533203125,
+        77.13890075683594,
+        231.1929931640625
+      ],
+      "ancho_px": 40,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "15. INFORMACION SOBRE REGLAMENTACION.",
+      "bbox_pagina": [
+        95.1038589477539,
+        708.0721435546875,
+        193.69168090820312,
+        756.9692993164062
+      ],
+      "ancho_px": 197,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p001_img02.png"
+    }
+  ]
+}

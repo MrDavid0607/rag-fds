@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds046-esgrafiado-blanco-30401-pintuco",
+  "archivo_original": "FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf",
+  "nombre_mostrado": "FDS 46 - ESGRAFIADO BLANCO 30401 - PINTUCO .pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 46,
+  "sha256": "c52b07ec3679fd1ead44813a3a37a7d402444e5879db8eb72e97481cf555a035",
+  "tamano_bytes": 277236,
+  "n_paginas": 9,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 8,
+  "n_imagenes_omitidas_por_tamano": 1,
+  "n_imagenes_duplicadas_no_guardadas": 5,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "ESGRAFIADO BLANCO 30401",
+  "codigo_producto": "",
+  "version": "4",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: ESGRAFIADO BLANCO 30401",
+    "version": "texto crudo del PDF, pág. 1: Versión: 4"
+  },
+  "version_en_nombre_archivo": ""
+}

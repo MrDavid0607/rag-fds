@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds049-pintura-total-corona",
+  "archivo_original": "FDS 49 - PINTURA TOTAL - CORONA .pdf",
+  "nombre_mostrado": "FDS 49 - PINTURA TOTAL - CORONA .pdf",
+  "carpeta_origen": "FDS 2021",
+  "anio_carpeta": "2021",
+  "numero_fds": 49,
+  "sha256": "c4cc136b01d7c45ec3e175f05f226fc3d1ea02af4326004bef367d3f05316fc8",
+  "tamano_bytes": 495576,
+  "n_paginas": 10,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 10,
+  "n_imagenes_omitidas_por_tamano": 2,
+  "n_imagenes_duplicadas_no_guardadas": 7,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA TOTAL",
+  "codigo_producto": "",
+  "version": "7",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (7 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA TOTAL",
+    "version": "texto crudo del PDF, pág. 1: Versión: 7"
+  },
+  "version_en_nombre_archivo": ""
+}

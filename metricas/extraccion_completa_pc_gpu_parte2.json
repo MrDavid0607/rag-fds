@@ -1,0 +1,483 @@
+{
+  "fichas_ok": 59,
+  "fichas_con_error": 0,
+  "paginas": 743,
+  "segundos_total": 1217.3,
+  "segundos_por_pagina_promedio": 1.64,
+  "ram_pico_mb": 6496,
+  "por_ficha": [
+    {
+      "doc_id": "fds041-pintura-acrilica-construccion-alta-asepsia-blanco-27580-pint",
+      "n_paginas": 8,
+      "segundos_conversion": 47.38,
+      "segundos_por_pagina": 5.92,
+      "n_tablas": 11,
+      "n_imagenes": 10
+    },
+    {
+      "doc_id": "fds042-pintura-lavable-antibacterial-corona",
+      "n_paginas": 10,
+      "segundos_conversion": 9.45,
+      "segundos_por_pagina": 0.95,
+      "n_tablas": 11,
+      "n_imagenes": 11
+    },
+    {
+      "doc_id": "fds043-pintura-primera-mano-acabado-corona",
+      "n_paginas": 9,
+      "segundos_conversion": 8.24,
+      "segundos_por_pagina": 0.92,
+      "n_tablas": 12,
+      "n_imagenes": 12
+    },
+    {
+      "doc_id": "fds044-textuco-corona",
+      "n_paginas": 10,
+      "segundos_conversion": 9.24,
+      "segundos_por_pagina": 0.92,
+      "n_tablas": 11,
+      "n_imagenes": 11
+    },
+    {
+      "doc_id": "fds045-viniltex-pro-650-blanco-pintuco",
+      "n_paginas": 10,
+      "segundos_conversion": 124.33,
+      "segundos_por_pagina": 12.43,
+      "n_tablas": 16,
+      "n_imagenes": 13
+    },
+    {
+      "doc_id": "fds046-esgrafiado-blanco-30401-pintuco",
+      "n_paginas": 9,
+      "segundos_conversion": 11.1,
+      "segundos_por_pagina": 1.23,
+      "n_tablas": 13,
+      "n_imagenes": 8
+    },
+    {
+      "doc_id": "fds048-pitt-char-xp-base-white-ppg",
+      "n_paginas": 15,
+      "segundos_conversion": 7.97,
+      "segundos_por_pagina": 0.53,
+      "n_tablas": 24,
+      "n_imagenes": 4
+    },
+    {
+      "doc_id": "fds049-pintura-total-corona",
+      "n_paginas": 10,
+      "segundos_conversion": 10.61,
+      "segundos_por_pagina": 1.06,
+      "n_tablas": 13,
+      "n_imagenes": 10
+    },
+    {
+      "doc_id": "fds050-pintura-epoxica-base-solvente-blanco-13580-pintuco",
+      "n_paginas": 14,
+      "segundos_conversion": 22.07,
+      "segundos_por_pagina": 1.58,
+      "n_tablas": 19,
+      "n_imagenes": 22
+    },
+    {
+      "doc_id": "fds051-hs-p-p-022-pintura-acrilica-base-solvente-sapolin-invesa",
+      "n_paginas": 12,
+      "segundos_conversion": 12.3,
+      "segundos_por_pagina": 1.03,
+      "n_tablas": 16,
+      "n_imagenes": 19
+    },
+    {
+      "doc_id": "fds052-hs-p-p-029-premier-invesa",
+      "n_paginas": 12,
+      "segundos_conversion": 10.02,
+      "segundos_por_pagina": 0.83,
+      "n_tablas": 13,
+      "n_imagenes": 20
+    },
+    {
+      "doc_id": "fds053-hs-p-p-032-pintura-en-aerosol-sapolin-invesa",
+      "n_paginas": 14,
+      "segundos_conversion": 15.68,
+      "segundos_por_pagina": 1.12,
+      "n_tablas": 20,
+      "n_imagenes": 21
+    },
+    {
+      "doc_id": "fds054-2021-hs-p-p-024-esmalte-aqua-duty-invesa",
+      "n_paginas": 11,
+      "segundos_conversion": 19.67,
+      "segundos_por_pagina": 1.79,
+      "n_tablas": 17,
+      "n_imagenes": 8
+    },
+    {
+      "doc_id": "fds055-esmalte-linea-clasica-blanco-pintuland",
+      "n_paginas": 14,
+      "segundos_conversion": 24.02,
+      "segundos_por_pagina": 1.72,
+      "n_tablas": 16,
+      "n_imagenes": 25
+    },
+    {
+      "doc_id": "fds056-acriland-blanco-pintuland",
+      "n_paginas": 11,
+      "segundos_conversion": 21.99,
+      "segundos_por_pagina": 2.0,
+      "n_tablas": 17,
+      "n_imagenes": 6
+    },
+    {
+      "doc_id": "fds057-acrolatex-50-3508-pintuco",
+      "n_paginas": 10,
+      "segundos_conversion": 14.59,
+      "segundos_por_pagina": 1.46,
+      "n_tablas": 13,
+      "n_imagenes": 11
+    },
+    {
+      "doc_id": "fds058-esmalte-linea-dorada-aluminio-mezcla-pintuland",
+      "n_paginas": 15,
+      "segundos_conversion": 43.06,
+      "segundos_por_pagina": 2.87,
+      "n_tablas": 21,
+      "n_imagenes": 29
+    },
+    {
+      "doc_id": "fds059-pintura-para-canchas-blanco-pintuland",
+      "n_paginas": 10,
+      "segundos_conversion": 19.76,
+      "segundos_por_pagina": 1.98,
+      "n_tablas": 15,
+      "n_imagenes": 8
+    },
+    {
+      "doc_id": "fds060-primer-epoxico-poliamida-rojo-componente-a-pintuland",
+      "n_paginas": 16,
+      "segundos_conversion": 36.08,
+      "segundos_por_pagina": 2.25,
+      "n_tablas": 20,
+      "n_imagenes": 26
+    },
+    {
+      "doc_id": "fds061-pintura-senalizacion-y-demarcacion-corona",
+      "n_paginas": 10,
+      "segundos_conversion": 14.34,
+      "segundos_por_pagina": 1.43,
+      "n_tablas": 15,
+      "n_imagenes": 11
+    },
+    {
+      "doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco",
+      "n_paginas": 10,
+      "segundos_conversion": 18.76,
+      "segundos_por_pagina": 1.88,
+      "n_tablas": 17,
+      "n_imagenes": 11
+    },
+    {
+      "doc_id": "fds063-amercoat-68hs-powder-pintura-epoxica-ppg",
+      "n_paginas": 12,
+      "segundos_conversion": 5.63,
+      "segundos_por_pagina": 0.47,
+      "n_tablas": 11,
+      "n_imagenes": 2
+    },
+    {
+      "doc_id": "fds064-dimetcote-9-series-powder-pintura-de-silicato-de-zinc-ppg",
+      "n_paginas": 12,
+      "segundos_conversion": 6.31,
+      "segundos_por_pagina": 0.53,
+      "n_tablas": 11,
+      "n_imagenes": 2
+    },
+    {
+      "doc_id": "fds065-sigmadur-one-buff-3142-ppg",
+      "n_paginas": 15,
+      "segundos_conversion": 9.31,
+      "segundos_por_pagina": 0.62,
+      "n_tablas": 21,
+      "n_imagenes": 4
+    },
+    {
+      "doc_id": "fds066-40030020-sellador-industrial-nitro",
+      "n_paginas": 18,
+      "segundos_conversion": 46.14,
+      "segundos_por_pagina": 2.56,
+      "n_tablas": 21,
+      "n_imagenes": 29
+    },
+    {
+      "doc_id": "fds067-pintura-exteriores-corona",
+      "n_paginas": 12,
+      "segundos_conversion": 15.07,
+      "segundos_por_pagina": 1.26,
+      "n_tablas": 13,
+      "n_imagenes": 16
+    },
+    {
+      "doc_id": "fds068-pintura-superlavable-zero-corona",
+      "n_paginas": 11,
+      "segundos_conversion": 14.82,
+      "segundos_por_pagina": 1.35,
+      "n_tablas": 13,
+      "n_imagenes": 13
+    },
+    {
+      "doc_id": "fds069-esmalte-uretano-part-a-sika",
+      "n_paginas": 13,
+      "segundos_conversion": 9.45,
+      "segundos_por_pagina": 0.73,
+      "n_tablas": 7,
+      "n_imagenes": 6
+    },
+    {
+      "doc_id": "fds070-esmalte-uretano-part-b-sika",
+      "n_paginas": 13,
+      "segundos_conversion": 8.81,
+      "segundos_por_pagina": 0.68,
+      "n_tablas": 9,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds072-sikafloor-2430-co-comp-b-sika",
+      "n_paginas": 12,
+      "segundos_conversion": 7.61,
+      "segundos_por_pagina": 0.63,
+      "n_tablas": 7,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds073-sikafloor-161-part-a-level-comercial-sika",
+      "n_paginas": 11,
+      "segundos_conversion": 5.81,
+      "segundos_por_pagina": 0.53,
+      "n_tablas": 5,
+      "n_imagenes": 6
+    },
+    {
+      "doc_id": "fds074-sikafloor-161-264-b-sika",
+      "n_paginas": 12,
+      "segundos_conversion": 7.54,
+      "segundos_por_pagina": 0.63,
+      "n_tablas": 5,
+      "n_imagenes": 8
+    },
+    {
+      "doc_id": "fds075-pintura-alta-cobertura-corona",
+      "n_paginas": 10,
+      "segundos_conversion": 14.28,
+      "segundos_por_pagina": 1.43,
+      "n_tablas": 14,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds076-pintura-total-corona",
+      "n_paginas": 10,
+      "segundos_conversion": 14.7,
+      "segundos_por_pagina": 1.47,
+      "n_tablas": 14,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds077-vinilo-superlavable-blanco-pintuland",
+      "n_paginas": 11,
+      "segundos_conversion": 22.26,
+      "segundos_por_pagina": 2.02,
+      "n_tablas": 16,
+      "n_imagenes": 5
+    },
+    {
+      "doc_id": "fds078-esmalte-protekland-blanco-2-en-1-pintuland",
+      "n_paginas": 14,
+      "segundos_conversion": 30.66,
+      "segundos_por_pagina": 2.19,
+      "n_tablas": 20,
+      "n_imagenes": 20
+    },
+    {
+      "doc_id": "fds079-pq-corrotec-premium-507-gris-pintuco-aksonobel",
+      "n_paginas": 17,
+      "segundos_conversion": 15.31,
+      "segundos_por_pagina": 0.9,
+      "n_tablas": 20,
+      "n_imagenes": 6
+    },
+    {
+      "doc_id": "fds081-topcoat-400-1772-negro-international-aksonobel",
+      "n_paginas": 15,
+      "segundos_conversion": 17.13,
+      "segundos_por_pagina": 1.14,
+      "n_tablas": 16,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds082-acrilica-mantenimiento-13883-blanco-ral9003-brillante-intern",
+      "n_paginas": 17,
+      "segundos_conversion": 16.96,
+      "segundos_por_pagina": 1.0,
+      "n_tablas": 18,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds083-epoxy-zinc-primer-10056",
+      "n_paginas": 12,
+      "segundos_conversion": 10.7,
+      "segundos_por_pagina": 0.89,
+      "n_tablas": 12,
+      "n_imagenes": 8
+    },
+    {
+      "doc_id": "fds084-zinc-primer-10844-gris-parte-a-international-aksonobel",
+      "n_paginas": 15,
+      "segundos_conversion": 16.12,
+      "segundos_por_pagina": 1.07,
+      "n_tablas": 18,
+      "n_imagenes": 10
+    },
+    {
+      "doc_id": "fds085-epoxy-estructuras-gris-parte-a-international-aksonobel",
+      "n_paginas": 14,
+      "segundos_conversion": 13.07,
+      "segundos_por_pagina": 0.93,
+      "n_tablas": 18,
+      "n_imagenes": 2
+    },
+    {
+      "doc_id": "fds086-sikafloor-510-part-a-sika",
+      "n_paginas": 10,
+      "segundos_conversion": 4.28,
+      "segundos_por_pagina": 0.43,
+      "n_tablas": 5,
+      "n_imagenes": 6
+    },
+    {
+      "doc_id": "fds087-esmalte-epoxico-part-a-sika",
+      "n_paginas": 13,
+      "segundos_conversion": 7.97,
+      "segundos_por_pagina": 0.61,
+      "n_tablas": 6,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds088-pintura-lavable-corona",
+      "n_paginas": 12,
+      "segundos_conversion": 15.15,
+      "segundos_por_pagina": 1.26,
+      "n_tablas": 14,
+      "n_imagenes": 19
+    },
+    {
+      "doc_id": "fds089-pintura-lavable-bio-corona",
+      "n_paginas": 12,
+      "segundos_conversion": 17.03,
+      "segundos_por_pagina": 1.42,
+      "n_tablas": 15,
+      "n_imagenes": 13
+    },
+    {
+      "doc_id": "fds090-50830001-vinilo-fino-blanco-pintuland",
+      "n_paginas": 10,
+      "segundos_conversion": 21.6,
+      "segundos_por_pagina": 2.16,
+      "n_tablas": 14,
+      "n_imagenes": 3
+    },
+    {
+      "doc_id": "fds091-pintura-exteriores-corona",
+      "n_paginas": 12,
+      "segundos_conversion": 17.72,
+      "segundos_por_pagina": 1.48,
+      "n_tablas": 13,
+      "n_imagenes": 16
+    },
+    {
+      "doc_id": "fds092-pintura-coolguard-corona",
+      "n_paginas": 12,
+      "segundos_conversion": 20.44,
+      "segundos_por_pagina": 1.7,
+      "n_tablas": 18,
+      "n_imagenes": 17
+    },
+    {
+      "doc_id": "fds093-pintura-fachada-flexible-corona",
+      "n_paginas": 12,
+      "segundos_conversion": 17.91,
+      "segundos_por_pagina": 1.49,
+      "n_tablas": 13,
+      "n_imagenes": 17
+    },
+    {
+      "doc_id": "fds094-esmalte-metal-master-premium-corona",
+      "n_paginas": 14,
+      "segundos_conversion": 35.8,
+      "segundos_por_pagina": 2.56,
+      "n_tablas": 17,
+      "n_imagenes": 15
+    },
+    {
+      "doc_id": "fds095-international-aksonobel-sealer-f100-parte-a",
+      "n_paginas": 14,
+      "segundos_conversion": 49.46,
+      "segundos_por_pagina": 3.53,
+      "n_tablas": 15,
+      "n_imagenes": 9
+    },
+    {
+      "doc_id": "fds096-international-aksonobel-sealer-f100-parte-b",
+      "n_paginas": 16,
+      "segundos_conversion": 14.02,
+      "segundos_por_pagina": 0.88,
+      "n_tablas": 18,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds097-madetec-poliuretano-laca-semimate-incoloro-p-402-akzonobel",
+      "n_paginas": 17,
+      "segundos_conversion": 26.96,
+      "segundos_por_pagina": 1.59,
+      "n_tablas": 22,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds098-epoxy-zinc-plus-primer-10073-plus-gris-parte-a-international",
+      "n_paginas": 16,
+      "segundos_conversion": 49.49,
+      "segundos_por_pagina": 3.09,
+      "n_tablas": 22,
+      "n_imagenes": 8
+    },
+    {
+      "doc_id": "fds099-topcoat-400-26015-aluminio-international-aksonobel",
+      "n_paginas": 14,
+      "segundos_conversion": 9.87,
+      "segundos_por_pagina": 0.7,
+      "n_tablas": 18,
+      "n_imagenes": 7
+    },
+    {
+      "doc_id": "fds100-esmalte-maestro-bler",
+      "n_paginas": 13,
+      "segundos_conversion": 19.88,
+      "segundos_por_pagina": 1.53,
+      "n_tablas": 17,
+      "n_imagenes": 17
+    },
+    {
+      "doc_id": "fds101-barniz-solar-pinturas-bler",
+      "n_paginas": 14,
+      "segundos_conversion": 31.42,
+      "segundos_por_pagina": 2.24,
+      "n_tablas": 17,
+      "n_imagenes": 14
+    },
+    {
+      "doc_id": "fds102-amercoat-370-resin-oxide-red-ppg",
+      "n_paginas": 16,
+      "segundos_conversion": 10.93,
+      "segundos_por_pagina": 0.68,
+      "n_tablas": 24,
+      "n_imagenes": 4
+    }
+  ],
+  "errores": []
+}

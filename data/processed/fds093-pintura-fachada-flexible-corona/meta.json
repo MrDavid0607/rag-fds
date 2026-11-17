@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds093-pintura-fachada-flexible-corona",
+  "archivo_original": "FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA.pdf",
+  "nombre_mostrado": "FDS 93 - PINTURA FACHADA FLEXIBLE - CORONA.pdf",
+  "carpeta_origen": "FDS 2025",
+  "anio_carpeta": "2025",
+  "numero_fds": 93,
+  "sha256": "a5d1906defb7cbfe1865f5afcb99b7ca308c6292476c921de5b2fb9fd567417b",
+  "tamano_bytes": 284557,
+  "n_paginas": 12,
+  "n_tablas": 13,
+  "n_imagenes_guardadas": 17,
+  "n_imagenes_omitidas_por_tamano": 3,
+  "n_imagenes_duplicadas_no_guardadas": 19,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Corona",
+  "producto": "PINTURA FACHADA FLEXIBLE",
+  "codigo_producto": "",
+  "version": "9",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"CORLANC\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA FACHADA FLEXIBLE",
+    "version": "texto crudo del PDF, pág. 1: Versión: 9"
+  },
+  "version_en_nombre_archivo": ""
+}

@@ -1,0 +1,220 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        95.16183471679688,
+        708.2094802856445,
+        193.60205078125,
+        756.8432846069336
+      ],
+      "ancho_px": 197,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "HOJA DE SEGURIDAD IMPRA",
+      "bbox_pagina": [
+        446.00262451171875,
+        714.1154861450195,
+        486.7740478515625,
+        753.8911209106445
+      ],
+      "ancho_px": 82,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img06.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        55.834266662597656,
+        216.96588134765625,
+        204.41317749023438,
+        287.45452880859375
+      ],
+      "ancho_px": 297,
+      "alto_px": 141,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img07.png",
+      "pagina": 1,
+      "seccion_aproximada": "3. IDENTIFICACION DE RIESGOS",
+      "bbox_pagina": [
+        59.87617111206055,
+        175.04327392578125,
+        81.03042602539062,
+        196.88763427734375
+      ],
+      "ancho_px": 42,
+      "alto_px": 44,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img08.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        208.75137329101562,
+        228.7308349609375,
+        265.7116394042969,
+        284.7366943359375
+      ],
+      "ancho_px": 113,
+      "alto_px": 112,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img09.png",
+      "pagina": 1,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        279.0244140625,
+        217.42462158203125,
+        351.0967102050781,
+        286.5406188964844
+      ],
+      "ancho_px": 144,
+      "alto_px": 138,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img01.png",
+      "pagina": 2,
+      "seccion_aproximada": "4. PRIMEROS AUXILIOS",
+      "bbox_pagina": [
+        94.35321807861328,
+        708.2408142089844,
+        193.56930541992188,
+        757.0093116760254
+      ],
+      "ancho_px": 198,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img02.png",
+      "pagina": 2,
+      "seccion_aproximada": "HOJA DE SEGURIDAD IMPRA",
+      "bbox_pagina": [
+        445.91143798828125,
+        714.2139282226562,
+        486.6516418457031,
+        753.82666015625
+      ],
+      "ancho_px": 81,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p002_img04.png",
+      "pagina": 2,
+      "seccion_aproximada": "5. COMBATE DE INCENDIOS",
+      "bbox_pagina": [
+        57.5087890625,
+        512.2670593261719,
+        80.64999389648438,
+        532.4389343261719
+      ],
+      "ancho_px": 46,
+      "alto_px": 40,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img01.png",
+      "pagina": 3,
+      "seccion_aproximada": "8. CONTROLES DE EXPOSICION, PROTECCION PERSONAL",
+      "bbox_pagina": [
+        94.95037841796875,
+        708.0357360839844,
+        193.85646057128906,
+        756.9130096435547
+      ],
+      "ancho_px": 198,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img02.png",
+      "pagina": 3,
+      "seccion_aproximada": "8. CONTROLES DE EXPOSICION, PROTECCION PERSONAL",
+      "bbox_pagina": [
+        446.05865478515625,
+        714.0686340332031,
+        486.5527648925781,
+        753.7442359924316
+      ],
+      "ancho_px": 81,
+      "alto_px": 79,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img06.png",
+      "pagina": 3,
+      "seccion_aproximada": "11. INFORMACION TOXICOLOGICA.",
+      "bbox_pagina": [
+        56.81914138793945,
+        341.3254699707031,
+        79.75196075439453,
+        363.83740234375
+      ],
+      "ancho_px": 46,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img07.png",
+      "pagina": 3,
+      "seccion_aproximada": "12. INFORMACION ECOLOGICA.",
+      "bbox_pagina": [
+        61.92806625366211,
+        266.830810546875,
+        84.22378540039062,
+        287.6678161621094
+      ],
+      "ancho_px": 44,
+      "alto_px": 41,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p003_img08.png",
+      "pagina": 3,
+      "seccion_aproximada": "13. CONSIDERACIONES SOBRE LA DISPOSICION.",
+      "bbox_pagina": [
+        57.05582809448242,
+        140.6253662109375,
+        77.31275177001953,
+        162.88238525390625
+      ],
+      "ancho_px": 41,
+      "alto_px": 45,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p004_img01.png",
+      "pagina": 4,
+      "seccion_aproximada": "14. INFORMACION SOBRE EL TRANSPORTE.",
+      "bbox_pagina": [
+        95.0254135131836,
+        708.2897567749023,
+        193.72625732421875,
+        756.896312713623
+      ],
+      "ancho_px": 197,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": [
+    {
+      "pagina": 4,
+      "duplicada_de": "imagenes/p002_img02.png"
+    }
+  ]
+}

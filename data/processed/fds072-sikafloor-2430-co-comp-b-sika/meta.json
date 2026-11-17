@@ -1,0 +1,34 @@
+{
+  "doc_id": "fds072-sikafloor-2430-co-comp-b-sika",
+  "archivo_original": "FDS 72 - Sikafloor#U00ae-2430 CO Comp.B - SIKA.pdf",
+  "nombre_mostrado": "FDS 72 - Sikafloor®-2430 CO Comp.B - SIKA.pdf",
+  "carpeta_origen": "FDS 2023",
+  "anio_carpeta": "2023",
+  "numero_fds": 72,
+  "sha256": "4e163cc3af2323749607b3382c55cf2e65525ee56a01225fa3c106c59f51af63",
+  "tamano_bytes": 330969,
+  "n_paginas": 12,
+  "n_tablas": 7,
+  "n_imagenes_guardadas": 7,
+  "n_imagenes_omitidas_por_tamano": 0,
+  "n_imagenes_duplicadas_no_guardadas": 11,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Sika",
+  "producto": "Sikafloor®-2430 Part B",
+  "codigo_producto": "100000030203",
+  "version": "3.0",
+  "fecha_revision": "2023/08/15",
+  "notas_metadatos": "",
+  "evidencia_metadatos": {
+    "fabricante": "\"Sika\" (4 menciones)",
+    "producto": "pág. 1-2 (md): Nombre del producto : Sikafloor®-2430 Part B",
+    "codigo_producto": "Número de HDS: 100000030203",
+    "version": "texto crudo del PDF, pág. 1: Versión 3.0",
+    "fecha_revision": "texto crudo del PDF, pág. 1: Fecha de revisión: 2023/08/15"
+  },
+  "version_en_nombre_archivo": ""
+}

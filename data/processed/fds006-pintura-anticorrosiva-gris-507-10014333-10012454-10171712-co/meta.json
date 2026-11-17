@@ -1,0 +1,32 @@
+{
+  "doc_id": "fds006-pintura-anticorrosiva-gris-507-10014333-10012454-10171712-co",
+  "archivo_original": "FDS 6 - PINTURA ANTICORROSIVA GRIS 507 _ 10014333-10012454-10171712 _COL (Versi#U00f3n 3).pdf",
+  "nombre_mostrado": "FDS 6 - PINTURA ANTICORROSIVA GRIS 507 _ 10014333-10012454-10171712 _COL (Versión 3).pdf",
+  "carpeta_origen": "FDS 2018",
+  "anio_carpeta": "2018",
+  "numero_fds": 6,
+  "sha256": "d1e0ff831eb8b97c3fbc44628cca616fd8d79b67bc764eef59c1bd3c2e201f0e",
+  "tamano_bytes": 374046,
+  "n_paginas": 10,
+  "n_tablas": 16,
+  "n_imagenes_guardadas": 10,
+  "n_imagenes_omitidas_por_tamano": 4,
+  "n_imagenes_duplicadas_no_guardadas": 7,
+  "herramienta_extraccion": {
+    "docling": "2.150.1",
+    "docling_core": "2.107.1",
+    "ocr": "rapidocr 3.10.0"
+  },
+  "fabricante": "Pintuco",
+  "producto": "PINTURA ANTICORROSIVA GRIS 507",
+  "codigo_producto": "",
+  "version": "3",
+  "fecha_revision": "",
+  "notas_metadatos": "codigo_producto: no aparece; fecha_revision: no aparece en el texto de la ficha",
+  "evidencia_metadatos": {
+    "fabricante": "\"Pintuco\" (6 menciones)",
+    "producto": "pág. 1-2 (md): Identificador SGA del producto: PINTURA ANTICORROSIVA GRIS 507",
+    "version": "texto crudo del PDF, pág. 1: Versión: 3"
+  },
+  "version_en_nombre_archivo": "3"
+}

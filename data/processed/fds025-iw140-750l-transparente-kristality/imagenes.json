@@ -1,0 +1,159 @@
+{
+  "imagenes": [
+    {
+      "archivo": "imagenes/p001_img01.png",
+      "pagina": 1,
+      "seccion_aproximada": "",
+      "bbox_pagina": [
+        503.1720886230469,
+        736.2451705932617,
+        556.4733276367188,
+        775.9900131225586
+      ],
+      "ancho_px": 107,
+      "alto_px": 80,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img02.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        189.63417053222656,
+        102.3115234375,
+        238.6676483154297,
+        151.190673828125
+      ],
+      "ancho_px": 98,
+      "alto_px": 97,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img03.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        245.94113159179688,
+        102.55096435546875,
+        295.3572692871094,
+        151.45477294921875
+      ],
+      "ancho_px": 99,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p001_img04.png",
+      "pagina": 1,
+      "seccion_aproximada": "Elementos de las etiquetas del SGA",
+      "bbox_pagina": [
+        302.8167724609375,
+        102.443359375,
+        351.6150817871094,
+        151.44677734375
+      ],
+      "ancho_px": 97,
+      "alto_px": 98,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img01.png",
+      "pagina": 13,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        126.0428695678711,
+        136.84722900390625,
+        163.02113342285156,
+        173.722412109375
+      ],
+      "ancho_px": 74,
+      "alto_px": 73,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img02.png",
+      "pagina": 13,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        213.6981658935547,
+        137.00103759765625,
+        250.92726135253906,
+        173.7027587890625
+      ],
+      "ancho_px": 75,
+      "alto_px": 73,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img03.png",
+      "pagina": 13,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        301.69671630859375,
+        136.81256103515625,
+        339.04217529296875,
+        174.0299072265625
+      ],
+      "ancho_px": 75,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img04.png",
+      "pagina": 13,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        389.2459716796875,
+        136.62237548828125,
+        426.4970703125,
+        173.81622314453125
+      ],
+      "ancho_px": 75,
+      "alto_px": 75,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p013_img05.png",
+      "pagina": 13,
+      "seccion_aproximada": "SECCIÓN 14: Información relativa al transporte",
+      "bbox_pagina": [
+        477.58795166015625,
+        136.73272705078125,
+        514.4893798828125,
+        173.68359375
+      ],
+      "ancho_px": 74,
+      "alto_px": 74,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p014_img01.png",
+      "pagina": 14,
+      "seccion_aproximada": "National Fire Protection Association (Estados Unidos)",
+      "bbox_pagina": [
+        112.28527069091797,
+        401.8980407714844,
+        319.2680969238281,
+        450.0711364746094
+      ],
+      "ancho_px": 414,
+      "alto_px": 96,
+      "relacion_con_tabla": null
+    },
+    {
+      "archivo": "imagenes/p015_img01.png",
+      "pagina": 15,
+      "seccion_aproximada": "Hazardous Material Information System (Estados Unidos)",
+      "bbox_pagina": [
+        40.45368194580078,
+        622.7487182617188,
+        198.0236358642578,
+        692.3968658447266
+      ],
+      "ancho_px": 315,
+      "alto_px": 140,
+      "relacion_con_tabla": null
+    }
+  ],
+  "duplicadas_no_guardadas": []
+}
