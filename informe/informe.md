@@ -16,7 +16,7 @@ Las dos configuraciones **solo difieren en top-k** (3 y 6); corpus, chunking, em
 | top-k 3 | 0.892 | 1.000 | 0.910 | 10/10/10 | 2 (e09, e10) | 20.6 s |
 | top-k 6 | 0.867 | 1.000 | 1.000 | 10/10/**9** | 0 | 24.3 s |
 
-Un cálculo falló (Context Recall de e09 con top-k 6: salida no interpretable del evaluador, dos intentos) y se registró como `NaN`, no como 0. Context Precision vale 1.00 en los 20 casos: no discrimina. Top-k 6 recupera la evidencia de **ambas secciones o ambos documentos** en e07, e08 y e10, donde top-k 3 se queda corto;
+Un cálculo falló (Context Recall de e09 con top-k 6: salida no interpretable del evaluador, dos intentos) y se registró como `NaN`, no como 0. La evaluación se corrió dos veces (v1 y v2, esta tras corregir un defecto de metadatos, ver §4): las 30 puntuaciones salieron idénticas. Context Precision vale 1.00 en los 20 casos: no discrimina. Top-k 6 recupera la evidencia de **ambas secciones o ambos documentos** en e07, e08 y e10, donde top-k 3 se queda corto;
 su Faithfulness es algo menor, pero la causa está en el evaluador y en las citas (§3), no en datos inventados. Con 10 preguntas, una corrida y un evaluador de 8 B, esto es una **comparación didáctica**: no demuestra que una configuración sea mejor en general. Se elige **top-k 6** (+18 % de tiempo de generación).
 
 ## 3. Tres casos analizados
@@ -28,18 +28,18 @@ Aun así RAGAS puntúa Faithfulness 0.50: declara no respaldada la afirmación 3
 Es literalidad del evaluador ante una redacción ambigua. *Exactitud y citas: [pendiente de confirmación del autor].*
 
 **e09 (comparación de dos productos de Pintuco por toxicidad para la reproducción y categoría de inflamabilidad).** Es el caso más débil. El filtro devuelve 6 productos (en comparaciones se desactiva el estrechamiento por código numérico) y recupera la sección 11 en lugar de la 2, donde están H360 y H225/H226.
-Con top-k 3 el sistema dice «no hay evidencia» y a la vez afirma que ambos no cumplen criterios; con top-k 6 acierta la toxicidad del Pintulaca Rojo Claro pero **omite la categoría de inflamabilidad** y cita fichas de otros esmaltes para el 1772. Context Recall con top-k 6 falló (`NaN`) y la Faithfulness varió entre corridas (0.67 y 1.00 con la misma respuesta). *Exactitud y citas: [pendiente de confirmación del autor].*
+Con top-k 3 el sistema dice «no hay evidencia» y a la vez afirma que ambos no cumplen criterios; con top-k 6 acierta la toxicidad del Pintulaca Rojo Claro pero **omite la categoría de inflamabilidad** y cita fichas de otros esmaltes para el 1772. Context Recall con top-k 6 falló (`NaN`) en ambas corridas, y un diagnóstico paso a paso dio Faithfulness 1.00 frente a 0.67 de la corrida oficial (el valor depende del procedimiento de llamada). *Exactitud y citas: [pendiente de confirmación del autor].*
 
 ## 4. Preguntas sin respuesta y limitaciones
 
-- **e11** (rendimiento del Acrolatex, que la FDS no trae): reconoce la falta de evidencia con ambas configuraciones. **e12** (Intergard 475HS, producto inexistente): **inventa** con ambas, atribuyéndole primeros auxilios de otras fichas de International; el aviso de «producto sin ficha» solo se activa si existe un producto parecido.
+- **e11** (rendimiento del Acrolatex, que la FDS no trae): reconoce la falta de evidencia con ambas configuraciones. **e12** (Intergard 475HS, producto inexistente): en v1 **inventó** con ambas, atribuyéndole primeros auxilios de otras fichas de International; en v2, con los nombres de producto corregidos, **reconoce** la falta de evidencia con ambas. Es un resultado frágil: el filtro por producto y el aviso de «producto sin ficha» siguen sin activarse en ese caso.
 - Extracción: Docling descarta encabezados y pies (versión y fecha); en formularios separa etiquetas y valores; el OCR no interpreta pictogramas (en 6 tablas leyó íconos como ideogramas); 15 fichas no nombran al fabricante y 17 no traen versión (no se infieren).
-- 8 fichas de AkzoNobel tienen el nombre de producto mal extraído («X International.»): defecto conocido, no corregido para no invalidar la evaluación.
+- 8 fichas de AkzoNobel tenían el nombre de producto mal extraído («X International.»); se corrigió, se reconstruyó el índice y se repitió la evaluación completa (v2): solo cambió e12; los datos de v1 se conservan.
 - El evaluador local es ruidoso: no determinista, una salida inválida y Context Precision siempre en 1.00. Faithfulness no mide completitud.
 - Arquitectura: el Learner Lab niega instancias mayores a *large*; en la EC2 `r5.large` la generación daba 1.7 tokens/s y la extracción 17 s/página, por lo que se trabajó en el PC con GPU (8.3 tokens/s; 2.4 s/página). El costo AWS fue menor a US$ 1.
 
 ## 5. Conclusión
 
-El sistema responde con citas trazables y reconoce la falta de evidencia en la mayoría de los casos, pero un generador de 7 B puede omitir datos, citar fichas ajenas o inventar cuando la pregunta nombra un producto inexistente. En este conjunto top-k 6 resultó más completo que top-k 3 en preguntas que integran secciones o documentos,
-a un costo moderado, y es la configuración elegida. Las puntuaciones de RAGAS orientan, pero requieren revisión manual; las mejoras identificadas (corregir los metadatos de producto, estrechar por código en comparaciones, priorizar la sección 2 para clasificaciones, avisar ante productos no encontrados)
+El sistema responde con citas trazables y reconoce la falta de evidencia en la mayoría de los casos, pero un generador de 7 B puede omitir datos, citar fichas ajenas o, ante un producto inexistente, inventar (como en v1) o acertar por motivos frágiles (v2). En este conjunto top-k 6 resultó más completo que top-k 3 en preguntas que integran secciones o documentos,
+a un costo moderado, y es la configuración elegida. Las puntuaciones de RAGAS orientan, pero requieren revisión manual; las demás mejoras identificadas (estrechar por código en comparaciones, priorizar la sección 2 para clasificaciones, avisar ante productos no encontrados)
 no se aplicaron para no ajustar el sistema a las preguntas de evaluación.

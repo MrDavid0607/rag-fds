@@ -36,7 +36,7 @@ FABRICANTES = [
 # Valores que son etiquetas de otro campo y no un nombre de producto
 ETIQUETA = re.compile(r"^(c[oó]digo|fecha|uso|tipo|otros|no disponible|identificador|n[uú]mero|sds|versi[oó]n|"
                       r"nombre|compa[nñ][ií]a|tel[eé]fono|datos|secci[oó]n|\d+\.\d+)\b", re.IGNORECASE)
-GENERICO = re.compile(r"(ficha|hoja)\s+de\s+datos|seguridad|^secci[oó]n|^versi[oó]n|^fecha|<!--|!\[|^x$|^\W*international\W*$|"
+GENERICO = re.compile(r"(ficha|hoja)\s+de\s+datos|seguridad|^secci[oó]n|^versi[oó]n|^fecha|<!--|!\[|^[\W_]*(x|international)([\W_]+(x|international))*[\W_]*$|"
                       r"^[\W_]*$|^p[aá]gina|^\|", re.IGNORECASE)
 
 CLAVES_PRODUCTO = [

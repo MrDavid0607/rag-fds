@@ -38,8 +38,13 @@ evaluador y volvió a fallar. Queda como `NaN` con su mensaje, por eso Context R
 - **Faithfulness** es algo menor con top-k 6 (0.87 contra 0.89) por e07 (0.75 → 0.50) y e09 (1.00 → 0.67), compensado por e08 (0.67 → 1.00). Con 10 preguntas y un
   evaluador de 8B, esas diferencias son del orden del ruido; deben revisarse a mano.
 - e04 sale con Faithfulness 0.50 en ambas configuraciones aunque la respuesta parece correcta (7 - <10 % y CAS 13463-67-7): posible artefacto del evaluador, a revisar.
-- Las **2 preguntas sin respuesta** no se puntúan con RAGAS (`eval/sin_respuesta_topk{3,6}.json`): e11 reconoce la falta de evidencia en ambas configuraciones; **e12 (Intergard
-  475HS, producto inexistente) NO la reconoce en ninguna**: responde con primeros auxilios de otro producto. Es un fallo real del sistema que se analiza en la Fase 7 (no se ajustó nada después de ver las preguntas de evaluación).
+- Las **2 preguntas sin respuesta** no se puntúan con RAGAS (`eval/sin_respuesta_topk{3,6}.json`): e11 reconoce la falta de evidencia en ambas configuraciones. **e12 (Intergard
+  475HS, producto inexistente): en la corrida v1 NO la reconocía en ninguna** (respondía con primeros auxilios de otro producto); en la v2, tras corregir el nombre de producto de 8 fichas AkzoNobel, **sí la reconoce en ambas** (resultado frágil; ver `eval/analisis_resultados.md`).
+
+### Dos corridas (v1 y v2)
+La corrida v1 mostró en la lista de fuentes de e12 un nombre de producto erróneo («X International.») en 8 fichas AkzoNobel. Se corrigió `metadatos.py`, se reconstruyeron fragmentos e índice y se repitió la evaluación completa (v2, 2026-11-17).
+`python -m rag_fds.comparar_versiones` muestra que las 11 preguntas distintas de e12 recuperaron los mismos fragmentos y dieron las mismas respuestas, y que las **30 puntuaciones de RAGAS salieron idénticas** (incluido el fallo de Context Recall de e09 con top-k 6). Los resultados de v1 están en `eval/v1_antes_correccion_metadatos/`.
+Las tablas de este documento valen para ambas versiones.
 
 ## Consumo y tiempos
 Ver `metricas/evaluacion_consumo.md`.

@@ -16,3 +16,17 @@ EvaluaciÃ³n: ~2 min por pregunta con top-k 3 y ~3.6 min con top-k 6 (Context Pre
 
 Modelos y versiones: ver `docs/evaluacion_ragas.md` (evaluador `llama3.1:8b`, RAGAS 0.4.4, `langchain-ollama` 1.1.0, temperatura 0, `num_ctx` 8 192).
 Memoria: el evaluador de 8B corre repartido entre CPU (64 %) y GPU (36 %); el generador y `bge-m3` se reemplazan en la VRAM entre etapas.
+
+## Repetición completa tras corregir los metadatos (v2, 2026-11-17)
+
+Tras corregir el nombre de producto de 8 fichas AkzoNobel (ver erificacion/errores_extraccion.md, hallazgo 16) se reconstruyó el índice (246 s) y se repitió la evaluación (`scripts/correr_evaluacion.ps1`):
+
+| Etapa | Tiempo |
+|---|---|
+| Generar respuestas (12 preguntas × 2 configuraciones) | 12.3 min |
+| Puntuar con RAGAS, top-k 3 | 17.5 min (1 048 s) |
+| Puntuar con RAGAS, top-k 6 | 34.6 min (2 078 s) |
+| **Total** | **64.7 min** |
+
+Generación media por pregunta: top-k 3 ? 21.1 s; top-k 6 ? 25.2 s. Costo en AWS: 0 (la EC2 sigue detenida).
+

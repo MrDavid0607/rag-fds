@@ -1,0 +1,22 @@
+[
+  {
+    "verdict": 1,
+    "statement": "The storage time in the 2019 version is 36 months.",
+    "reason": "The context explicitly mentions that the storage time in the 2019 version is 36 months."
+  },
+  {
+    "verdict": 1,
+    "statement": "The storage time in the 2021 version is 12 months.",
+    "reason": "The context explicitly mentions that the storage time in the 2021 version is 12 months."
+  },
+  {
+    "verdict": 1,
+    "statement": "The density at 20 degrees Celsius in the 2021 version is 1377.5 kg/m^3.",
+    "reason": "The context explicitly mentions that the density at 20 degrees Celsius in the 2021 version is 1377.5 kg/m^3."
+  },
+  {
+    "verdict": 0,
+    "statement": "The density at 20 degrees Celsius is not mentioned in the 2019 version.",
+    "reason": "The context does not mention the density at 20 degrees Celsius in the 2019 version, but it does mention that the density at 20 degrees Celsius in the 2021 version is 1377.5 kg/m^3. However, it does not explicitly state that the density is not mentioned in the 2019 version."
+  }
+]

@@ -34,23 +34,23 @@ Fragmentos recuperados: [1] fds057-acrolatex-50-3508-pintuco · pág. 1 · secci
 
 **Comportamiento esperado:** Reconocer que no hay evidencia suficiente: el Intergard 475HS no está entre las 101 fichas del corpus (hay otros productos de International/AkzoNobel, pero no ese). No debe atribuirle los primeros auxilios de otro producto.
 
-**topk3 (top-k 3)** — el sistema NO dijo que no hay evidencia
+**topk3 (top-k 3)** — el sistema SÍ dijo que no hay evidencia
 
-> Según la ficha del Intergard 475HS de International [1], en caso de inhalación se debe enjuagar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno.
+> No hay evidencia suficiente en las FDS disponibles para el Intergard 475HS de International, ya que los fragmentos proporcionados corresponden a otros productos de AkzoNobel.
 
-Fragmentos recuperados: [1] fds084-zinc-primer-10844-gris-parte-a-international-aksonobel · pág. 2 · sección 4; [2] fds082-acrilica-mantenimiento-13883-blanco-ral9003-brillante-intern · pág. 2 · sección 4; [3] fds095-international-aksonobel-sealer-f100-parte-a · pág. 3 · sección 4
+Fragmentos recuperados: [1] fds080-topcoat-400-1793-blanco-international-aksonobel · pág. 3 · sección 4; [2] fds084-zinc-primer-10844-gris-parte-a-international-aksonobel · pág. 2 · sección 4; [3] fds079-pq-corrotec-premium-507-gris-pintuco-aksonobel · pág. 3 · sección 4
 
-- Fuentes que listó el sistema: [1] AkzoNobel · X International. · versión 1 · FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf · pág. 2 · sección 4 Primeros auxilios
+- Fuentes que listó el sistema: (ninguna)
 - **Revisión del autor** — ¿reconoce la falta de evidencia o inventa?  ☐ reconoce  ☐ inventa  ☐ parcial
 - Observaciones: 
 
-**topk6 (top-k 6)** — el sistema NO dijo que no hay evidencia
+**topk6 (top-k 6)** — el sistema SÍ dijo que no hay evidencia
 
-> Enjuague los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verifique si la víctima lleva lentes de contacto y en este caso, retire los lentes. Continúe enjuagando por lo menos durante 10 minutos. Procure atención médica. Transporte a la víctima al exterior y manténgala en reposo en una posición cómoda para respirar. Si se sospecha que los vapores continúan presentes, el personal encargado del rescate deberá usar una máscara adecuada o un aparato de respiración autónoma. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. [1]
+> No hay evidencia suficiente en las FDS disponibles para el Intergard 475HS de International, ya que los fragmentos proporcionados corresponden a productos diferentes de AkzoNobel.
 
-Fragmentos recuperados: [1] fds084-zinc-primer-10844-gris-parte-a-international-aksonobel · pág. 2 · sección 4; [2] fds082-acrilica-mantenimiento-13883-blanco-ral9003-brillante-intern · pág. 2 · sección 4; [3] fds095-international-aksonobel-sealer-f100-parte-a · pág. 3 · sección 4; [4] fds085-epoxy-estructuras-gris-parte-a-international-aksonobel · pág. 2 · sección 4; [5] fds098-epoxy-zinc-plus-primer-10073-plus-gris-parte-a-international · pág. 3 · sección 4; [6] fds083-epoxy-zinc-primer-10056 · pág. 2 · sección 4
+Fragmentos recuperados: [1] fds080-topcoat-400-1793-blanco-international-aksonobel · pág. 3 · sección 4; [2] fds084-zinc-primer-10844-gris-parte-a-international-aksonobel · pág. 2 · sección 4; [3] fds079-pq-corrotec-premium-507-gris-pintuco-aksonobel · pág. 3 · sección 4; [4] fds095-international-aksonobel-sealer-f100-parte-a · pág. 3 · sección 4; [5] fds081-topcoat-400-1772-negro-international-aksonobel · pág. 3 · sección 4; [6] fds096-international-aksonobel-sealer-f100-parte-b · pág. 3 · sección 4
 
-- Fuentes que listó el sistema: [1] AkzoNobel · X International. · versión 1 · FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf · pág. 2 · sección 4 Primeros auxilios
+- Fuentes que listó el sistema: (ninguna)
 - **Revisión del autor** — ¿reconoce la falta de evidencia o inventa?  ☐ reconoce  ☐ inventa  ☐ parcial
 - Observaciones: 
 

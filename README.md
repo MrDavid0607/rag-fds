@@ -116,7 +116,9 @@ Evaluación con RAGAS sobre las 10 preguntas respondibles (`eval/resumen.csv`):
 | top-k 6 | 0.867 | 1.000 | 1.000 | 10 / 10 / 9 |
 
 Un cálculo falló (Context Recall de e09 con top-k 6, `RagasOutputParserException`) y se registró como `NaN`, no como 0. **Estas puntuaciones orientan la comparación y requieren revisión manual; con 12 preguntas el conjunto
-permite una comparación didáctica, no demuestra que una configuración sea mejor en general.** Análisis completo, errores por causa y configuración elegida (top-k 6): `eval/analisis_resultados.md`. Fallo importante: e12 (producto inexistente) **inventa** en ambas configuraciones.
+permite una comparación didáctica, no demuestra que una configuración sea mejor en general.** Análisis completo, errores por causa y configuración elegida (top-k 6): `eval/analisis_resultados.md`.
+
+**Dos versiones de la evaluación.** v1 detectó que 8 fichas AkzoNobel tenían el nombre de producto mal extraído («X International.») y que e12 (producto inexistente) **inventaba** en ambas configuraciones. Se corrigieron los metadatos, se reconstruyó el índice y se repitió la evaluación (v2): las 11 preguntas restantes recuperaron lo mismo y las 30 puntuaciones salieron idénticas; solo e12 pasó a reconocer la falta de evidencia (resultado frágil, ver el análisis). La tabla de arriba es v2 (idéntica a v1); los datos de v1 están en `eval/v1_antes_correccion_metadatos/`.
 
 ## 6. Hardware, tiempos y costo
 
@@ -126,7 +128,7 @@ permite una comparación didáctica, no demuestra que una configuración sea mej
 | Extracción de las 101 fichas | ≈ 40 min (1.76 s/página), RAM pico ≈ 6.5 GB |
 | Índice (6 483 fragmentos) | 272 s |
 | Respuesta del RAG | ≈ 27 s (top-k 3) / 33 s (top-k 6), de ellos ≈ 7 s de recarga de `bge-m3` en la GPU |
-| Evaluación RAGAS | ≈ 90 min en total (generación 12 min, puntuación 19 + 36 min, reintento fallido 22 min) |
+| Evaluación RAGAS | v1 ≈ 90 min (generación 12 min, puntuación 19 + 36 min, reintento fallido 22 min); v2 (repetición completa) 65 min (generación 12 min, puntuación 17.5 + 34.6 min) |
 | AWS | `r5.large` ≈ US$ 0.126/h (tarifa de lista) usada solo durante las pruebas de la Fase 1; **detenida**. Costo estimado menor a US$ 1 del presupuesto del Learner Lab |
 
 Detalle en `metricas/hardware.md`, `metricas/extraccion_resumen.md`, `metricas/rag_latencia.md` y `metricas/evaluacion_consumo.md`.
@@ -138,9 +140,9 @@ Detalle en `metricas/hardware.md`, `metricas/extraccion_resumen.md`, `metricas/r
 | Docling descarta encabezados y pies de página (donde muchas FDS ponen versión y fecha) | La versión y la fecha se buscan en el texto crudo del PDF; si no aparecen, quedan vacías |
 | FDS tipo formulario: etiquetas y valores separados en el Markdown | Documentado; las preguntas de evaluación usan datos literales; el prompt avisa al generador |
 | El OCR lee texto, no interpreta **pictogramas** GHS (llegó a leer íconos como ideogramas en 6 tablas) | Imágenes conservadas con página y sección; los ideogramas se eliminan al construir los fragmentos; el significado solo se usa si el texto lo dice |
-| 8 fichas AkzoNobel con `producto` mal extraído («X International.») | **Defecto conocido, sin corregir** para no invalidar la evaluación (`eval/analisis_resultados.md` §3.B) |
+| 8 fichas AkzoNobel con `producto` mal extraído («X International.») | **Corregido** el 2026-11-17 (solo cambiaron esos 8 nombres); índice reconstruido y evaluación repetida (v2) |
 | Un generador de 7 B puede omitir datos, rechazar de más o citar fichas de otro producto | Prompt simplificado y fijo, citas generadas por el código, revisión manual de las citas |
-| Pregunta por un producto inexistente (e12): el sistema inventa | Aviso solo cuando existe un producto parecido; mejora propuesta en el análisis |
+| Pregunta por un producto inexistente (e12): en v1 el sistema inventaba; en v2 reconoce la falta de evidencia, pero porque el generador ve los nombres correctos en los encabezados | El filtro por producto y el aviso de «variante sin ficha» siguen sin activarse en ese caso; mejora propuesta en el análisis |
 | Evaluador local de 8 B con ruido (no determinista, JSON inválido ocasional, Context Precision siempre 1.00) | Se reportan fallos como `NaN`, el número de casos válidos y la revisión manual |
 | 15 fichas sin fabricante en el contenido | Se dejan vacías (no se infiere desde el nombre de archivo) |
 

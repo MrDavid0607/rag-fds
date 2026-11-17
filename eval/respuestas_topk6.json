@@ -83,9 +83,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.398,
-    "t_generacion_s": 20.33,
-    "tokens_por_s": 9.06,
+    "t_recuperacion_s": 7.235,
+    "t_generacion_s": 21.45,
+    "tokens_por_s": 7.63,
     "tokens_prompt": 2066,
     "tokens_generados": 40
   },
@@ -177,9 +177,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.112,
-    "t_generacion_s": 23.86,
-    "tokens_por_s": 8.74,
+    "t_recuperacion_s": 7.246,
+    "t_generacion_s": 25.96,
+    "tokens_por_s": 7.99,
     "tokens_prompt": 1850,
     "tokens_generados": 76
   },
@@ -267,9 +267,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.143,
-    "t_generacion_s": 18.0,
-    "tokens_por_s": 9.73,
+    "t_recuperacion_s": 7.066,
+    "t_generacion_s": 18.99,
+    "tokens_por_s": 9.24,
     "tokens_prompt": 1885,
     "tokens_generados": 29
   },
@@ -357,9 +357,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 6.564,
-    "t_generacion_s": 21.55,
-    "tokens_por_s": 9.16,
+    "t_recuperacion_s": 7.039,
+    "t_generacion_s": 21.96,
+    "tokens_por_s": 8.58,
     "tokens_prompt": 1941,
     "tokens_generados": 57
   },
@@ -445,9 +445,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.018,
-    "t_generacion_s": 19.9,
-    "tokens_por_s": 9.25,
+    "t_recuperacion_s": 7.907,
+    "t_generacion_s": 22.26,
+    "tokens_por_s": 7.53,
     "tokens_prompt": 1977,
     "tokens_generados": 46
   },
@@ -535,9 +535,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.355,
-    "t_generacion_s": 19.44,
-    "tokens_por_s": 9.84,
+    "t_recuperacion_s": 10.051,
+    "t_generacion_s": 20.31,
+    "tokens_por_s": 9.37,
     "tokens_prompt": 1488,
     "tokens_generados": 49
   },
@@ -633,9 +633,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.093,
-    "t_generacion_s": 29.83,
-    "tokens_por_s": 7.96,
+    "t_recuperacion_s": 7.211,
+    "t_generacion_s": 32.33,
+    "tokens_por_s": 7.62,
     "tokens_prompt": 2428,
     "tokens_generados": 112
   },
@@ -726,9 +726,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.265,
-    "t_generacion_s": 35.17,
-    "tokens_por_s": 7.91,
+    "t_recuperacion_s": 8.921,
+    "t_generacion_s": 36.09,
+    "tokens_por_s": 7.58,
     "tokens_prompt": 2199,
     "tokens_generados": 151
   },
@@ -831,9 +831,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.612,
-    "t_generacion_s": 25.44,
-    "tokens_por_s": 8.26,
+    "t_recuperacion_s": 7.253,
+    "t_generacion_s": 28.8,
+    "tokens_por_s": 7.13,
     "tokens_prompt": 1988,
     "tokens_generados": 84
   },
@@ -923,9 +923,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.01,
-    "t_generacion_s": 29.26,
-    "tokens_por_s": 7.92,
+    "t_recuperacion_s": 7.726,
+    "t_generacion_s": 30.54,
+    "tokens_por_s": 7.5,
     "tokens_prompt": 2129,
     "tokens_generados": 110
   },
@@ -1009,9 +1009,9 @@
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 6.117,
-    "t_generacion_s": 20.96,
-    "tokens_por_s": 8.55,
+    "t_recuperacion_s": 7.819,
+    "t_generacion_s": 22.93,
+    "tokens_por_s": 9.17,
     "tokens_prompt": 1913,
     "tokens_generados": 47
   },
@@ -1022,64 +1022,62 @@
     "top_k": 6,
     "user_input": "¿Qué indica la ficha del Intergard 475HS de International sobre los primeros auxilios en caso de inhalación?",
     "reference": null,
-    "response": "Enjuague los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verifique si la víctima lleva lentes de contacto y en este caso, retire los lentes. Continúe enjuagando por lo menos durante 10 minutos. Procure atención médica. Transporte a la víctima al exterior y manténgala en reposo en una posición cómoda para respirar. Si se sospecha que los vapores continúan presentes, el personal encargado del rescate deberá usar una máscara adecuada o un aparato de respiración autónoma. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. [1]",
+    "response": "No hay evidencia suficiente en las FDS disponibles para el Intergard 475HS de International, ya que los fragmentos proporcionados corresponden a productos diferentes de AkzoNobel.",
     "retrieved_contexts": [
-      "[AkzoNobel · X International. · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si se sospecha que los vapores continúan presentes, la persona encargada del rescate deberá usar una máscara adecuada o un aparato de respiración autónoma. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno.",
-      "[AkzoNobel · X International. · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. Puede ser peligroso para la persona que proporcione ayuda al dar respiración boca a boca. Procurar atención médica.",
-      "[AkzoNobel · X International. · versión 1 · FDS 2025 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación Contacto con la piel Ingestión : : : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. Puede ser peligroso para la persona que proporcione ayuda al dar respiración boca a boca. Procurar atención médica.",
-      "[AkzoNobel · X International. · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación : : Obtenga atención médica inmediatamente. Llamar a un centro de información toxicológica o a un médico. Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Las quemaduras químicas se deben tratar inmediatamente por un médico. Obtenga atención médica inmediatamente. Llamar a un centro de información toxicológica o a un médico. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar.",
-      "[AkzoNobel · International. X · versión 2 · FDS 2025 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación Contacto con la piel Ingestión : : : : Lave abundantemente con agua por lo menos durante 15 minutos, levantando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Procurar atención médica. Consiga atención médica si persisten los efectos de salud adversos o son severos. En caso necesario, llamar a un centro de información toxicológica o a un médico. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno.",
-      "[AkzoNobel · X International. · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación Contacto con la piel Ingestión : : : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Buscar atención médica si se produce una irritación. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Lave con agua abundante la piel contaminada. Quítese la ropa y calzado contaminados. Busque atención médica si se presentan síntomas. Lave la boca con agua. Si se ha ingerido material y la persona expuesta está consciente, suminístrele pequeñas cantidades de agua para beber."
+      "[AkzoNobel · TOPCOAT 400 1793 BLANCO · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación Contacto con la piel Ingestión - : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. - : Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. Puede ser peligroso para la persona que proporcione ayuda al dar respiración boca a boca. Procurar atención médica.",
+      "[AkzoNobel · ZINC PRIMER 10844 GRIS PARTE A · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si se sospecha que los vapores continúan presentes, la persona encargada del rescate deberá usar una máscara adecuada o un aparato de respiración autónoma. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno.",
+      "[AkzoNobel · PQ CORROTEC PREMIUM 507 GRIS · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si se sospecha que los vapores continúan presentes, la persona encargada del rescate deberá usar una máscara adecuada o un aparato de respiración autónoma. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno.",
+      "[AkzoNobel · SEALER F100 PARTE A · versión 1 · FDS 2025 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación Contacto con la piel Ingestión : : : : Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Procurar atención médica. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar. Si no hay respiración, ésta es irregular u ocurre un paro respiratorio, el personal capacitado debe proporcionar respiración artificial u oxígeno. Puede ser peligroso para la persona que proporcione ayuda al dar respiración boca a boca. Procurar atención médica.",
+      "[AkzoNobel · TOPCOAT 400 1772 NEGRO · versión 1 · FDS 2024 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación Contacto con la piel - : Obtenga atención médica inmediatamente. Llamar a un centro de información toxicológica o a un médico. Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Las quemaduras químicas se deben tratar inmediatamente por un médico. - : Obtenga atención médica inmediatamente. Llamar a un centro de información toxicológica o a un médico. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar.",
+      "[AkzoNobel · SEALER F100 PARTE B · versión 1 · FDS 2025 · Sección 4: Primeros auxilios]\nSección 4. Primeros auxilios Descripción de los primeros auxilios necesarios Contacto con los ojos Por inhalación Contacto con la piel Ingestión : : : : Obtenga atención médica inmediatamente. Llamar a un centro de información toxicológica o a un médico. Enjuaguar los ojos inmediatamente con mucha agua, levantando de vez en cuando los párpados superior e inferior. Verificar si la víctima lleva lentes de contacto y en este caso, retirárselas. Continúe enjuagando por lo menos durante 10 minutos. Las quemaduras químicas se deben tratar inmediatamente por un médico. Obtenga atención médica inmediatamente. Llamar a un centro de información toxicológica o a un médico. Transportar a la víctima al exterior y mantenerla en reposo en una posición confortable para respirar."
     ],
     "fragmentos_meta": [
       {
+        "doc_id": "fds080-topcoat-400-1793-blanco-international-aksonobel",
+        "producto": "TOPCOAT 400 1793 BLANCO",
+        "pagina_inicio": 3,
+        "pagina_fin": 3,
+        "seccion_num": 4
+      },
+      {
         "doc_id": "fds084-zinc-primer-10844-gris-parte-a-international-aksonobel",
-        "producto": "X International.",
+        "producto": "ZINC PRIMER 10844 GRIS PARTE A",
         "pagina_inicio": 2,
         "pagina_fin": 2,
         "seccion_num": 4
       },
       {
-        "doc_id": "fds082-acrilica-mantenimiento-13883-blanco-ral9003-brillante-intern",
-        "producto": "X International.",
-        "pagina_inicio": 2,
-        "pagina_fin": 2,
+        "doc_id": "fds079-pq-corrotec-premium-507-gris-pintuco-aksonobel",
+        "producto": "PQ CORROTEC PREMIUM 507 GRIS",
+        "pagina_inicio": 3,
+        "pagina_fin": 3,
         "seccion_num": 4
       },
       {
         "doc_id": "fds095-international-aksonobel-sealer-f100-parte-a",
-        "producto": "X International.",
+        "producto": "SEALER F100 PARTE A",
         "pagina_inicio": 3,
         "pagina_fin": 3,
         "seccion_num": 4
       },
       {
-        "doc_id": "fds085-epoxy-estructuras-gris-parte-a-international-aksonobel",
-        "producto": "X International.",
-        "pagina_inicio": 2,
-        "pagina_fin": 2,
-        "seccion_num": 4
-      },
-      {
-        "doc_id": "fds098-epoxy-zinc-plus-primer-10073-plus-gris-parte-a-international",
-        "producto": "International. X",
+        "doc_id": "fds081-topcoat-400-1772-negro-international-aksonobel",
+        "producto": "TOPCOAT 400 1772 NEGRO",
         "pagina_inicio": 3,
         "pagina_fin": 3,
         "seccion_num": 4
       },
       {
-        "doc_id": "fds083-epoxy-zinc-primer-10056",
-        "producto": "X International.",
-        "pagina_inicio": 2,
-        "pagina_fin": 2,
+        "doc_id": "fds096-international-aksonobel-sealer-f100-parte-b",
+        "producto": "SEALER F100 PARTE B",
+        "pagina_inicio": 3,
+        "pagina_fin": 3,
         "seccion_num": 4
       }
     ],
-    "fuentes": [
-      "[1] AkzoNobel · X International. · versión 1 · FDS 84 - ZINC PRIMER 10844 GRIS PARTE A - INTERNATIONAL - AKSONOBEL.pdf · pág. 2 · sección 4 Primeros auxilios"
-    ],
+    "fuentes": [],
     "citas_invalidas": [],
-    "evidencia_insuficiente": false,
+    "evidencia_insuficiente": true,
     "filtros": {
       "fabricantes": [
         "AkzoNobel"
@@ -1088,29 +1086,17 @@
       "secciones_probables": [
         4
       ],
-      "productos": [
-        "International. X",
-        "X International."
-      ],
-      "docs": [
-        "fds082-acrilica-mantenimiento-13883-blanco-ral9003-brillante-intern",
-        "fds083-epoxy-zinc-primer-10056",
-        "fds084-zinc-primer-10844-gris-parte-a-international-aksonobel",
-        "fds085-epoxy-estructuras-gris-parte-a-international-aksonobel",
-        "fds095-international-aksonobel-sealer-f100-parte-a",
-        "fds096-international-aksonobel-sealer-f100-parte-b",
-        "fds098-epoxy-zinc-plus-primer-10073-plus-gris-parte-a-international",
-        "fds099-topcoat-400-26015-aluminio-international-aksonobel"
-      ],
+      "productos": [],
+      "docs": [],
       "comparacion": false,
       "grupos": 1,
       "notas": [],
       "variantes_sin_ficha": []
     },
-    "t_recuperacion_s": 7.595,
-    "t_generacion_s": 37.79,
-    "tokens_por_s": 7.94,
-    "tokens_prompt": 2010,
-    "tokens_generados": 179
+    "t_recuperacion_s": 7.242,
+    "t_generacion_s": 21.18,
+    "tokens_por_s": 8.22,
+    "tokens_prompt": 2088,
+    "tokens_generados": 43
   }
 ]
