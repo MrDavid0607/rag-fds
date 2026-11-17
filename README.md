@@ -16,7 +16,7 @@ pinturas, con modelos open source locales (Ollama) y evaluación con RAGAS.
 - [x] Fase 2 — Extracción PDF → Markdown (101 fichas)
 - [~] Fase 3 — Secciones y verificación de la extracción (falta la revisión manual del autor)
 - [~] Fase 4 — Sistema RAG con trazabilidad (funcional; falta que el autor valide las citas de la demo, ver `docs/rag_diseno.md`)
-- [ ] Fase 5 — Conjunto de evaluación
+- [~] Fase 5 — Conjunto de evaluación (borrador de 12 preguntas; falta la verificación del autor, ver `eval/revision_preguntas/index.html`)
 - [ ] Fase 6 — Evaluación con RAGAS
 - [ ] Fase 7 — Revisión manual y análisis
 - [ ] Fase 8 — Documentación, informe y cierre
@@ -24,4 +24,5 @@ pinturas, con modelos open source locales (Ollama) y evaluación con RAGAS.
 ## Uso de herramientas de IA
 
 Se usó Claude Code como apoyo. Los autores verifican y pueden explicar el código y las decisiones.
+
 

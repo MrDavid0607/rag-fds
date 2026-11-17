@@ -1,0 +1,175 @@
+{
+  "descripcion": "Conjunto FIJO de 12 preguntas de evaluación (6 directas, 4 integradoras/comparativas, 2 sin respuesta en el corpus). BORRADOR del asistente: cada referencia debe ser verificada por el autor contra el PDF original y marcada con \"verificada\": true. Sin esa marca la pregunta NO se evalúa. Estas referencias viven solo en eval/: el índice, el chunking y el prompt del generador nunca las leen.",
+  "reglas": {
+    "nota_verificacion": "El asistente copió los fragmentos de evidencia del texto del PDF y comprobó automáticamente que existen en la página indicada (python -m rag_fds.validar_preguntas). Eso NO sustituye la verificación humana del autor.",
+    "preguntas_de_desarrollo": "Distintas: ver eval/preguntas_desarrollo.json"
+  },
+  "preguntas": [
+    {
+      "id": "e01",
+      "tipo": "directa",
+      "pregunta": "¿Qué densidad a 20 ºC tiene el Acrolatex 50 3508 de Pintuco?",
+      "secciones": [9],
+      "productos": [{"doc_id": "fds057-acrolatex-50-3508-pintuco", "producto": "ACROLATEX 50 3508", "fabricante": "Pintuco", "anio": "2022"}],
+      "respuesta_referencia": "La densidad a 20 ºC del Acrolatex 50 3508 es 1100 kg/m³ (densidad relativa a 20 ºC: 1,1).",
+      "evidencia": [
+        {"doc_id": "fds057-acrolatex-50-3508-pintuco", "documento": "FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf", "pagina": 5, "seccion": "9 Propiedades físicas y químicas", "fragmento": "Densidad a 20 ºC: 1100 kg/m³"},
+        {"doc_id": "fds057-acrolatex-50-3508-pintuco", "documento": "FDS 57 - ACROLATEX 50 3508 - PINTUCO.pdf", "pagina": 5, "seccion": "9 Propiedades físicas y químicas", "fragmento": "Densidad relativa a 20 ºC: 1,1"}
+      ],
+      "verificada": false
+    },
+    {
+      "id": "e02",
+      "tipo": "directa",
+      "pregunta": "¿Qué número ONU, clase y grupo de embalaje se indican para el transporte del Esmalte Epóxico Part A de Sika?",
+      "secciones": [14],
+      "productos": [{"doc_id": "fds087-esmalte-epoxico-part-a-sika", "producto": "Esmalte Epóxico Part A", "fabricante": "Sika", "anio": "2024"}],
+      "respuesta_referencia": "Número ONU UN 1263, clase 3 y grupo de embalaje III.",
+      "nota_extraccion": "Ficha tipo formulario: en el Markdown las etiquetas (Número ONU, Clase, Grupo de embalaje) quedan separadas de sus valores (': UN 1263', ': 3', ': III'). El dato está pero no como frase literal; es un caso difícil para la recuperación y el generador (limitación 2 de errores_extraccion.md).",
+      "evidencia": [
+        {"doc_id": "fds087-esmalte-epoxico-part-a-sika", "documento": "FDS 87 - Esmalte Epóxico Part A - SIKA.pdf", "pagina": 10, "seccion": "14 Información relativa al transporte", "fragmento": "Número ONU : UN 1263"},
+        {"doc_id": "fds087-esmalte-epoxico-part-a-sika", "documento": "FDS 87 - Esmalte Epóxico Part A - SIKA.pdf", "pagina": 10, "seccion": "14 Información relativa al transporte", "fragmento": "Clase : 3"},
+        {"doc_id": "fds087-esmalte-epoxico-part-a-sika", "documento": "FDS 87 - Esmalte Epóxico Part A - SIKA.pdf", "pagina": 10, "seccion": "14 Información relativa al transporte", "fragmento": "Grupo de embalaje : III"}
+      ],
+      "verificada": false
+    },
+    {
+      "id": "e03",
+      "tipo": "directa",
+      "pregunta": "¿Entre qué temperaturas mínima y máxima debe almacenarse el Esmalte Maestro de Bler?",
+      "secciones": [7],
+      "productos": [{"doc_id": "fds100-esmalte-maestro-bler", "producto": "ESMALTE MAESTRO", "fabricante": "Bler", "anio": "2025"}],
+      "respuesta_referencia": "Se debe almacenar con una temperatura mínima de 4 ºC y una máxima de 35 ºC.",
+      "evidencia": [
+        {"doc_id": "fds100-esmalte-maestro-bler", "documento": "FDS 100 - Esmalte maestro. Bler.pdf", "pagina": 4, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Temperatura mínima: 4 ºC"},
+        {"doc_id": "fds100-esmalte-maestro-bler", "documento": "FDS 100 - Esmalte maestro. Bler.pdf", "pagina": 4, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Temperatura máxima: 35 ºC"}
+      ],
+      "verificada": false
+    },
+    {
+      "id": "e04",
+      "tipo": "directa",
+      "pregunta": "¿Qué porcentaje de dióxido de titanio contiene el Sigmadur One Buff 3142 de PPG y cuál es su número CAS?",
+      "secciones": [3],
+      "productos": [{"doc_id": "fds065-sigmadur-one-buff-3142-ppg", "producto": "SIGMADUR ONE BUFF 3142", "fabricante": "PPG", "anio": "2022"}],
+      "respuesta_referencia": "El Sigmadur One Buff 3142 contiene dióxido de titanio en una concentración de 7 - <10 % y su número CAS es 13463-67-7.",
+      "evidencia": [
+        {"doc_id": "fds065-sigmadur-one-buff-3142-ppg", "documento": "FDS 65 - SIGMADUR ONE BUFF 3142 - PPG.pdf", "pagina": 3, "seccion": "3 Composición / información sobre los componentes", "fragmento": "Dióxido de titanio 7 - <10 13463-67-7"}
+      ],
+      "verificada": false
+    },
+    {
+      "id": "e05",
+      "tipo": "directa",
+      "pregunta": "Según la ficha del Vinilo Superlavable Blanco de Pintuland, ¿cómo debe gestionarse un envase que estuvo en contacto directo con el producto?",
+      "secciones": [13],
+      "productos": [{"doc_id": "fds077-vinilo-superlavable-blanco-pintuland", "producto": "50730001 - VINILO SUPERLAVABLE BLANCO", "fabricante": "Pintuland", "anio": "2023"}],
+      "respuesta_referencia": "Si el envase estuvo en contacto directo con el producto, se gestiona del mismo modo que el propio producto; en caso contrario se gestiona como residuo no peligroso.",
+      "evidencia": [
+        {"doc_id": "fds077-vinilo-superlavable-blanco-pintuland", "documento": "FDS 77 - VINILO SUPERLAVABLE BLANCO - PINTULAND.pdf", "pagina": 9, "seccion": "13 Consideraciones relativas a la eliminación", "fragmento": "En el caso de que el envase haya estado en contacto directo con el producto se gestionará del mismo modo que el propio producto, en caso contrario se gestionará como residuo no peligroso."}
+      ],
+      "verificada": false
+    },
+    {
+      "id": "e06",
+      "tipo": "directa",
+      "pregunta": "¿Qué guantes de protección recomienda la ficha del Esmalte Metal Master Premium de Corona (material, tiempo de penetración y espesor)?",
+      "secciones": [8],
+      "productos": [{"doc_id": "fds094-esmalte-metal-master-premium-corona", "producto": "ESMALTE METAL MASTER PREMIUM", "fabricante": "Corona", "anio": "2025"}],
+      "respuesta_referencia": "Guantes de protección química de nitrilo, con un tiempo de penetración mayor a 480 min y un espesor de 0,4 mm.",
+      "evidencia": [
+        {"doc_id": "fds094-esmalte-metal-master-premium-corona", "documento": "FDS 94 - ESMALTE METAL MASTER PREMIUM - CORONA.pdf", "pagina": 5, "seccion": "8 Controles de exposición / protección personal", "fragmento": "Guantes de protección química (Material: Nitrilo, Tiempo de penetración: > 480 min, Espesor: 0,4 mm)"}
+      ],
+      "verificada": false
+    },
+    {
+      "id": "e07",
+      "tipo": "comparativa_versiones",
+      "pregunta": "Compara la ficha de 2019 y la de 2021 de la Pintura Primera Mano & Acabado de Corona: ¿cómo cambian el tiempo máximo de almacenamiento y la densidad a 20 ºC?",
+      "secciones": [7, 9],
+      "productos": [
+        {"doc_id": "fds029-pintura-primera-mano-acabado-corona", "producto": "PINTURA PRIMERA MANO & ACABADO", "fabricante": "Corona", "anio": "2019", "version": "1"},
+        {"doc_id": "fds043-pintura-primera-mano-acabado-corona", "producto": "PINTURA PRIMERA MANO & ACABADO", "fabricante": "Corona", "anio": "2021", "version": "3 (sustituye a 2)"}
+      ],
+      "respuesta_referencia": "En la ficha de 2019 (versión 1, emisión 05/06/2019) el tiempo máximo de almacenamiento es de 36 meses y la densidad a 20 ºC es 1371,4 kg/m³ (relativa 1,371). En la ficha de 2021 (versión 3, que sustituye a la 2; revisión 24/11/2021) el tiempo máximo es de 12 meses y la densidad es 1377,5 kg/m³ (relativa 1,377). Es decir, el tiempo máximo de almacenamiento bajó de 36 a 12 meses y la densidad aumentó ligeramente.",
+      "evidencia": [
+        {"doc_id": "fds029-pintura-primera-mano-acabado-corona", "documento": "FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Tiempo máximo: 36 meses"},
+        {"doc_id": "fds029-pintura-primera-mano-acabado-corona", "documento": "FDS 29 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf", "pagina": 5, "seccion": "9 Propiedades físicas y químicas", "fragmento": "Densidad a 20 ºC: 1371,4 kg/m³"},
+        {"doc_id": "fds043-pintura-primera-mano-acabado-corona", "documento": "FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Tiempo máximo: 12 meses"},
+        {"doc_id": "fds043-pintura-primera-mano-acabado-corona", "documento": "FDS 43 - PINTURA PRIMERA MANO & ACABADO - CORONA .pdf", "pagina": 5, "seccion": "9 Propiedades físicas y químicas", "fragmento": "Densidad a 20 ºC: 1377,5 kg/m³"}
+      ],
+      "verificada": false
+    },
+    {
+      "id": "e08",
+      "tipo": "integradora_dos_secciones",
+      "pregunta": "¿Qué clasificación de líquido inflamable y qué frase de peligro tiene la Pintulaca Blanco 7519 de Pintuco, y qué medios de extinción recomienda o desaconseja?",
+      "secciones": [2, 5],
+      "productos": [{"doc_id": "fds032-pintulaca-blanco-7519-pintuco", "producto": "PINTULACA BLANCO 7519", "fabricante": "Pintuco", "anio": "2019"}],
+      "respuesta_referencia": "Está clasificada como líquido inflamable categoría 2 (Liq. Infl. 2, H225: líquido y vapores muy inflamables). Para extinguir el fuego se recomiendan preferentemente extintores de polvo polivalente (polvo ABC) o, alternativamente, espuma física o extintores de dióxido de carbono (CO2); NO se recomienda emplear agua a chorro.",
+      "evidencia": [
+        {"doc_id": "fds032-pintulaca-blanco-7519-pintuco", "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf", "pagina": 1, "seccion": "2 Identificación de peligros", "fragmento": "Liq. Infl. 2: H225 - Líquido y vapores muy inflamables"},
+        {"doc_id": "fds032-pintulaca-blanco-7519-pintuco", "documento": "FDS 32 - PINTULACA BLANCO 7519 - PINTUCO.pdf", "pagina": 3, "seccion": "5 Medidas de lucha contra incendios", "fragmento": "Emplear preferentemente extintores de polvo polivalente (polvo ABC), alternativamente utilizar espuma física o extintores de dióxido de carbono (CO2). NO SE RECOMIENDA emplear agua a chorro como agente de extinción."}
+      ],
+      "verificada": false
+    },
+    {
+      "id": "e09",
+      "tipo": "comparativa_productos",
+      "pregunta": "Compara la Pintulaca Rojo Claro 7587 y el Esmalte Top Quality Negro 1772 de Pintuco: ¿cuál está clasificado por toxicidad para la reproducción y qué categoría de líquido inflamable tiene cada uno?",
+      "secciones": [2],
+      "productos": [
+        {"doc_id": "fds034-pintulaca-rojo-claro-7587-pintuco", "producto": "PINTULACA ROJO CLARO 7587", "fabricante": "Pintuco", "anio": "2019"},
+        {"doc_id": "fds035-esmalte-top-quality-negro-1772-pintuco", "producto": "ESMALTE TOP QUALITY NEGRO 1772", "fabricante": "Pintuco", "anio": "2019"}
+      ],
+      "respuesta_referencia": "La Pintulaca Rojo Claro 7587 está clasificada como tóxica para la reproducción categoría 1A (Repr. 1A, H360: puede perjudicar la fertilidad o dañar al feto) y como líquido inflamable categoría 2 (H225). El Esmalte Top Quality Negro 1772 no tiene clasificación de toxicidad para la reproducción en su sección 2 y es líquido inflamable categoría 3 (Liq. Infl. 3, H226: líquido y vapores inflamables).",
+      "evidencia": [
+        {"doc_id": "fds034-pintulaca-rojo-claro-7587-pintuco", "documento": "FDS 34 - PINTULACA ROJO CLARO 7587 - PINTUCO .pdf", "pagina": 1, "seccion": "2 Identificación de peligros", "fragmento": "Repr. 1A: H360 - Puede perjudicar la fertilidad o dañar al feto"},
+        {"doc_id": "fds034-pintulaca-rojo-claro-7587-pintuco", "documento": "FDS 34 - PINTULACA ROJO CLARO 7587 - PINTUCO .pdf", "pagina": 1, "seccion": "2 Identificación de peligros", "fragmento": "Liq. Infl. 2: H225 - Líquido y vapores muy inflamables"},
+        {"doc_id": "fds035-esmalte-top-quality-negro-1772-pintuco", "documento": "FDS 35- ESMALTE TOP QUALITY NEGRO 1772 - PINTUCO .pdf", "pagina": 1, "seccion": "2 Identificación de peligros", "fragmento": "Liq. Infl. 3: H226 - Líquido y vapores inflamables"}
+      ],
+      "notas": "La ausencia de 'Repr.' en la ficha 35 la debe confirmar el autor leyendo toda la clasificación de la sección 2 (página 1): Acuático crónico 3, Irrit. Cut. 2, Liq. Infl. 3, Sens. Cut. 1A, STOT única 3.",
+      "verificada": false
+    },
+    {
+      "id": "e10",
+      "tipo": "integradora_dos_secciones",
+      "pregunta": "Para el Asepsia Ultra Acril Uretano Blanco de Pintuco, ¿qué indica la ficha que se haga en caso de ingestión y entre qué temperaturas y por cuánto tiempo máximo debe almacenarse?",
+      "secciones": [4, 7],
+      "productos": [{"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "producto": "ASEPSIA ULTRA ACRIL URETANO BLANCO", "fabricante": "Pintuco", "anio": "2022"}],
+      "nota_extraccion": "En el Markdown las etiquetas 'Temperatura mínima:' y 'Temperatura máxima:' quedan en líneas consecutivas y sus valores ('5 ºC', '30 ºC') en las siguientes, sin estar pegados a su etiqueta. El orden permite emparejarlos, pero no es literal.",
+      "respuesta_referencia": "En caso de ingestión/aspiración: no inducir al vómito (si se produce, mantener la cabeza inclinada hacia delante para evitar la aspiración), mantener al afectado en reposo y enjuagar la boca y la garganta; además, solicitar asistencia médica mostrando la FDS. Almacenamiento: temperatura mínima 5 ºC, máxima 30 ºC y tiempo máximo de 12 meses.",
+      "evidencia": [
+        {"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "documento": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf", "pagina": 2, "seccion": "4 Primeros auxilios", "fragmento": "No inducir al vómito, en el caso de que se produzca mantener inclinada la cabeza hacia delante para evitar la aspiración. Mantener al afectado en reposo. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en la ingestión."},
+        {"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "documento": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Temperatura mínima: 5 ºC"},
+        {"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "documento": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Temperatura máxima: 30 ºC"},
+        {"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "documento": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Tiempo máximo: 12 meses"}
+      ],
+      "verificada": false
+    },
+    {
+      "id": "e11",
+      "tipo": "sin_respuesta",
+      "pregunta": "¿Cuál es el rendimiento teórico, en m² por galón, del Acrolatex 50 3508 de Pintuco?",
+      "secciones": [],
+      "productos": [{"doc_id": "fds057-acrolatex-50-3508-pintuco", "producto": "ACROLATEX 50 3508", "fabricante": "Pintuco", "anio": "2022"}],
+      "respuesta_referencia": null,
+      "comportamiento_esperado": "Reconocer que no hay evidencia suficiente: la FDS del Acrolatex 50 3508 (producto sí presente en el corpus) no informa rendimiento ni cobertura (eso se encuentra en fichas técnicas, no en FDS). No debe inventar un valor.",
+      "evidencia": [],
+      "notas": "El autor debe confirmar abriendo FDS 57 que ninguna de sus 10 páginas menciona rendimiento ni cobertura. Búsqueda automática en el texto crudo de los 101 PDF: sin coincidencias en FDS 57. Sí aparecen esas palabras en otras fichas (FDS 1, 13 y 75, p. ej. 'ALTA COBERTURA' en un nombre): una respuesta que use datos de esas fichas para el Acrolatex sería un error.",
+      "verificada": false
+    },
+    {
+      "id": "e12",
+      "tipo": "sin_respuesta",
+      "pregunta": "¿Qué indica la ficha del Intergard 475HS de International sobre los primeros auxilios en caso de inhalación?",
+      "secciones": [],
+      "productos": [],
+      "respuesta_referencia": null,
+      "comportamiento_esperado": "Reconocer que no hay evidencia suficiente: el Intergard 475HS no está entre las 101 fichas del corpus (hay otros productos de International/AkzoNobel, pero no ese). No debe atribuirle los primeros auxilios de otro producto.",
+      "evidencia": [],
+      "notas": "El autor debe confirmar que ninguna de las 101 fichas es del Intergard 475HS. Búsqueda automática de 'intergard' y '475HS' en el texto crudo de los 101 PDF: sin coincidencias.",
+      "verificada": false
+    }
+  ]
+}
