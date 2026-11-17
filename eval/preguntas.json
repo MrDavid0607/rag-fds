@@ -21,15 +21,15 @@
     {
       "id": "e02",
       "tipo": "directa",
-      "pregunta": "¿Qué número ONU, clase y grupo de embalaje se indican para el transporte del Esmalte Epóxico Part A de Sika?",
+      "pregunta": "¿Qué número ONU, designación oficial de transporte y grupo de embalaje se indican para el Esmalte Uretano AR Comp. B de Sika?",
       "secciones": [14],
-      "productos": [{"doc_id": "fds087-esmalte-epoxico-part-a-sika", "producto": "Esmalte Epóxico Part A", "fabricante": "Sika", "anio": "2024"}],
-      "respuesta_referencia": "Número ONU UN 1263, clase 3 y grupo de embalaje III.",
-      "nota_extraccion": "Ficha tipo formulario: en el Markdown las etiquetas (Número ONU, Clase, Grupo de embalaje) quedan separadas de sus valores (': UN 1263', ': 3', ': III'). El dato está pero no como frase literal; es un caso difícil para la recuperación y el generador (limitación 2 de errores_extraccion.md).",
+      "productos": [{"doc_id": "fds022-esmalte-uretano-ar-comp-b", "producto": "Esmalte Uretano AR Comp. B", "fabricante": "Sika", "anio": "2019"}],
+      "respuesta_referencia": "Número ONU UN3082; designación oficial de transporte: sustancia líquida peligrosa para el medio ambiente, n.e.p. (contiene isocianatos); grupo de embalaje III.",
+      "nota_extraccion": "Sustituye a la versión anterior de e02 (Esmalte Epóxico Part A, FDS 87), cuyos datos quedaban con etiqueta y valor separados en el Markdown. Aquí la sección 14 es una tabla literal (ADR/RID-ADN, IMDG, IATA). Existen otras fichas Sika de 'Esmalte Uretano' (Comp. A en FDS 36; Part A/Part B en FDS 69-70): la pregunta distingue por 'Comp. B' y año 2019.",
       "evidencia": [
-        {"doc_id": "fds087-esmalte-epoxico-part-a-sika", "documento": "FDS 87 - Esmalte Epóxico Part A - SIKA.pdf", "pagina": 10, "seccion": "14 Información relativa al transporte", "fragmento": "Número ONU : UN 1263"},
-        {"doc_id": "fds087-esmalte-epoxico-part-a-sika", "documento": "FDS 87 - Esmalte Epóxico Part A - SIKA.pdf", "pagina": 10, "seccion": "14 Información relativa al transporte", "fragmento": "Clase : 3"},
-        {"doc_id": "fds087-esmalte-epoxico-part-a-sika", "documento": "FDS 87 - Esmalte Epóxico Part A - SIKA.pdf", "pagina": 10, "seccion": "14 Información relativa al transporte", "fragmento": "Grupo de embalaje : III"}
+        {"doc_id": "fds022-esmalte-uretano-ar-comp-b", "documento": "FDS 22 - Esmalte Uretano AR Comp. B.pdf", "pagina": 7, "seccion": "14 Información relativa al transporte", "fragmento": "14.1 Número ONU UN3082"},
+        {"doc_id": "fds022-esmalte-uretano-ar-comp-b", "documento": "FDS 22 - Esmalte Uretano AR Comp. B.pdf", "pagina": 7, "seccion": "14 Información relativa al transporte", "fragmento": "Sustancia líquida peligrosa para el medio ambiente, n.e.p"},
+        {"doc_id": "fds022-esmalte-uretano-ar-comp-b", "documento": "FDS 22 - Esmalte Uretano AR Comp. B.pdf", "pagina": 7, "seccion": "14 Información relativa al transporte", "fragmento": "14.4 Grupo de embalaje III"}
       ],
       "verificada": false
     },
@@ -134,16 +134,16 @@
     {
       "id": "e10",
       "tipo": "integradora_dos_secciones",
-      "pregunta": "Para el Asepsia Ultra Acril Uretano Blanco de Pintuco, ¿qué indica la ficha que se haga en caso de ingestión y entre qué temperaturas y por cuánto tiempo máximo debe almacenarse?",
+      "pregunta": "Según la ficha del Vinilo Fino Blanco de Pintuland, ¿qué se recomienda en caso de contacto con la piel y entre qué temperaturas y por cuánto tiempo máximo puede almacenarse?",
       "secciones": [4, 7],
-      "productos": [{"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "producto": "ASEPSIA ULTRA ACRIL URETANO BLANCO", "fabricante": "Pintuco", "anio": "2022"}],
-      "nota_extraccion": "En el Markdown las etiquetas 'Temperatura mínima:' y 'Temperatura máxima:' quedan en líneas consecutivas y sus valores ('5 ºC', '30 ºC') en las siguientes, sin estar pegados a su etiqueta. El orden permite emparejarlos, pero no es literal.",
-      "respuesta_referencia": "En caso de ingestión/aspiración: no inducir al vómito (si se produce, mantener la cabeza inclinada hacia delante para evitar la aspiración), mantener al afectado en reposo y enjuagar la boca y la garganta; además, solicitar asistencia médica mostrando la FDS. Almacenamiento: temperatura mínima 5 ºC, máxima 30 ºC y tiempo máximo de 12 meses.",
+      "productos": [{"doc_id": "fds090-50830001-vinilo-fino-blanco-pintuland", "producto": "50830001 - VINILO FINO BLANCO", "fabricante": "Pintuland", "anio": "2024"}],
+      "nota_extraccion": "Sustituye a la versión anterior de e10 (Asepsia Ultra Acril Uretano, FDS 62), cuyas temperaturas quedaban separadas de sus etiquetas en el Markdown. En FDS 90 los datos de 7.2 y de primeros auxilios están como frases literales. Otra ficha de Pintuland, el Vinilo Superlavable Blanco (FDS 77), usa textos parecidos; la pregunta distingue por 'Vinilo Fino'.",
+      "respuesta_referencia": "En caso de contacto con la piel (producto no clasificado como peligroso) se recomienda quitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado, si procede, con abundante agua fría y jabón neutro, y acudir al médico en caso de afección importante. Se puede almacenar con una temperatura mínima de 4 ºC y máxima de 35 ºC, durante un tiempo máximo de 24 meses.",
       "evidencia": [
-        {"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "documento": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf", "pagina": 2, "seccion": "4 Primeros auxilios", "fragmento": "No inducir al vómito, en el caso de que se produzca mantener inclinada la cabeza hacia delante para evitar la aspiración. Mantener al afectado en reposo. Enjuagar la boca y la garganta, ya que existe la posibilidad de que hayan sido afectadas en la ingestión."},
-        {"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "documento": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Temperatura mínima: 5 ºC"},
-        {"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "documento": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Temperatura máxima: 30 ºC"},
-        {"doc_id": "fds062-asepsia-ultra-acril-uretano-blanco-pintuco", "documento": "FDS 62 - ASEPSIA ULTRA ACRIL URETANO BLANCO - PINTUCO.pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Tiempo máximo: 12 meses"}
+        {"doc_id": "fds090-50830001-vinilo-fino-blanco-pintuland", "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf", "pagina": 2, "seccion": "4 Primeros auxilios", "fragmento": "se recomienda en caso de contacto con la piel quitar la ropa y los zapatos contaminados, aclarar la piel o duchar al afectado si procede con abundante agua fría y jabón neutro. En caso de afección importante acudir al médico."},
+        {"doc_id": "fds090-50830001-vinilo-fino-blanco-pintuland", "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Temperatura mínima: 4 ºC"},
+        {"doc_id": "fds090-50830001-vinilo-fino-blanco-pintuland", "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Temperatura máxima: 35 ºC"},
+        {"doc_id": "fds090-50830001-vinilo-fino-blanco-pintuland", "documento": "FDS 90 - 50830001 - VINILO FINO BLANCO - PINTULAND .pdf", "pagina": 3, "seccion": "7 Manipulación y almacenamiento (7.2)", "fragmento": "Tiempo máximo: 24 meses"}
       ],
       "verificada": false
     },
