@@ -30,7 +30,7 @@ Las FDS son documentos de sus fabricantes (Pintuco, Corona, PPG, Pintuland, INVE
 - [x] Fase 1 — Infraestructura en AWS (EC2 `r5.large` + Ollama); la inferencia se movió al PC con GPU (ver §1)
 - [x] Fase 2 — Extracción PDF → Markdown (101 fichas)
 - [x] Fase 3 — Secciones y verificación de la extracción (método mixto: comprobación automática de las 1 248 tablas + revisión asistida por IA + **verificación visual del autor en 24 fichas**: 13 coinciden y 11 con errores; ver `verificacion/errores_extraccion.md`)
-- [~] Fase 4 — RAG con trazabilidad (funcional; falta que el autor valide las citas de la demo)
+- [x] Fase 4 — RAG con trazabilidad (funcional; el autor validó contra el PDF las citas de dos consultas de la demo el 2026-11-17: medios de extinción del Topcoat 400 1793, FDS 80 pág. 4, y la comparación de la Pintura Primera Mano & Acabado, FDS 29 y 43 págs. 3 y 5; coincidieron)
 - [x] Fase 5 — 12 preguntas de evaluación (evidencia literal comprobada automáticamente contra el PDF; **verificadas por el autor el 2026-11-17**, registro exportado en `eval/verificacion_preguntas_autor.json`)
 - [x] Fase 6 — Evaluación con RAGAS (top-k 3 vs 6; v1 y v2). Las referencias se verificaron después de la corrida y el autor las aprobó sin cambios, por lo que los resultados no se repitieron
 - [x] Fase 7 — Revisión manual y análisis (revisión manual del autor de los 5 casos en `eval/revision_manual_resultados_autor.md`, contrastada con la revisión asistida por IA; hay discrepancias abiertas y el autor no marcó la correspondencia de citas salvo en un caso)

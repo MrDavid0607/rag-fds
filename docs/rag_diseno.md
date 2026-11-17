@@ -67,3 +67,15 @@ documento y el generador mezcla datos; con top-k 6 respondió bien esa pregunta.
 - La detección de producto usa el nombre extraído por `metadatos.py`; un nombre mal extraído impide el filtro (la búsqueda sigue funcionando sin filtro).
 - Las imágenes que se muestran son las de las mismas páginas del fragmento citado; no se afirma que ilustren ese texto ni se relacionan con tablas sin evidencia.
 - Con 7B y cuantización Q4 el generador puede omitir datos o mezclar versiones; por eso la revisión manual de las citas es obligatoria (Fase 7).
+
+## Validación humana de citas de la demo (2026-11-17)
+
+El autor comprobó contra los PDF las citas de dos consultas hechas en la app (top-k 6) y **coincidieron**:
+
+| Consulta | Qué se comprobó |
+|---|---|
+| Medios de extinción del Topcoat 400 1793 Blanco | FDS 80, pág. 4, sección 5: polvos químicos secos, CO₂, agua pulverizada o espuma; no usar chorro de agua |
+| Comparación de la Pintura Primera Mano & Acabado (Corona) 2019 vs 2021 | FDS 29 pág. 3 «36 meses» y pág. 5 «1371,4 kg/m³»; FDS 43 pág. 3 «12 meses» y pág. 5 «1377,5 kg/m³»; cada cita apunta a su ficha y página |
+
+Es una muestra de dos consultas; la revisión de citas de los 5 casos de la evaluación está en eval/revision_manual_resultados_autor.md.
+
