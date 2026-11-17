@@ -9,6 +9,21 @@ Sistema RAG (recuperación aumentada por generación) sobre **101 Fichas de Dato
 carpetas por año 2018-2025). Convierte los PDF a Markdown con trazabilidad de página, responde con **citas verificables** (fabricante · producto · versión ·
 documento · página · sección), avisa cuando la evidencia no alcanza y se evalúa con RAGAS usando únicamente modelos locales de Ollama. **No usa ninguna API de pago.**
 
+## Mapa rápido para el revisor
+
+| Quiero ver… | Dónde |
+|---|---|
+| Qué pide la guía y dónde está cada cosa (con estados honestos) | [`docs/cumplimiento_guia.md`](docs/cumplimiento_guia.md) |
+| El informe de 2 páginas | [`informe/informe.pdf`](informe/informe.pdf) · guion de la demostración: [`informe/guion_demo.md`](informe/guion_demo.md) |
+| Las FDS convertidas a Markdown (con página, imágenes y metadatos) | `data/processed/<doc_id>/` |
+| La verificación de la extracción y sus errores | `verificacion/` (`errores_extraccion.md`, `secciones.csv`, `verificacion_extraccion.csv`, `revision_asistida_ia.md`) |
+| Las 12 preguntas, resultados top-k 3 vs 6 y su análisis | `eval/` (`preguntas.json`, `resultados_topk{3,6}.csv`, `resumen.csv`, `analisis_resultados.md`) |
+| Cómo funciona el RAG y sus parámetros | [`docs/rag_diseno.md`](docs/rag_diseno.md) · `config/` · `src/rag_fds/` |
+| Hardware, tiempos y costo | `metricas/` |
+
+**Ejecutar solo el RAG y la demo (sin los PDF ni la extracción):** los Markdown ya están en `data/processed/`. Instala `requirements-rag.txt`, baja `bge-m3` y `qwen2.5:7b-instruct` con Ollama, y corre `python -m rag_fds.chunking && python -m rag_fds.indice` (≈ 5 min) y luego `streamlit run app/demo.py` (ver §2, pasos 4 y 5). El índice no se sube al repositorio porque se regenera.
+Las FDS son documentos de sus fabricantes (Pintuco, Corona, PPG, Pintuland, INVESA, Sika, AkzoNobel/International, Bler y otros); se usan aquí solo con fines académicos.
+
 ## Avance
 
 - [x] Fase 0 — Entorno, cuentas y plan
@@ -161,4 +176,5 @@ metricas/     hardware, tiempos y consumo               docs/          guía del
 
 Se usó **Claude Code** como apoyo para escribir código, scripts de infraestructura, documentación y análisis. Los autores deben verificar y poder explicar el código y las decisiones; las verificaciones contra los PDF (tablas, referencias,
 citas) son manuales y están registradas como tales. Las referencias de las 12 preguntas las redactó el asistente; su evidencia está comprobada **automáticamente** contra el texto del PDF y el autor las verificó el 2026-11-17 con `eval/revision_preguntas/index.html` (12 de 12 «verificada», sin observaciones; `eval/verificacion_preguntas_autor.json`). La evaluación se había corrido antes de esa verificación (con las preguntas marcadas `true` por una declaración que se retiró y luego se confirmó); como no hubo cambios, los resultados siguen vigentes. La **revisión de la extracción** y de **los casos analizados** se hizo con asistencia de IA (`verificacion/revision_asistida_ia.md`, `eval/revision_asistida_ia.md`); la columna `verificado_por_autor` y las casillas de `eval/revision_manual.md` las llena el autor y, mientras estén vacías, esa verificación humana **no está hecha**.
+
 
