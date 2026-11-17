@@ -12,7 +12,9 @@
       ],
       "ancho_px": 218,
       "alto_px": 77,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p001_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 103,
       "alto_px": 102,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p007_img01.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 102,
       "alto_px": 100,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p007_img02.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 103,
       "alto_px": 101,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p007_img03.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 102,
       "alto_px": 102,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     }
   ],
   "duplicadas_no_guardadas": []

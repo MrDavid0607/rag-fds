@@ -12,7 +12,9 @@
       ],
       "ancho_px": 216,
       "alto_px": 274,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 3,
+      "seccion_nombre": "Composición / información sobre los componentes"
     },
     {
       "archivo": "imagenes/p001_img04.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 144,
       "alto_px": 219,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 3,
+      "seccion_nombre": "Composición / información sobre los componentes"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 97,
       "alto_px": 79,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img03.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 123,
       "alto_px": 128,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p005_img02.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 55,
       "alto_px": 55,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p011_img02.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 1064,
       "alto_px": 219,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     }
   ],
   "duplicadas_no_guardadas": []

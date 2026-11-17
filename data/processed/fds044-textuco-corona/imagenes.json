@@ -12,7 +12,9 @@
       ],
       "ancho_px": 195,
       "alto_px": 49,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p001_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 76,
       "alto_px": 75,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img03.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 58,
       "alto_px": 57,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p002_img01.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 195,
       "alto_px": 49,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 127,
       "alto_px": 146,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img03.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 125,
       "alto_px": 131,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img04.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 126,
       "alto_px": 129,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p005_img02.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 127,
       "alto_px": 81,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p005_img03.png",
@@ -124,7 +140,9 @@
       ],
       "ancho_px": 58,
       "alto_px": 58,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p010_img01.png",
@@ -138,7 +156,9 @@
       ],
       "ancho_px": 195,
       "alto_px": 50,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     },
     {
       "archivo": "imagenes/p010_img02.png",
@@ -152,7 +172,9 @@
       ],
       "ancho_px": 1190,
       "alto_px": 304,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     }
   ],
   "duplicadas_no_guardadas": [

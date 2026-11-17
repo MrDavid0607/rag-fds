@@ -12,7 +12,9 @@
       ],
       "ancho_px": 144,
       "alto_px": 218,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 3,
+      "seccion_nombre": "Composición / información sobre los componentes"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 122,
       "alto_px": 128,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p005_img02.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 56,
       "alto_px": 54,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p005_img03.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 55,
       "alto_px": 55,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p011_img02.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 1062,
       "alto_px": 218,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     }
   ],
   "duplicadas_no_guardadas": []

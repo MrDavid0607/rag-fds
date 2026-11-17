@@ -12,7 +12,9 @@
       ],
       "ancho_px": 143,
       "alto_px": 100,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p002_img01.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 143,
       "alto_px": 99,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 4,
+      "seccion_nombre": "Primeros auxilios"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 91,
       "alto_px": 119,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img03.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 79,
       "alto_px": 94,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img04.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 72,
       "alto_px": 70,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img05.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 94,
       "alto_px": 113,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p005_img01.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 142,
       "alto_px": 99,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p009_img01.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 141,
       "alto_px": 99,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     }
   ],
   "duplicadas_no_guardadas": [

@@ -12,7 +12,9 @@
       ],
       "ancho_px": 171,
       "alto_px": 73,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p001_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 74,
       "alto_px": 73,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 1,
+      "seccion_nombre": "Identificación del producto y de la empresa"
     },
     {
       "archivo": "imagenes/p001_img03.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 57,
       "alto_px": 57,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 1,
+      "seccion_nombre": "Identificación del producto y de la empresa"
     },
     {
       "archivo": "imagenes/p001_img04.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 57,
       "alto_px": 59,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 1,
+      "seccion_nombre": "Identificación del producto y de la empresa"
     },
     {
       "archivo": "imagenes/p001_img05.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 65,
       "alto_px": 66,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 1,
+      "seccion_nombre": "Identificación del producto y de la empresa"
     },
     {
       "archivo": "imagenes/p001_img06.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 58,
       "alto_px": 55,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 1,
+      "seccion_nombre": "Identificación del producto y de la empresa"
     },
     {
       "archivo": "imagenes/p005_img02.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 125,
       "alto_px": 128,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p006_img02.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 77,
       "alto_px": 119,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p006_img03.png",
@@ -124,7 +140,9 @@
       ],
       "ancho_px": 92,
       "alto_px": 110,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p006_img04.png",
@@ -138,7 +156,9 @@
       ],
       "ancho_px": 55,
       "alto_px": 55,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p006_img05.png",
@@ -152,7 +172,9 @@
       ],
       "ancho_px": 61,
       "alto_px": 77,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p009_img02.png",
@@ -166,7 +188,9 @@
       ],
       "ancho_px": 73,
       "alto_px": 42,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 12,
+      "seccion_nombre": "Información ecológica"
     },
     {
       "archivo": "imagenes/p010_img02.png",
@@ -180,7 +204,9 @@
       ],
       "ancho_px": 69,
       "alto_px": 62,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p011_img02.png",
@@ -194,7 +220,9 @@
       ],
       "ancho_px": 121,
       "alto_px": 122,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p011_img03.png",
@@ -208,7 +236,9 @@
       ],
       "ancho_px": 121,
       "alto_px": 121,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p011_img04.png",
@@ -222,7 +252,9 @@
       ],
       "ancho_px": 120,
       "alto_px": 122,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 15,
+      "seccion_nombre": "Información reglamentaria"
     },
     {
       "archivo": "imagenes/p013_img01.png",
@@ -236,7 +268,9 @@
       ],
       "ancho_px": 169,
       "alto_px": 72,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 15,
+      "seccion_nombre": "Información reglamentaria"
     }
   ],
   "duplicadas_no_guardadas": [

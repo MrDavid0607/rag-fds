@@ -12,7 +12,9 @@
       ],
       "ancho_px": 142,
       "alto_px": 99,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p003_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 59,
       "alto_px": 44,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 85,
       "alto_px": 114,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img03.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 124,
       "alto_px": 129,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img04.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 131,
       "alto_px": 77,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img05.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 58,
       "alto_px": 77,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p005_img01.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 141,
       "alto_px": 99,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p009_img01.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 141,
       "alto_px": 98,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     },
     {
       "archivo": "imagenes/p009_img02.png",
@@ -124,7 +140,9 @@
       ],
       "ancho_px": 950,
       "alto_px": 90,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     }
   ],
   "duplicadas_no_guardadas": [

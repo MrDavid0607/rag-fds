@@ -12,7 +12,9 @@
       ],
       "ancho_px": 57,
       "alto_px": 57,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img03.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 57,
       "alto_px": 58,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img04.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 57,
       "alto_px": 57,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img05.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 84,
       "alto_px": 85,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img06.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 86,
       "alto_px": 86,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img07.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 87,
       "alto_px": 86,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img08.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 82,
       "alto_px": 83,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img09.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 222,
       "alto_px": 275,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img10.png",
@@ -124,7 +140,9 @@
       ],
       "ancho_px": 58,
       "alto_px": 56,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p002_img02.png",
@@ -138,7 +156,9 @@
       ],
       "ancho_px": 358,
       "alto_px": 87,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p003_img02.png",
@@ -152,7 +172,9 @@
       ],
       "ancho_px": 357,
       "alto_px": 87,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 6,
+      "seccion_nombre": "Medidas en caso de vertido accidental"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -166,7 +188,9 @@
       ],
       "ancho_px": 87,
       "alto_px": 86,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 7,
+      "seccion_nombre": "Manipulación y almacenamiento"
     },
     {
       "archivo": "imagenes/p005_img02.png",
@@ -180,7 +204,9 @@
       ],
       "ancho_px": 358,
       "alto_px": 88,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p006_img02.png",
@@ -194,7 +220,9 @@
       ],
       "ancho_px": 123,
       "alto_px": 128,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p006_img03.png",
@@ -208,7 +236,9 @@
       ],
       "ancho_px": 357,
       "alto_px": 88,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p007_img03.png",
@@ -222,7 +252,9 @@
       ],
       "ancho_px": 105,
       "alto_px": 98,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p007_img04.png",
@@ -236,7 +268,9 @@
       ],
       "ancho_px": 71,
       "alto_px": 69,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p007_img05.png",
@@ -250,7 +284,9 @@
       ],
       "ancho_px": 74,
       "alto_px": 71,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p007_img06.png",
@@ -264,7 +300,9 @@
       ],
       "ancho_px": 56,
       "alto_px": 55,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p007_img08.png",
@@ -278,7 +316,9 @@
       ],
       "ancho_px": 54,
       "alto_px": 60,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p008_img03.png",
@@ -292,7 +332,9 @@
       ],
       "ancho_px": 86,
       "alto_px": 86,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 10,
+      "seccion_nombre": "Estabilidad y reactividad"
     },
     {
       "archivo": "imagenes/p008_img05.png",
@@ -306,7 +348,9 @@
       ],
       "ancho_px": 81,
       "alto_px": 83,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 10,
+      "seccion_nombre": "Estabilidad y reactividad"
     },
     {
       "archivo": "imagenes/p009_img02.png",
@@ -320,7 +364,9 @@
       ],
       "ancho_px": 357,
       "alto_px": 88,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 11,
+      "seccion_nombre": "Información toxicológica"
     },
     {
       "archivo": "imagenes/p015_img02.png",
@@ -334,7 +380,9 @@
       ],
       "ancho_px": 121,
       "alto_px": 122,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p015_img03.png",
@@ -348,7 +396,9 @@
       ],
       "ancho_px": 122,
       "alto_px": 120,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p015_img04.png",
@@ -362,7 +412,9 @@
       ],
       "ancho_px": 242,
       "alto_px": 216,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p015_img06.png",
@@ -376,7 +428,9 @@
       ],
       "ancho_px": 403,
       "alto_px": 220,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p016_img02.png",
@@ -390,7 +444,9 @@
       ],
       "ancho_px": 121,
       "alto_px": 121,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p018_img02.png",
@@ -404,7 +460,9 @@
       ],
       "ancho_px": 1107,
       "alto_px": 516,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     }
   ],
   "duplicadas_no_guardadas": [

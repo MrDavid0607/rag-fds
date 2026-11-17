@@ -12,7 +12,9 @@
       ],
       "ancho_px": 151,
       "alto_px": 131,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p002_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 103,
       "alto_px": 106,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p002_img03.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 104,
       "alto_px": 105,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p002_img04.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 104,
       "alto_px": 102,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p002_img05.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 102,
       "alto_px": 105,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p003_img01.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 151,
       "alto_px": 132,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p012_img02.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 383,
       "alto_px": 239,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     },
     {
       "archivo": "imagenes/p012_img03.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 372,
       "alto_px": 203,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 16,
+      "seccion_nombre": "Otra información"
     }
   ],
   "duplicadas_no_guardadas": [

@@ -12,7 +12,9 @@
       ],
       "ancho_px": 342,
       "alto_px": 46,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p001_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 98,
       "alto_px": 99,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img04.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 99,
       "alto_px": 97,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img05.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 97,
       "alto_px": 98,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img06.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 99,
       "alto_px": 97,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p012_img01.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 75,
       "alto_px": 75,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p012_img02.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 73,
       "alto_px": 75,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p012_img03.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 74,
       "alto_px": 74,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     },
     {
       "archivo": "imagenes/p012_img04.png",
@@ -124,7 +140,9 @@
       ],
       "ancho_px": 73,
       "alto_px": 75,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     }
   ],
   "duplicadas_no_guardadas": []

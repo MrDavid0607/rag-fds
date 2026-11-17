@@ -12,7 +12,9 @@
       ],
       "ancho_px": 218,
       "alto_px": 77,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p001_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 101,
       "alto_px": 103,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img03.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 101,
       "alto_px": 104,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p008_img01.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 65,
       "alto_px": 80,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 13,
+      "seccion_nombre": "Consideraciones relativas a la eliminación"
     },
     {
       "archivo": "imagenes/p008_img02.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 67,
       "alto_px": 64,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 13,
+      "seccion_nombre": "Consideraciones relativas a la eliminación"
     },
     {
       "archivo": "imagenes/p008_img03.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 67,
       "alto_px": 63,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 14,
+      "seccion_nombre": "Información relativa al transporte"
     }
   ],
   "duplicadas_no_guardadas": []

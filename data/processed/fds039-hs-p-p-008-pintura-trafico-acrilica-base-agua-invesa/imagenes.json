@@ -12,7 +12,9 @@
       ],
       "ancho_px": 194,
       "alto_px": 84,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p002_img01.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 195,
       "alto_px": 84,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 3,
+      "seccion_nombre": "Composición / información sobre los componentes"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 71,
       "alto_px": 71,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img03.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 70,
       "alto_px": 70,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img04.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 121,
       "alto_px": 127,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img05.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 70,
       "alto_px": 73,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img06.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 91,
       "alto_px": 112,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p005_img02.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 58,
       "alto_px": 78,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     }
   ],
   "duplicadas_no_guardadas": [

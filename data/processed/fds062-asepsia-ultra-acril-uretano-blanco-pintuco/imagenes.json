@@ -12,7 +12,9 @@
       ],
       "ancho_px": 142,
       "alto_px": 99,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p004_img01.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 141,
       "alto_px": 99,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 95,
       "alto_px": 115,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img03.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 76,
       "alto_px": 115,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img04.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 71,
       "alto_px": 75,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p005_img02.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 360,
       "alto_px": 85,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p005_img03.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 59,
       "alto_px": 73,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p008_img01.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 141,
       "alto_px": 98,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 11,
+      "seccion_nombre": "Información toxicológica"
     },
     {
       "archivo": "imagenes/p008_img02.png",
@@ -124,7 +140,9 @@
       ],
       "ancho_px": 949,
       "alto_px": 85,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 12,
+      "seccion_nombre": "Información ecológica"
     },
     {
       "archivo": "imagenes/p009_img01.png",
@@ -138,7 +156,9 @@
       ],
       "ancho_px": 142,
       "alto_px": 98,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 12,
+      "seccion_nombre": "Información ecológica"
     },
     {
       "archivo": "imagenes/p010_img01.png",
@@ -152,7 +172,9 @@
       ],
       "ancho_px": 140,
       "alto_px": 98,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 15,
+      "seccion_nombre": "Información reglamentaria"
     }
   ],
   "duplicadas_no_guardadas": [

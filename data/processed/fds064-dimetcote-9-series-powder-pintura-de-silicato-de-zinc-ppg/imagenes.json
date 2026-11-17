@@ -12,7 +12,9 @@
       ],
       "ancho_px": 135,
       "alto_px": 105,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p002_img01.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 98,
       "alto_px": 98,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     }
   ],
   "duplicadas_no_guardadas": []

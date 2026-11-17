@@ -12,7 +12,9 @@
       ],
       "ancho_px": 197,
       "alto_px": 97,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p001_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 82,
       "alto_px": 80,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p001_img06.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 281,
       "alto_px": 141,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img07.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 43,
       "alto_px": 45,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img08.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 136,
       "alto_px": 135,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img09.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 134,
       "alto_px": 132,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 4,
+      "seccion_nombre": "Primeros auxilios"
     },
     {
       "archivo": "imagenes/p001_img10.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 134,
       "alto_px": 136,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 4,
+      "seccion_nombre": "Primeros auxilios"
     },
     {
       "archivo": "imagenes/p001_img11.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 142,
       "alto_px": 135,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 4,
+      "seccion_nombre": "Primeros auxilios"
     },
     {
       "archivo": "imagenes/p001_img12.png",
@@ -124,7 +140,9 @@
       ],
       "ancho_px": 137,
       "alto_px": 137,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 4,
+      "seccion_nombre": "Primeros auxilios"
     },
     {
       "archivo": "imagenes/p002_img01.png",
@@ -138,7 +156,9 @@
       ],
       "ancho_px": 198,
       "alto_px": 97,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 4,
+      "seccion_nombre": "Primeros auxilios"
     },
     {
       "archivo": "imagenes/p002_img02.png",
@@ -152,7 +172,9 @@
       ],
       "ancho_px": 81,
       "alto_px": 78,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 4,
+      "seccion_nombre": "Primeros auxilios"
     },
     {
       "archivo": "imagenes/p002_img04.png",
@@ -166,7 +188,9 @@
       ],
       "ancho_px": 47,
       "alto_px": 41,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 5,
+      "seccion_nombre": "Medidas de lucha contra incendios"
     },
     {
       "archivo": "imagenes/p002_img05.png",
@@ -180,7 +204,9 @@
       ],
       "ancho_px": 48,
       "alto_px": 41,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 6,
+      "seccion_nombre": "Medidas en caso de vertido accidental"
     },
     {
       "archivo": "imagenes/p003_img01.png",
@@ -194,7 +220,9 @@
       ],
       "ancho_px": 200,
       "alto_px": 97,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p003_img02.png",
@@ -208,7 +236,9 @@
       ],
       "ancho_px": 82,
       "alto_px": 79,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p003_img03.png",
@@ -222,7 +252,9 @@
       ],
       "ancho_px": 40,
       "alto_px": 41,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     },
     {
       "archivo": "imagenes/p003_img04.png",
@@ -236,7 +268,9 @@
       ],
       "ancho_px": 46,
       "alto_px": 40,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 10,
+      "seccion_nombre": "Estabilidad y reactividad"
     },
     {
       "archivo": "imagenes/p003_img05.png",
@@ -250,7 +284,9 @@
       ],
       "ancho_px": 48,
       "alto_px": 44,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 11,
+      "seccion_nombre": "Información toxicológica"
     },
     {
       "archivo": "imagenes/p003_img06.png",
@@ -264,7 +300,9 @@
       ],
       "ancho_px": 45,
       "alto_px": 42,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 12,
+      "seccion_nombre": "Información ecológica"
     },
     {
       "archivo": "imagenes/p003_img07.png",
@@ -278,7 +316,9 @@
       ],
       "ancho_px": 40,
       "alto_px": 44,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 13,
+      "seccion_nombre": "Consideraciones relativas a la eliminación"
     },
     {
       "archivo": "imagenes/p004_img01.png",
@@ -292,7 +332,9 @@
       ],
       "ancho_px": 197,
       "alto_px": 98,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 15,
+      "seccion_nombre": "Información reglamentaria"
     }
   ],
   "duplicadas_no_guardadas": [

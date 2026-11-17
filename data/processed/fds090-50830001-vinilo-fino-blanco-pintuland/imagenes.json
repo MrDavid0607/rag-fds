@@ -12,7 +12,9 @@
       ],
       "ancho_px": 144,
       "alto_px": 219,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 3,
+      "seccion_nombre": "Composición / información sobre los componentes"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 122,
       "alto_px": 127,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img03.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 931,
       "alto_px": 136,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     }
   ],
   "duplicadas_no_guardadas": []

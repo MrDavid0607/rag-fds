@@ -12,7 +12,9 @@
       ],
       "ancho_px": 56,
       "alto_px": 58,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img03.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 86,
       "alto_px": 86,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 3,
+      "seccion_nombre": "Composición / información sobre los componentes"
     },
     {
       "archivo": "imagenes/p003_img02.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 86,
       "alto_px": 86,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 7,
+      "seccion_nombre": "Manipulación y almacenamiento"
     },
     {
       "archivo": "imagenes/p004_img02.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 125,
       "alto_px": 145,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p004_img03.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 123,
       "alto_px": 125,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p005_img02.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 119,
       "alto_px": 103,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p005_img03.png",
@@ -96,7 +108,9 @@
       ],
       "ancho_px": 54,
       "alto_px": 56,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 8,
+      "seccion_nombre": "Controles de exposición / protección personal"
     },
     {
       "archivo": "imagenes/p005_img05.png",
@@ -110,7 +124,9 @@
       ],
       "ancho_px": 53,
       "alto_px": 65,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 9,
+      "seccion_nombre": "Propiedades físicas y químicas"
     }
   ],
   "duplicadas_no_guardadas": [

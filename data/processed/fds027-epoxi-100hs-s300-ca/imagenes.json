@@ -12,7 +12,9 @@
       ],
       "ancho_px": 218,
       "alto_px": 77,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 0,
+      "seccion_nombre": "Encabezado del documento"
     },
     {
       "archivo": "imagenes/p001_img02.png",
@@ -26,7 +28,9 @@
       ],
       "ancho_px": 92,
       "alto_px": 89,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img03.png",
@@ -40,7 +44,9 @@
       ],
       "ancho_px": 89,
       "alto_px": 90,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p001_img04.png",
@@ -54,7 +60,9 @@
       ],
       "ancho_px": 91,
       "alto_px": 90,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 2,
+      "seccion_nombre": "Identificación de peligros"
     },
     {
       "archivo": "imagenes/p007_img01.png",
@@ -68,7 +76,9 @@
       ],
       "ancho_px": 73,
       "alto_px": 61,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 13,
+      "seccion_nombre": "Consideraciones relativas a la eliminación"
     },
     {
       "archivo": "imagenes/p007_img02.png",
@@ -82,7 +92,9 @@
       ],
       "ancho_px": 74,
       "alto_px": 60,
-      "relacion_con_tabla": null
+      "relacion_con_tabla": null,
+      "seccion_num": 15,
+      "seccion_nombre": "Información reglamentaria"
     }
   ],
   "duplicadas_no_guardadas": []
