@@ -224,3 +224,4 @@ Pasos internos de Faithfulness (el evaluador genera las afirmaciones en inglés)
 - **Revisión del autor** — exactitud de la respuesta:  ☐ correcta  ☐ parcial  ☐ incorrecta
 - Citas (cada [n] apunta a la página y sección correctas del PDF):  ☐ todas  ☐ algunas incorrectas  ☐ ninguna
 - Observaciones: 
+

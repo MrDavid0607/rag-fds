@@ -53,7 +53,7 @@ Guía original: `docs/guia/RAG_FDS.pdf`. Resumen de arquitectura, decisiones y r
 | Guardar por pregunta y configuración: `user_input`, `retrieved_contexts` (en orden), `response`, `reference`, fuentes, puntuaciones | Esos campos en los CSV/JSON anteriores (más errores y tiempos) | ✅ |
 | Resultados por pregunta, promedios por métrica y número de casos válidos; fallos como tales | `eval/resumen.csv`; el fallo de e09 está como `NaN` con su mensaje de error | ✅ |
 | Evaluador local probado primero con 2 casos; versiones y parámetros; el mismo en ambas | `eval/pilotos_evaluador.json` → `eval/piloto_evaluador.json`; `docs/evaluacion_ragas.md` (RAGAS 0.4.4, `llama3.1:8b`, temperatura 0, `num_ctx` 8 192, 1 trabajador) | ✅ |
-| Revisión por separado de las 2 sin respuesta y de 3 respondibles (incluidas las de menor puntuación); exactitud y citas contra el PDF | `eval/revision_manual.md` y `eval/revision_manual/index.html` (plantilla y datos); `eval/revision_asistida_ia.md` (revisión contra el PDF hecha con IA) | ⏳ |
+| Revisión por separado de las 2 sin respuesta y de 3 respondibles (incluidas las de menor puntuación); exactitud y citas contra el PDF | `eval/revision_manual.md` y `eval/revision_manual/index.html` (plantilla y datos); `eval/revision_manual_resultados_autor.md` (**revisión manual del autor**: exactitud de las 10 respuestas; citas marcadas solo en e09 top-k 3) y `eval/revision_asistida_ia.md` (segunda lectura con IA, con discrepancias) | ⚠️ |
 | Justificar la configuración elegida y explicar los errores | `eval/analisis_resultados.md` (errores por causa; se elige top-k 6; «comparación didáctica, no prueba general») | ✅ |
 
 ## Entregables y presentación (documentación y demostración, 10 %)
@@ -67,6 +67,6 @@ Guía original: `docs/guia/RAG_FDS.pdf`. Resumen de arquitectura, decisiones y r
 | 5. Demostración funcional y explicación de decisiones | `app/demo.py`, `informe/guion_demo.md` (con preguntas probables del docente) | ✅ |
 
 ## Lo que NO se hizo y por qué
-- **La verificación humana de los 5 casos analizados** (e04, e07, e09, e11, e12): solo existe la revisión asistida por IA. **La verificación humana de la extracción cubre 24 de 101 fichas** (el resto, revisión automática de todas sus tablas).
+- **La correspondencia de las citas con el PDF en los 5 casos** (e04, e07, e09, e11, e12): el autor valoró la exactitud de las respuestas pero marcó las citas solo en e09 top-k 3; para el resto solo existe la lectura asistida por IA. **La verificación humana de la extracción cubre 24 de 101 fichas** (el resto, revisión automática de todas sus tablas).
 - **No se corrigieron** los problemas de extracción hallados (p. ej. códigos de peligro perdidos en la FDS 31, pág. 2; íconos leídos como ideogramas); están documentados como limitaciones.
 - **Los PDF originales no están en el repositorio** (`data/raw/` en `.gitignore`); los Markdown y las imágenes extraídas sí.

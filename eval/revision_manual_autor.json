@@ -1,0 +1,52 @@
+{
+  "e11_topk3": {
+    "ex": "correcta",
+    "ci": "",
+    "o": ""
+  },
+  "e11_topk6": {
+    "ex": "correcta",
+    "ci": "",
+    "o": ""
+  },
+  "e12_topk3": {
+    "ex": "correcta",
+    "ci": "",
+    "o": ""
+  },
+  "e12_topk6": {
+    "ex": "correcta",
+    "ci": "",
+    "o": ""
+  },
+  "e04_topk3": {
+    "ex": "correcta",
+    "ci": "",
+    "o": ""
+  },
+  "e04_topk6": {
+    "ex": "parcial",
+    "ci": "",
+    "o": ""
+  },
+  "e07_topk3": {
+    "ex": "parcial",
+    "ci": "",
+    "o": ""
+  },
+  "e07_topk6": {
+    "ex": "parcial",
+    "ci": "",
+    "o": ""
+  },
+  "e09_topk3": {
+    "ex": "incorrecta",
+    "ci": "todas_ok",
+    "o": ""
+  },
+  "e09_topk6": {
+    "ex": "incorrecta",
+    "ci": "",
+    "o": ""
+  }
+}
