@@ -19,6 +19,7 @@ documento · página · sección), avisa cuando la evidencia no alcanza y se eva
 | La verificación de la extracción y sus errores | `verificacion/` (`errores_extraccion.md`, `secciones.csv`, `verificacion_extraccion.csv`, `revision_asistida_ia.md`) |
 | Las 12 preguntas, resultados top-k 3 vs 6 y su análisis | `eval/` (`preguntas.json`, `resultados_topk{3,6}.csv`, `resumen.csv`, `analisis_resultados.md`) |
 | Cómo funciona el RAG y sus parámetros | [`docs/rag_diseno.md`](docs/rag_diseno.md) · `config/` · `src/rag_fds/` |
+| Diagramas del flujo y fórmula de búsqueda | [`docs/diagramas.md`](docs/diagramas.md) |
 | Hardware, tiempos y costo | `metricas/` |
 
 **Ejecutar solo el RAG y la demo (sin los PDF ni la extracción):** los Markdown ya están en `data/processed/`. Instala `requirements-rag.txt`, baja `bge-m3` y `qwen2.5:7b-instruct` con Ollama, y corre `python -m rag_fds.chunking && python -m rag_fds.indice` (≈ 5 min) y luego `streamlit run app/demo.py` (ver §2, pasos 4 y 5). El índice no se sube al repositorio porque se regenera.
