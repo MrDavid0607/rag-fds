@@ -1,4 +1,4 @@
-﻿# RAG con Fichas de Datos de Seguridad (FDS)
+# RAG con Fichas de Datos de Seguridad (FDS)
 
 Parcial final de Procesamiento de Lenguaje Natural — Universidad Sergio Arboleda, 2026 S02.
 
@@ -29,12 +29,12 @@ Las FDS son documentos de sus fabricantes (Pintuco, Corona, PPG, Pintuland, INVE
 - [x] Fase 0 — Entorno, cuentas y plan
 - [x] Fase 1 — Infraestructura en AWS (EC2 `r5.large` + Ollama); la inferencia se movió al PC con GPU (ver §1)
 - [x] Fase 2 — Extracción PDF → Markdown (101 fichas)
-- [~] Fase 3 — Secciones y verificación de la extracción (comprobación automática de las 1 248 tablas y revisión asistida por IA hechas, `verificacion/revision_asistida_ia.md`; **falta la verificación humana del autor**)
+- [x] Fase 3 — Secciones y verificación de la extracción (método mixto: comprobación automática de las 1 248 tablas + revisión asistida por IA + **verificación visual del autor en 24 fichas**: 13 coinciden y 11 con errores; ver `verificacion/errores_extraccion.md`)
 - [~] Fase 4 — RAG con trazabilidad (funcional; falta que el autor valide las citas de la demo)
 - [x] Fase 5 — 12 preguntas de evaluación (evidencia literal comprobada automáticamente contra el PDF; **verificadas por el autor el 2026-11-17**, registro exportado en `eval/verificacion_preguntas_autor.json`)
 - [x] Fase 6 — Evaluación con RAGAS (top-k 3 vs 6; v1 y v2). Las referencias se verificaron después de la corrida y el autor las aprobó sin cambios, por lo que los resultados no se repitieron
 - [~] Fase 7 — Revisión manual y análisis (revisión asistida por IA hecha, `eval/revision_asistida_ia.md`; **falta la confirmación del autor**)
-- [x] Fase 8 — Documentación, informe y cierre (README, informe de 2 páginas, guion de demo y barrido de credenciales hechos; **cierre sin la verificación humana de la extracción ni de los 5 casos analizados**, por decisión del autor)
+- [x] Fase 8 — Documentación, informe y cierre (README, informe de 2 páginas, guion de demo y barrido de credenciales hechos; la verificación humana cubre las 12 referencias y 24 fichas de la extracción; **los 5 casos analizados solo tienen revisión asistida por IA**)
 
 ## 1. Arquitectura
 
@@ -175,6 +175,6 @@ metricas/     hardware, tiempos y consumo               docs/          guía del
 ## 9. Uso de herramientas de IA
 
 Se usó **Claude Code** como apoyo para escribir código, scripts de infraestructura, documentación y análisis. Los autores deben verificar y poder explicar el código y las decisiones; las verificaciones contra los PDF (tablas, referencias,
-citas) son manuales y están registradas como tales. Las referencias de las 12 preguntas las redactó el asistente; su evidencia está comprobada **automáticamente** contra el texto del PDF y el autor las verificó el 2026-11-17 con `eval/revision_preguntas/index.html` (12 de 12 «verificada», sin observaciones; `eval/verificacion_preguntas_autor.json`). La evaluación se había corrido antes de esa verificación (con las preguntas marcadas `true` por una declaración que se retiró y luego se confirmó); como no hubo cambios, los resultados siguen vigentes. La **revisión de la extracción** y de **los casos analizados** se hizo con asistencia de IA (`verificacion/revision_asistida_ia.md`, `eval/revision_asistida_ia.md`); la columna `verificado_por_autor` y las casillas de `eval/revision_manual.md` las llena el autor y, mientras estén vacías, esa verificación humana **no está hecha**.
+citas) son manuales y están registradas como tales. Las referencias de las 12 preguntas las redactó el asistente; su evidencia está comprobada **automáticamente** contra el texto del PDF y el autor las verificó el 2026-11-17 con `eval/revision_preguntas/index.html` (12 de 12 «verificada», sin observaciones; `eval/verificacion_preguntas_autor.json`). La evaluación se había corrido antes de esa verificación (con las preguntas marcadas `true` por una declaración que se retiró y luego se confirmó); como no hubo cambios, los resultados siguen vigentes. La **extracción** se verificó con un método mixto (automático en las 1 248 tablas + asistido por IA + verificación visual del autor en 24 fichas; `verificacion/errores_extraccion.md`); los **5 casos analizados** solo tienen revisión asistida por IA (`eval/revision_asistida_ia.md`): las casillas de `eval/revision_manual.md` las llena el autor y, mientras estén vacías, esa verificación humana **no está hecha**.
 
 

@@ -10,7 +10,7 @@ Guía original: `docs/guia/RAG_FDS.pdf`. Resumen de arquitectura, decisiones y r
 | Procesar e incorporar **las 101 FDS**, registrando procedencia y versión | `data/processed/<doc_id>/` (101 carpetas con `documento.md`, `imagenes/`, `imagenes.json`, `meta.json`). `meta.json`: archivo original, carpeta/año, sha256, fabricante, producto, versión, fecha, páginas, herramienta. Versión sin dato en 17 fichas y fabricante en 15: se dejan vacíos con nota (`verificacion/metadatos.csv`), nunca se infieren | ⚠️ |
 | Pipeline PDF → Markdown | `src/rag_fds/extraccion.py` (Docling 2.150.1 + RapidOCR); métricas en `metricas/extraccion_resumen.md` (≈ 40 min, 0 fallos) | ✅ |
 | Preservar títulos, tablas, listas, notas, unidades y referencias | Marcas `<!-- pagina: N -->` y tablas en Markdown; limitaciones en `verificacion/errores_extraccion.md` (18 hallazgos) | ⚠️ |
-| Verificar contra cada PDF al menos una tabla o bloque y **registrar errores** | `verificacion/verificacion_extraccion.csv` (101 fichas: tabla elegida, resultado automático, diferencias); `verificacion/revision/` (PDF al lado del Markdown, 6 tandas de 20); `verificacion/revision_asistida_ia.md` (comprobación de las **1 248 tablas** + inspección visual); errores en `errores_extraccion.md` (p. ej. FDS 31 pág. 2). La columna `verificado_por_autor` está vacía | ⏳ |
+| Verificar contra cada PDF al menos una tabla o bloque y **registrar errores** | `verificacion/verificacion_extraccion.csv` (101 fichas: tabla elegida, resultado automático, diferencias); `verificacion/revision/` (PDF al lado del Markdown, 6 tandas de 20); `verificacion/revision_asistida_ia.md` (comprobación de las **1 248 tablas** + inspección visual); errores en `errores_extraccion.md` (p. ej. FDS 31 pág. 2). **Verificación humana del autor en 24 de las 101 fichas** (las 14 con hallazgos + 10 al azar): 13 coinciden y 11 con errores (`verificacion_extraccion.csv`, `errores_extraccion.md`); las otras 77 solo tienen la revisión automática | ⚠️ |
 | Identificar las secciones presentes entre las 16; distinguir ausentes de fallos de extracción; sin inferir | `verificacion/secciones.csv` (1 616 filas: 1 612 presentes, 4 fallos de extracción, 0 ausentes) y `src/rag_fds/secciones.py` | ✅ |
 
 ## Imágenes y trazabilidad
@@ -61,12 +61,12 @@ Guía original: `docs/guia/RAG_FDS.pdf`. Resumen de arquitectura, decisiones y r
 | Entregable | Archivo | Estado |
 |---|---|---|
 | 1. Repositorio con código, dependencias y README | <https://github.com/MrDavid0607/rag-fds> (público) | ✅ |
-| 2. Markdown y recursos de todas las FDS con evidencia de verificación | `data/processed/`, `verificacion/` | ⏳ (ver arriba) |
+| 2. Markdown y recursos de todas las FDS con evidencia de verificación | `data/processed/`, `verificacion/` | ⚠️ (método mixto; ver arriba) |
 | 3. Script de evaluación, preguntas y resultados en CSV/JSON | `src/rag_fds/evaluacion.py`, `scripts/correr_evaluacion.ps1`, `eval/` | ✅ |
 | 4. Informe de máximo 2 páginas | `informe/informe.pdf` (fuente `informe/informe.md`) | ✅ |
 | 5. Demostración funcional y explicación de decisiones | `app/demo.py`, `informe/guion_demo.md` (con preguntas probables del docente) | ✅ |
 
 ## Lo que NO se hizo y por qué
-- **La verificación humana de la extracción y de los 5 casos analizados**: solo existe la revisión automática y asistida por IA, descrita arriba. Es lo único que impide marcar todo como ✅.
+- **La verificación humana de los 5 casos analizados** (e04, e07, e09, e11, e12): solo existe la revisión asistida por IA. **La verificación humana de la extracción cubre 24 de 101 fichas** (el resto, revisión automática de todas sus tablas).
 - **No se corrigieron** los problemas de extracción hallados (p. ej. códigos de peligro perdidos en la FDS 31, pág. 2; íconos leídos como ideogramas); están documentados como limitaciones.
 - **Los PDF originales no están en el repositorio** (`data/raw/` en `.gitignore`); los Markdown y las imágenes extraídas sí.

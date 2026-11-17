@@ -44,6 +44,25 @@ página, que cada palabra de las celdas exista allí, y que no falten números d
 **Límite:** `OK` no significa "verificado". El pre-chequeo no ve valores presentes pero en la celda equivocada, columnas intercambiadas
 ni filas mezcladas; eso solo lo detecta la revisión humana. La columna `verificado_por_autor` está **vacía** y la llena el autor.
 
+## Verificación humana de la extracción (muestra de 24 fichas, 2026-11-17)
+
+**Método mixto, declarado como tal.** (1) El 100 % de las tablas de las 101 fichas (1 248) se comprobó automáticamente contra el texto del PDF y se revisó con asistencia de IA (`revision_asistida_ia.md`).
+(2) El **autor verificó visualmente 24 fichas** con `verificacion/revision_muestra/index.html`: las 14 con hallazgos reales de la IA y 10 al azar (semilla 7). Registro exportado: `verificacion/verificacion_extraccion_muestra_autor.json`;
+volcado en `verificacion_extraccion.csv` (columnas `verificado_por_autor`, `errores_encontrados`, `observaciones`). Las otras 77 fichas **no** tienen verificación humana.
+
+| Resultado del autor | Fichas |
+|---|---|
+| **Coincide** (13) | FDS 7, 21, 23, 27, 34, 42, 49, 54, 58, 60, 70, 75, 99 |
+| **Tiene errores** (11) | FDS 10 («falta protección del cuerpo y pies y ducha de emergencia»), 31 («faltan códigos y número en nafta»), 68, 76, 91 («símbolo raro en vez de %»), 89 («símbolos raros adicionales»), 94 («confunde íconos con símbolos raros»), 11, 81 y 87 (sin descripción), 15 («no hay markdown») |
+
+Lectura (con las salvedades del caso):
+- **Coinciden con la revisión asistida por IA** 6 de las 14 fichas con hallazgos (FDS 10, 68, 76, 89, 91 y 94) más la FDS 31 (el autor marcó «ok» pero su nota describe el error; se registró `con_errores` por coherencia y queda por confirmar).
+- **Discrepancias:** en 7 fichas con hallazgo menor de la IA (FDS 21, 27, 34, 42, 60, 70, 75) el autor marcó «coincide» (texto basura de OCR o un ideograma que la IA sí vio). Son defectos de baja gravedad que el autor no consideró errores.
+- **FDS 10:** la IA ve el contenido de protección corporal y de pies y la ducha de emergencia, pero con los rótulos de los pictogramas mezclados en la misma fila; no ve filas ausentes.
+- **FDS 81 y 87:** el autor marcó errores sin describirlos; la IA comparó las tablas de composición de la pág. 3 con el PDF y coinciden fila a fila. El error visto no se pudo identificar. Lo mismo para la **FDS 11** (la IA solo ve celdas combinadas duplicadas).
+- **De las 10 fichas al azar, 4 quedaron con errores** (11, 15, 81, 87) y la revisión automática solo había señalado dos de ellas. Es una advertencia: **la revisión automática no sustituye la visual**, y la tasa de fichas con errores en la extracción podría ser mayor a la que sugiere el 3 % de tablas con hallazgos.
+- Pendiente (opcional): que el autor precise qué vio en las FDS 11, 81 y 87.
+
 ## Pendiente
 
 - Revisión manual del autor (6 tandas de 20 en `verificacion/revision/`).

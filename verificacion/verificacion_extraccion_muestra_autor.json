@@ -1,0 +1,98 @@
+{
+  "fds010-pintura-epoxi-poliamida-blanco-13243-10012925-10344427-hoja": {
+    "v": "con_errores",
+    "e": "falta protecion del cuerpo y pies y ducha de emergencia"
+  },
+  "fds021-pintura-para-trafico-acrilico-base-solvente-13722-10017277-1": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds027-epoxi-100hs-s300-ca": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds031-407141521-recubrimiento-antigraffiti-corona": {
+    "v": "ok",
+    "e": "faltan codigos y numero en nafta"
+  },
+  "fds034-pintulaca-rojo-claro-7587-pintuco": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds042-pintura-lavable-antibacterial-corona": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds060-primer-epoxico-poliamida-rojo-componente-a-pintuland": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds068-pintura-superlavable-zero-corona": {
+    "v": "con_errores",
+    "e": "simbolo raro en vez de %"
+  },
+  "fds070-esmalte-uretano-part-b-sika": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds075-pintura-alta-cobertura-corona": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds076-pintura-total-corona": {
+    "v": "con_errores",
+    "e": "simolo raro en vez de %"
+  },
+  "fds089-pintura-lavable-bio-corona": {
+    "v": "con_errores",
+    "e": "tiene simbolos raros adivionales"
+  },
+  "fds091-pintura-exteriores-corona": {
+    "v": "con_errores",
+    "e": "simbolo raro "
+  },
+  "fds094-esmalte-metal-master-premium-corona": {
+    "v": "con_errores",
+    "e": "confunde iconos con simbolos raros "
+  },
+  "fds007-pintutrafico-acrilico-base-solvente-mod-blanco-13754-1-g-101": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds011-ecosphere-premium": {
+    "v": "con_errores",
+    "e": ""
+  },
+  "fds015-impra": {
+    "v": "con_errores",
+    "e": "no hay markdown"
+  },
+  "fds023-tufcote-3-5-hh-aluminum": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds049-pintura-total-corona": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds054-2021-hs-p-p-024-esmalte-aqua-duty-invesa": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds058-esmalte-linea-dorada-aluminio-mezcla-pintuland": {
+    "v": "ok",
+    "e": ""
+  },
+  "fds081-topcoat-400-1772-negro-international-aksonobel": {
+    "v": "con_errores",
+    "e": ""
+  },
+  "fds087-esmalte-epoxico-part-a-sika": {
+    "v": "con_errores",
+    "e": ""
+  },
+  "fds099-topcoat-400-26015-aluminio-international-aksonobel": {
+    "v": "ok",
+    "e": ""
+  }
+}
