@@ -1,0 +1,12 @@
+[
+  {
+    "verdict": 1,
+    "statement": "The Sigmadur One Buff 3142 of PPG contains a percentage of titanium dioxide of 7 - <10%",
+    "reason": "The context explicitly mentions the composition of the Sigmadur One Buff 3142, including the percentage of titanium dioxide, which is 7 - <10%. Therefore, this statement can be directly inferred."
+  },
+  {
+    "verdict": 0,
+    "statement": "The CAS number of the Sigmadur One Buff 3142 of PPG is 13463-67-7",
+    "reason": "The context mentions the CAS number of Dióxido de titanio as 13463-67-7, but it does not explicitly mention the CAS number of the Sigmadur One Buff 3142. Therefore, this statement cannot be directly inferred."
+  }
+]

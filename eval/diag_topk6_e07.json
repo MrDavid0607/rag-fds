@@ -1,0 +1,12 @@
+[
+  {
+    "verdict": 0,
+    "statement": "The maximum storage time changes from 36 months in the 2019 version to 12 months in the 2021 version.",
+    "reason": "The context mentions that the maximum storage time is 12 months for the 2021 version, but it does not provide information about the 2019 version. Therefore, it cannot be deduced that the maximum storage time changes from 36 months in the 2019 version to 12 months in the 2021 version."
+  },
+  {
+    "verdict": 1,
+    "statement": "The density at 20 degrees Celsius is 1377.5 kg/m^3 in the 2021 version, while in the 2019 version it is 1371.4 kg/m^3.",
+    "reason": "The context explicitly mentions the density at 20 degrees Celsius for both the 2021 and 2019 versions, so it can be deduced that the statement is true."
+  }
+]

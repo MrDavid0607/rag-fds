@@ -1,0 +1,17 @@
+[
+  {
+    "verdict": 1,
+    "statement": "The Pintulaca Rojo Claro 7587 is classified by toxicity for reproduction.",
+    "reason": "The context mentions that the Pintulaca Rojo Claro 7587 can harm fertility or damage the fetus, which implies that it is classified by toxicity for reproduction."
+  },
+  {
+    "verdict": 1,
+    "statement": "The Pintulaca Rojo Claro 7587 can harm fertility or damage the fetus.",
+    "reason": "The context explicitly states that the Pintulaca Rojo Claro 7587 can harm fertility or damage the fetus."
+  },
+  {
+    "verdict": 1,
+    "statement": "The Esmalte Top Quality Negro 1772 is not classified by toxicity for reproduction.",
+    "reason": "The context does not mention the Esmalte Top Quality Negro 1772 being classified by toxicity for reproduction, but it does mention that it does not present substances classified as harmful with sensitizing effects, which implies that it is not classified by toxicity for reproduction."
+  }
+]
